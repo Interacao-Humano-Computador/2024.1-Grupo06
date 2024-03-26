@@ -3,7 +3,7 @@
 ## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|24/03/2024|24/03/2024|1.0|Criação do Documento|[Vinicius Vieira](https://github.com/viniciusvieira00)| XX |
+|20/03/2024|21/03/2024|1.0|Criação do Documento|[Arthur Alves Melo](https://github.com/Arthrok)|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|
 
 
 ## <a>Heatmap de quadro de indisponibilidade</a>
@@ -11,7 +11,7 @@ Neste documento está apresentado o quadro de disponibilidade dos integrantes do
 
 <center>
 
-<img src='https://github.com/Interacao-Humano-Computador/2024.1-Grupo06/blob/git-pages/assets/images/heatmap.png?raw=true'></img>
+<img src='https://github.com/Interacao-Humano-Computador/2024.1-Grupo01/blob/git-pages/assets/images/heatmap.png?raw=true'></img>
 
 *Figura 1 - Mapa de calor (Figura do autor, 2024)*
 <br><br>
@@ -22,7 +22,7 @@ Na figura 2 abaixo, a legenda esclarece que números superiores a zero indicam a
 
 <center>
 
-<img src='https://github.com/Interacao-Humano-Computador/2024.1-Grupo06/blob/git-pages/assets/images/legendaHeatmap.png?raw=true'></img><br>
+<img src='https://github.com/Interacao-Humano-Computador/2024.1-Grupo01/blob/git-pages/assets/images/legendaHeatmap.png?raw=true'></img><br>
 
 *Figura 2 - Legenda Heatmap  (Figura do autor, 2024)*
 
