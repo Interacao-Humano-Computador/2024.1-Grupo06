@@ -1,4 +1,4 @@
-# Ata de reunião Interação Humano-Computador - Grupo 01
+# Ata de reunião Interação Humano-Computador - Grupo 06
 
 Data:
 Horário:
