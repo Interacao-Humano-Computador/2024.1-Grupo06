@@ -87,4 +87,4 @@
 
 | Versão| Data | Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------- | -------- | -------- |
-| `1.0` | | | | |
+| `1.0` | 25/03/2024| | | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho |
