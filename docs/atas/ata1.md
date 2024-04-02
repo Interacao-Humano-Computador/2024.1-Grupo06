@@ -8,4 +8,4 @@ Local:
 
 | Versão| Data | Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------- | -------- | -------- |
-| `1.0` | | | | |
+| `1.0` | 25/03/2024 | Criação da primeira Ata | [Vinicius Vieira](https://github.com/viniciusvieira00) | . |
