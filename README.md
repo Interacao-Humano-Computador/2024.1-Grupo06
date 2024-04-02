@@ -21,8 +21,3 @@ Este espaço é dedicado à documentação de todos os artefatos gerados pelo Gr
     <td align="center"><a href="https://github.com/vitu-moreira"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/164962834?v=4" width="100px;" alt=""/><br /><sub><b>Víctor Moreira Almeida</b></sub></a><br />
   </tr>
 </table>
-
-## Histórico de versão
-
-| Versão| Data | Descrição  | Autor(es)  | Revisor(es) |
-| ------- | ------ | ------- | -------- | -------- |
