@@ -23,4 +23,5 @@ Este espaço é dedicado à documentação de todos os artefatos gerados pelo Gr
 ## Histórico de versão
 
 | Versão| Data | Descrição  | Autor(es)  | Revisor(es) |
-| ------- | ------ | ------- | -------- | -------- |
+| 1.0 | 25/03/2024 | ------- | Vinicius Vieira | -------- |
+| 1.1 | 01/04/2024 | ------- | Vinicius Vieira | -------- |
