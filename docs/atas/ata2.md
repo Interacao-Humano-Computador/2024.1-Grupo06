@@ -37,48 +37,48 @@
   - Microsoft Excel, Criação de planilhas e organização de horários e dados do projeto e dos integrantes.
 - Adicionar os membros dentro da página do Git Pages, direcionando corretamente para os devidos perfis no GitHub, cada um dos membros da equipe efetuará o planejamento e avaliação de um dos websites escolhido, e posteriormente colocará ele no git pages.
 - Decidimos efetuar novamente a seleção de websites, por alguns não se encaixarem:
-  - Atividade: Seleção de Websites
-  - Período de desenvolvimento: Início: Dia 25/03 e Término: Dia 01/04
-  - Local de realização: Online via Discord.
-  - Responsáveis: Daniel Coimbra
-  - Período da revisão: Dia 03/04 até o dia 04/04
-  - Revisores: Vinicius Vieira, Victor Almeida, Pedro Sena, Filipe Carvalho
+    - Atividade: Seleção de Websites
+    - Período de desenvolvimento: Início: Dia 25/03 e Término: Dia 01/04
+    - Local de realização: Online via Discord.
+    - Responsáveis: Daniel Coimbra
+    - Período da revisão: Dia 03/04 até o dia 04/04
+    - Revisores: Vinicius Vieira, Victor Almeida, Pedro Sena, Filipe Carvalho
 - Documentação da equipe
-  - Período de desenvolvimento: Início: Dia 01/04 e Término: Dia 03/04
-  - Local de realização: Online via Discord/WhatsApp
-  - Responsáveis: Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho
-  - Período da revisão: Dia 03/04 até o dia 08/04
-  - Revisores: Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho
+    - Período de desenvolvimento: Início: Dia 01/04 e Término: Dia 03/04
+    - Local de realização: Online via Discord/WhatsApp
+    - Responsáveis: Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho
+    - Período da revisão: Dia 03/04 até o dia 08/04
+    - Revisores: Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho
 - Seleção de um website dentro dos candidatos
-  - Período de desenvolvimento: Dia 03/04
-  - Local de realização: Online, via WhatsApp
-  - Responsáveis: Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho
-  - Período da revisão: Dia 01/04 até o dia 08/04
-  - Revisores: Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho
+    - Período de desenvolvimento: Dia 03/04
+    - Local de realização: Online, via WhatsApp
+    - Responsáveis: Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho
+    - Período da revisão: Dia 01/04 até o dia 08/04
+    - Revisores: Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho
 - Ferramentas utilizadas no projeto
-  - Período de desenvolvimento: Dia 02/04
-  - Local de realização: Online, via WhatsApp e Discord
-  - Responsáveis: Filipe Carvalho
-  - Período da revisão: Dia 02/04
-  - Revisores: Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena.
+    - Período de desenvolvimento: Dia 02/04
+    - Local de realização: Online, via WhatsApp e Discord
+    - Responsáveis: Filipe Carvalho
+    - Período da revisão: Dia 02/04
+    - Revisores: Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena.
 - Processo de Design
-  - Período de desenvolvimento: Dia 02/04 até 04/04
-  - Local de realização: Online, via WhatsApp e Discord
-  - Responsáveis: Pedro Sena
-  - Período da revisão: Dia 04/04 até dia 05/04
-  - Revisores: Vinicius Vieira, Daniel Coimbra, Victor Almeida, Filipe Carvalho
+    - Período de desenvolvimento: Dia 02/04 até 04/04
+    - Local de realização: Online, via WhatsApp e Discord
+    - Responsáveis: Pedro Sena
+    - Período da revisão: Dia 04/04 até dia 05/04
+    - Revisores: Vinicius Vieira, Daniel Coimbra, Victor Almeida, Filipe Carvalho
 - Cronograma de atividades
-  - Período de desenvolvimento: Dia 02/04
-  - Local de realização: Online, via WhatsApp e Discord
-  - Responsáveis: Vinicius Vieira
-  - Período da revisão: Dia 02/04
-  - Revisores: Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho
+    - Período de desenvolvimento: Dia 02/04
+    - Local de realização: Online, via WhatsApp e Discord
+    - Responsáveis: Vinicius Vieira
+    - Período da revisão: Dia 02/04
+    - Revisores: Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho
 - Gravar vídeo de apresentação
-  - Período de desenvolvimento: Dia 05/04 até Dia 07/04
-  - Local de realização: Online, via Discord
-  - Responsáveis: Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho
-  - Período da revisão: Dia 08/04
-  - Revisores: Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho
+    - Período de desenvolvimento: Dia 05/04 até Dia 07/04
+    - Local de realização: Online, via Discord
+    - Responsáveis: Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho
+    - Período da revisão: Dia 08/04
+    - Revisores: Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho
 
 ### Agenda da Próxima Reunião
 - Efetuaremos uma reunião remota na Quarta-Feira dia 03/04 para elencar o website que será selecionado para o projeto dentre os que foram levantados nessa reunião, e remotamente até o dia desta presente reunião os membros irão se comunicando e atualizando devidamente o Git Pages com suas devidas responsabilidades.
@@ -87,4 +87,4 @@
 
 | Versão| Data | Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------- | -------- | -------- |
-| `1.0` | 01/04/2024| | | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho |
+| `1.0` | 01/04/2024| | [Vinicius Vieira](https://github.com/viniciusvieira00) | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho |
