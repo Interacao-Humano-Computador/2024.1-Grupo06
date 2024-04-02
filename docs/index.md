@@ -25,3 +25,5 @@ Este espaço é dedicado à documentação de todos os artefatos gerados pelo Gr
 
 | Versão| Data | Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------- | -------- | -------- |
+| `1.0` | 25/03/2024 | Criação do GitPages | [Vinicius Vieira](https://github.com/viniciusvieira00) | . |
+| `1.1` | 01/04/2024 | Atualização dos membros do grupo | [Vinicius Vieira](https://github.com/viniciusvieira00) | . |
