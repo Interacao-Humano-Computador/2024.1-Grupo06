@@ -68,10 +68,10 @@
     - Período da revisão: Dia 04/04 até dia 05/04
     - Revisores: Vinicius Vieira, Daniel Coimbra, Victor Almeida, Filipe Carvalho
 - Cronograma de atividades
-    - Período de desenvolvimento: Dia 02/04
+    - Período de desenvolvimento: Dia 02/04 a 03/04
     - Local de realização: Online, via WhatsApp e Discord
     - Responsáveis: Vinicius Vieira
-    - Período da revisão: Dia 02/04
+    - Período da revisão: Dia 02/04 a 03/04
     - Revisores: Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho
 - Gravar vídeo de apresentação
     - Período de desenvolvimento: Dia 05/04 até Dia 07/04
