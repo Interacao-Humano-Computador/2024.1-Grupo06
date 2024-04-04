@@ -164,6 +164,7 @@ Na Tabela 10, está explicitado o cronograma executado das atividades da quinta 
 Na Tabela 11, tem-se o cronograma planejado para todas as atividades da primeira metade da sexta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 11</b> - Verificação dos Artefatos 1</p></font>
+
 | Atividade                              | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
 | -------------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
 | Verificação e Relato artefatos etapa 1 | Início: 30/05<br>Fim: 31/05 | --           | Início: 31/05<br>Fim: 01/06 | --        |
