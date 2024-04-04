@@ -30,19 +30,36 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento do Projeto</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+| Atividade                | Período de desenvolvimento | Responsável                                                                  | Revisão       | Revisores                                                                    | Data da Entrega |
+| ------------------------ | -------------------------- | ---------------------------------------------------------------------------- | ------------- | ---------------------------------------------------------------------------- | --------------- |
+| Seleção de Websites      | 25/03 - 01/04              | Daniel Coimbra                                                               | 03/04 - 04/04 | Vinicius Vieira, Victor Almeida, Pedro Sena, Filipe Carvalho                 | 02/04           |
+| Documentação da equipe   | 01/04 - 03/04              | Vinicius V                                                                   |
+| Documentação da equipe   | 01/04 - 03/04              | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho | 03/04 - 08/04 | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho | 02/04           |
+| Cronograma de atividades | 02/04                      | Vinicius Vieira                                                              | 02/04         | Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho                  | 02/04           |
 
 ## Etapa 2 - Perfil dos Usuários
+
+### Planejado
+## Entrega 2 - Perfil do usuário
 
 ### Planejado
 
 Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Perfil dos Usuários</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Perfil do usuário</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+| Atividade                 | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
+| ------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
+| Perfil do usuário         | Início: 09/04<br>Fim: 10/04 | --           | Início: 11/04<br>Fim: 12/04 | --        |
+| Personas                  | Início: 09/04<br>Fim: 10/04 | --           | Início: 11/04<br>Fim: 12/04 | --        |
+| Pesquisa sobre ética      | Início: 09/04<br>Fim: 10/04 | --           | Início: 11/04<br>Fim: 12/04 | --        |
+| Execução do documento     | Início: 09/04<br>Fim: 10/04 | --           | Início: 11/04<br>Fim: 12/04 | --        |
+| Análise de tarefas        | Início: 11/04<br>Fim: 12/04 | --           | Início: 11/04<br>Fim: 12/04 | --        |
+| Gravação da Apresentação  | Início: 15/04<br>Fim: 18/04 | Todos        | Início: 18/04<br>Fim: 22/04 | Todos     |
+| Correção pós apresentação | Início: 09/04<br>Fim: 09/05 | Todos        | Início: 18/05<br>Fim: 22/04 | Todos     |
+
+<font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
+
 
 
 ### Executado
@@ -62,8 +79,16 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira 
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Princípios gerais do projeto</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+| Atividade                        | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
+| -------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
+| Princípios gerais do projeto<br> | Início: 24/04<br>Fim: 27/04 | --           | Início: 27/04<br>Fim: 30/04 | --        |
+| Metas de usabilidade<br>         | Início: 24/04<br>Fim: 27/04 | --           | Início: 27/04<br>Fim: 30/04 | --        |
+| Guia de estilo <br>              | Início: 24/04<br>Fim: 27/04 | --           | Início: 27/04<br>Fim: 30/04 | --        |
+| Gravar Apresentação<br>          | Início: 01/05<br>Fim: 07/05 | Todos        | Início: 08/05<br>Fim: 14/05 | Todos     |
+| Correção pós apresentação<br>    | Início: 15/05<br>Fim: 16/05 | Todos        | Início: 16/05<br>Fim: 16/05 | Todos     |
+
+<font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
+
 
 
 ### Executado
@@ -83,9 +108,16 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta en
 
 <font size="3"><p style="text-align: center"><b>Tabela 7</b> - Planejamento da avaliação do Storyboard</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+| Atividade                                                        | Período de desenvolvimento  | Responsáveis | Revisão                       | Revisores |
+| ---------------------------------------------------------------- | --------------------------- | ------------ | ----------------------------- | --------- |
+| Planejamento da avaliação do Storyboard                          | Início: 17/05<br>Fim: 20/05 | --           | Início: 20/05<br>Fim: 20/05   | --        |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 17/05<br>Fim: 20/05 | --           | Início: 20/05<br>Fim: 20/05   | --        |
+| Planejamento da Avaliação da Análise de tarefas                  | Início: 17/05<br>Fim: 20/05 | --           | Início: 20/05<br>Fim: 20/05   | --        |
+| Planejamento do relato da avaliação da análise de tareas         | Início: 17/05<br>Fim: 20/05 | --           | Início: 21/05 <br> Fim: 21/05 | --        |
+| Gravação da apresentação                                         | Início: 21/05<br>Fim: 21/05 | Todos        | Início: 20/05<br>Fim: 20/05   | Todos     |
+| Correção pós apresentação                                        | Início: 23/05<br>Fim: 23/05 | Todos        | Início: 24/05<br>Fim: 25/05   | Todos     |
 
+<font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
 ### Executado
 
@@ -104,8 +136,16 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta en
 
 <font size="3"><p style="text-align: center"><b>Tabela 9</b> - Relato dos resultados do StoryBoard e da Análise de tarefas</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+| Atividade                                                               | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
+| ----------------------------------------------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
+| Relato dos resultados do Storyboard                                     | Início: 23/05<br>Fim: 24/05 | --           | Início: 24/05<br>Fim: 24/05 | --        |
+| Relato dos resultados da Análise de tarefas                             | Início: 23/05<br>Fim: 24/05 | --           | Início: 24/05<br>Fim: 24/05 | --        |
+| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 24/05<br>Fim: 25/05 | --           | Início: 25/05<br>Fim: 25/05 | --        |
+| Planejamento da avaliação do protótipo de papel                         | Início: 26/05<br>Fim: 27/05 | --           | Início: 28/05<br>Fim: 28/05 | --        |
+| Gravação da apresentação                                                | Início: 28/05<br>Fim: 28/05 | Todos        | Início: 28/05<br>Fim: 28/05 | Todos     |
+| Correção pós apresentação                                               | Início: 30/05<br>Fim: 31/05 | Todos        | Início: 01/05<br>Fim: 02/05 | Todos     |
+
+<font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
 
 ### Executado
@@ -125,8 +165,22 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da primeira
 
 <font size="3"><p style="text-align: center"><b>Tabela 11</b> - Verificação dos Artefatos 1</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+| Atividade                              | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
+| -------------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
+| Verificação e Relato artefatos etapa 1 | Início: 30/05<br>Fim: 31/05 | --           | Início: 31/05<br>Fim: 01/06 | --        |
+| Verificação e Relato artefatos etapa 2 | Início: 30/05<br>Fim: 31/05 | --           | Início: 31/05<br>Fim: 01/06 | --        |
+| Verificação e Relato artefatos etapa 3 | Início: 30/05<br>Fim: 31/05 | --           | Início: 31/05<br>Fim: 01/06 | --        |
+| Verificação e Relato artefatos etapa 4 | Início: 30/05<br>Fim: 31/05 | --           | Início: 31/05<br>Fim: 01/06 | --        |
+| Verificação e Relato artefatos etapa 5 | Início: 30/05<br>Fim: 31/05 | --           | Início: 31/05<br>Fim: 01/06 | --        |
+| Ajustes artefatos etapa 1              | Início: 02/06<br>Fim: 03/06 | --           | Início: 04/06<br>Fim: 04/06 | --        |
+| Ajustes artefatos etapa 2              | Início: 02/06<br>Fim: 03/06 | --           | Início: 04/06<br>Fim: 04/06 | --        |
+| Ajustes artefatos etapa 3              | Início: 02/06<br>Fim: 03/06 | --           | Início: 04/06<br>Fim: 04/06 | --        |
+| Ajustes artefatos etapa 4              | Início: 02/06<br>Fim: 03/06 | --           | Início: 04/06<br>Fim: 04/06 | --        |
+| Ajustes artefatos etapa 5              | Início: 02/06<br>Fim: 03/06 | --           | Início: 04/06<br>Fim: 04/06 | --        |
+| Gravação da apresentação               | Início: 04/06<br>Fim: 04/06 | Todos        | Início: 04/06<br>Fim: 05/06 | Todos     |
+| Correção pós entrega                   | Início: 06/06<br>Fim: 07/06 | Todos        | Início: 08/06<br>Fim: 09/06 | Todos     |
+
+<font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
 
 ### Executado
@@ -146,9 +200,14 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da segunda 
 
 <font size="3"><p style="text-align: center"><b>Tabela 13</b> - Verificação dos Artefatos 2</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
 
+| Atividade                                     | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
+| --------------------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
+| Verificação e Relato artefatos etapa 1, 2 e 3 | Início: 15/06<br>Fim: 18/06 | --           | Início: 19/06<br>Fim: 20/06 | --        |
+| Verificação e Relato artefatos etapa 4, 5 e 6 | Início: 15/06<br>Fim: 18/06 | --           | Início: 19/06<br>Fim: 20/06 | --        |
+| Execução do protótipo de alta fidelidade      | Início: 13/06<br>Fim: 18/06 | --           | Início: 19/06<br>Fim: 20/06 | --        |
+
+<font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
 ### Executado
 
@@ -167,8 +226,15 @@ Na Tabela 15, tem-se o cronograma planejado para todas as atividades da sétima 
 
 <font size="3"><p style="text-align: center"><b>Tabela 15</b> - Relato do Protótipo de Papel</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+| Atividade                                                                          | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
+| ---------------------------------------------------------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
+| Relato dos resultados do Protótipo de Papel                                        | Início: 07/06<br>Fim: 08/06 | --           | Início: 08/06<br>Fim: 08/06 | --        |
+| Planejamento da avaliação do protótipo de alta fidelidade                          | Início: 07/06<br>Fim: 08/06 | --           | Início: 08/06<br>Fim: 08/06 | --        |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 09/06<br>Fim: 10/06 | --           | Início: 10/06<br>Fim: 10/06 | --        |
+| Gravação da apresentação                                                           | Início: 11/06<br>Fim: 11/06 | Todos        | Início: 12/06<br>Fim: 12/06 | Todos     |
+| Correção pós entrega                                                               | Início: 13/06<br>Fim: 13/06 | Todos        | Início: 14/06<br>Fim: 15/06 | Todos     |
+
+<font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
 
 ### Executado
@@ -188,9 +254,16 @@ Na Tabela 17, tem-se o cronograma planejado para todas as atividades da oitava e
 
 <font size="3"><p style="text-align: center"><b>Tabela 17</b> - Relato do Protótipo de alta fidelidade</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
 
+| Atividade                                                          | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
+| ------------------------------------------------------------------ | --------------------------- | ------------ | --------------------------- | --------- |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 14/06<br>Fim: 15/06 | --           | Início: 15/06<br>Fim: 16/06 | --        |
+| Planejamento de verificação dos artefatos da entrega 7             | Início: 14/06<br>Fim: 15/06 | --           | Início: 15/06<br>Fim: 16/06 | --        |
+| Relato da verificação da Etapa 7 e ajustes nos artefatos           | Início: 17/06<br>Fim: 18/06 | --           | Início: 19/06<br>Fim: 20/06 | --        |
+| Gravação da apresentação                                           | Início: 24/06<br>Fim: 24/06 | Todos        | Início: 24/06<br>Fim: 25/06 | Todos     |
+| Correção pós entrega                                               | Início: 27/06<br>Fim: 27/06 | Todos        | Início: 28/06<br>Fim: 29/06 | Todos     |
+
+<font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
 ### Executado
 
@@ -209,7 +282,9 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 
 ## Histórico de versão
 
-| Versão     | Data       | Descrição | Autor(es)                                              | Revisor(es)                                            |
-| ---------- | ---------- | --------- | ------------------------------------------------------ | ------------------------------------------------------ |
-| 21/03/2024 | 24/03/2024 | 1.0       | Criação do Documento                                   | [Vinicius Vieira](https://github.com/viniciusvieira00) |
-| 1.1        | 03/04/2024 |           | [Vinicius Vieira](https://github.com/viniciusvieira00) | --                                                     |
+| Versão | Data       | Descrição                                      | Autor(es)                                              | Revisor(es)                                            |
+| ------ | ---------- | ---------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
+| 1.0    | 24/03/2024 | Criação do Documento                           | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| 1.1    | 03/04/2024 | Atualização tabela de planejados               | [Vinicius Vieira](https://github.com/viniciusvieira00) | --                                                     |
+| 1.2    | 04/04/2024 | Atualização tabela de executados               | [Vinicius Vieira](https://github.com/viniciusvieira00) | --                                                     |
+| 1.3    | 04/04/2024 | Atualização tabela de planejados outras etapas | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
