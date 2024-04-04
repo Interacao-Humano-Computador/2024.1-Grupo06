@@ -30,8 +30,12 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento do Projeto</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+| Atividade                | Período de desenvolvimento | Responsável                                                                  | Revisão       | Revisores                                                                    | Data da Entrega |
+| ------------------------ | -------------------------- | ---------------------------------------------------------------------------- | ------------- | ---------------------------------------------------------------------------- | --------------- |
+| Seleção de Websites      | 25/03 - 01/04              | Daniel Coimbra                                                               | 03/04 - 04/04 | Vinicius Vieira, Victor Almeida, Pedro Sena, Filipe Carvalho                 | 02/04           |
+| Documentação da equipe   | 01/04 - 03/04              | Vinicius V                                                                   |
+| Documentação da equipe   | 01/04 - 03/04              | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho | 03/04 - 08/04 | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho | 02/04           |
+| Cronograma de atividades | 02/04                      | Vinicius Vieira                                                              | 02/04         | Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho                  | 02/04           |
 
 ## Etapa 2 - Perfil dos Usuários
 
@@ -209,7 +213,7 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 
 ## Histórico de versão
 
-| Versão     | Data       | Descrição | Autor(es)                                              | Revisor(es)                                            |
-| ---------- | ---------- | --------- | ------------------------------------------------------ | ------------------------------------------------------ |
-| 21/03/2024 | 24/03/2024 | 1.0       | Criação do Documento                                   | [Vinicius Vieira](https://github.com/viniciusvieira00) |
-| 1.1        | 03/04/2024 |           | [Vinicius Vieira](https://github.com/viniciusvieira00) | --                                                     |
+| Versão     | Data       | Descrição                        | Autor(es)                                              | Revisor(es)                                            |
+| ---------- | ---------- | -------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
+| 21/03/2024 | 24/03/2024 | 1.0                              | Criação do Documento                                   | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| 1.1        | 03/04/2024 | Atualização tabela de planejados | [Vinicius Vieira](https://github.com/viniciusvieira00) | --                                                     | 1.2 | 04/04/2024 | Atualização tabela de executados | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
