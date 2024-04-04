@@ -173,7 +173,7 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da primeira
 | Verificação e Relato artefatos etapa 4 | Início: 30/05<br>Fim: 31/05 | --           | Início: 31/05<br>Fim: 01/06 | --        |
 | Verificação e Relato artefatos etapa 5 | Início: 30/05<br>Fim: 31/05 | --           | Início: 31/05<br>Fim: 01/06 | --        |
 | Ajustes artefatos etapa 1              | Início: 02/06<br>Fim: 03/06 | --           | Início: 04/06<br>Fim: 04/06 | --        |
-| Ajustes artefatos etapa 2              | Início: 02/06<br>Fim: 03/06 | --           | Início: 04/06<br>Fim: 04/06 | Rafael    |
+| Ajustes artefatos etapa 2              | Início: 02/06<br>Fim: 03/06 | --           | Início: 04/06<br>Fim: 04/06 | --    |
 | Ajustes artefatos etapa 3              | Início: 02/06<br>Fim: 03/06 | --           | Início: 04/06<br>Fim: 04/06 | --        |
 | Ajustes artefatos etapa 4              | Início: 02/06<br>Fim: 03/06 | --           | Início: 04/06<br>Fim: 04/06 | --        |
 | Ajustes artefatos etapa 5              | Início: 02/06<br>Fim: 03/06 | --           | Início: 04/06<br>Fim: 04/06 | --        |
