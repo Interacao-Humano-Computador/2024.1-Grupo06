@@ -8,6 +8,7 @@ No início do projeto, cada colaborador foi convidado a analisar um site de cód
 |                       Site avaliado                        |               Membro que fez a avaliação               |                             Planejamento da avaliação                             |                           Avaliação                            |
 | :--------------------------------------------------------: | :----------------------------------------------------: | :-------------------------------------------------------------------------------: | :------------------------------------------------------------: |
 | [Portal DETRAN-DF](https://portal.detran.df.gov.br/#/home) | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Planejamento da avaliação Portal DETRAN-DF](avaliacoes/PlanejamentoDETRANDF.pdf) | [Avaliação Portal DETRAN-DF](avaliacoes/AvaliacaoDETRANDF.pdf) |
+[Tribunal Regional Federal da 1ª Região](https://www.trf1.jus.br/trf1/home/) | [Filipe Carvalho](https://github.com/Filipe-002) | [Planejamento da Avaliação - Site TRF1](avaliacoes/PlanejamentoTRF1.pdf) | [Avaliação - Site TRF1](avaliacoes/AvaliacaoTRF1.pdf)
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
