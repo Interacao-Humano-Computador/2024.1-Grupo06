@@ -14,9 +14,9 @@ Sendo que a qualquer ponto do ciclo pode-se definir mais requisitos ou refazer o
 
 <center>
 
-<img src='https://github.com/Interacao-Humano-Computador/2024.1-Grupo06/blob/git-pages/assets/images/ciclo-de-vida-simples.png?raw=true'></img>
+![Ciclo de vida simples](logos/ciclo-de-vida-simples.png)
 
-_Fonte: Ciclo de vida de simples (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)_
+_Ciclo de vida simples. (Fonte: Interação Humano Computador - BARBOSA, Simone; DINIZ, Bruno. 2010)_
 
 O ciclo de vida simples tem como principal sua característica sua simplicidade, que o torna fácil de executar. Porém, sua falta de detalhes o torna uma opção não tão boa para projetos mais complexos ou para engenheiros de software menos experientes.
 
@@ -29,9 +29,9 @@ Nele, o designer escolhe em qual etapa começar, mas a avaliação precisa ser r
 
 <center>
 
-<img src='https://github.com/Interacao-Humano-Computador/2024.1-Grupo06/blob/git-pages/assets/images/ciclo-de-vida-em-estrela.png?raw=true'></img>
+![Ciclo de vida em estrela](logos/ciclo-de-vida-em-estrela.png)
 
-_Fonte: Ciclo de vida de simples (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)_
+_Ciclo de vida em estrela (Fonte: Interação Humano Computador - BARBOSA, Simone; DINIZ, Bruno. 2010)_
 
 </center>
 
@@ -73,9 +73,9 @@ boa solução interativa.
 Esta proposta de Mayhew traz um modelo muito mais detalhado que as anteriores, e é dividida em três principais etapas: análise de requisitos, design/avaliação/desenvolvimento e instalação. (BARBOSA e SILVA, 2011, p.104)
 
 <center>
-<img src='https://github.com/Interacao-Humano-Computador/2024.1-Grupo06/blob/git-pages/assets/images/eu-mayhew.png?raw=true'></img>
 
-_Fonte: Ciclo de vida de simples (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010)_
+![Mayhew](logos/eu-mayhew.png)
+_Engenharia de Usabilidade de Mayhew (Fonte: Interação Humano Computador - BARBOSA, Simone; DINIZ, Bruno. 2010)_
 </center>
 
 
@@ -90,4 +90,4 @@ https://docente.ifrn.edu.br/joaoqueiroz/disciplinas/ihc-interacao-humano-computa
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                         | Revisor(es)                                    |
 | ------ | ---------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| `1.0`  | 04/04/2024 | Criação da página.         | [Pedro Sena](https://github.com/pedroyen21)| []() |
+| `1.0`  | 04/04/2024 | Criação da página.         | [Pedro Sena](https://github.com/pedroyen21)| [Filipe Carvalho](https://github.com/Filipe-002) |
