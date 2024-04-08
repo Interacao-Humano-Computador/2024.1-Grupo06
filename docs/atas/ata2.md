@@ -19,6 +19,7 @@
   - GOV - [https://www.gov.br/pt-br](https://www.gov.br/pt-br)
   - TRF1 - [https://www.trf1.jus.br/trf1/home/](https://www.trf1.jus.br/trf1/home/)
   - Prefeitura de Formoso/MG - [https://www.formoso.mg.gov.br](https://www.formoso.mg.gov.br)
+  - Prefeitura de Ituberá/BA - [https://www.itubera.ba.gov.br/](https://www.itubera.ba.gov.br/)
 - Seleção do website que será utilizado pro projeto
 
 ### Anotações
@@ -88,3 +89,4 @@
 | Versão| Data | Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------- | -------- | -------- |
 | `1.0` | 01/04/2024| | [Vinicius Vieira](https://github.com/viniciusvieira00) | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho |
+| `1.1` | 08/04/2024| | [Daniel Coimbra](https://github.com/DanielCoimbra) | Daniel Coimbra, Vinicius Vieira, Victor Almeida, Pedro Sena, Filipe Carvalho |
