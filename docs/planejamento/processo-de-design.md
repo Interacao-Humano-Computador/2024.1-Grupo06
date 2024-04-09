@@ -84,8 +84,9 @@ _Engenharia de Usabilidade de Mayhew (Fonte: Interação Humano Computador - BAR
 O grupo 6 optou pela Engenharia de Usabilidade de Mayhew como processo de design porque ela é mais detalhada e robusta e, portanto, mais indicada para designers menos experientes, que é o caso da equipe em questão.
 
 ## Bibliografia
-BARBOSA, S. D. J; SILVA, B. S., Interação Humano-Computador, 1a. Edição, Editora Campus, 2010
-https://docente.ifrn.edu.br/joaoqueiroz/disciplinas/ihc-interacao-humano-computador/aulas/aula-5
+- BARBOSA, S. D. J; SILVA, B. S., Interação Humano-Computador, 1a. Edição, Editora Campus, 2010
+- [Slides](https://docente.ifrn.edu.br/joaoqueiroz/disciplinas/ihc-interacao-humano-computador/aulas/aula-5)
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                         | Revisor(es)                                    |
