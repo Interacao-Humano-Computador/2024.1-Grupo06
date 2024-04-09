@@ -21,9 +21,14 @@ O Portal Digital do [DETRAN-DF](https://portal.detran.df.gov.br/#/home) é uma p
   
 ### GOV.BR 
 [GOV.BR](https://www.gov.br/pt-br) é o site do Governo Federal e oferece inúmeras funcionalidades para os cidadãos brasileiros. Lá pode-se consultar documentos, buscar informações e executar outras tarefas muito relevantes.
+
+### Tribunal Regional Federal da 1ª Região
+O site do [Tribunal Regional Federal da 1ª Região (TRF1)](https://www.trf1.jus.br/trf1/home/) é uma ferramenta vital para advogados, partes envolvidas em processos, servidores e cidadãos interessados na justiça federal. Ele permite a consulta de processos, acesso a jurisprudências, pautas de julgamento e legislação, além de oferecer serviços como peticionamento eletrônico e emissão de certidões. Destinado a promover transparência e facilitar o acesso à informação, o site é um recurso indispensável para aqueles que buscam acompanhar as atividades judiciais e administrativas do tribunal.
+
 ## Bibliografia
 
 > Portal DETRAN-DF. Disponível em: [Portal DETRAN-DF](https://portal.detran.df.gov.br/#/home). Acesso em: 29/03/2024 <BR>
+> Site Tribunal Regional Federal da 1ª Região. Disponível em: [TRF1](https://www.trf1.jus.br/trf1/home/). Acesso em: 30/03/2024 <BR>
 
 ## 📑 Histórico de versão
 
