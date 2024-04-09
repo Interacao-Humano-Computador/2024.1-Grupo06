@@ -1,4 +1,4 @@
-repo_url: https://github.com/Interacao-Humano-Computador/2024.1-Grupo06
+repo_url: https://github.com/Interacao-Humano-Computador/2024.1-DETRANDF
 repo_name: 2024.1-DETRANDF
 
 markdown_extensions:
@@ -73,5 +73,5 @@ theme:
 extra:
   version:
     provider: mike
-
-extra_css: [stylesheets/style.css]
+  
+extra_css: [stylesheets/extra.css]

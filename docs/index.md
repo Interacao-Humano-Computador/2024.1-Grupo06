@@ -1,6 +1,6 @@
 <font size="2"><p style="text-align: center">Figura 1: Logo.</p></font>
 
-<p align="center"><img style="border: 2px solid white; border-radius: 117px" img src="planejamento/logos/OIG4.jpg" width = 40%></p>
+<p align="center"><img style="border: 2px solid white; border-radius: 117px" img src="planejamento/logos/favicon/apple-touch-icon.png" width = 40%></p>
 
 <font size="2"><p style="text-align: center">Fonte: Elaboração Própria.</p></font>
 
