@@ -44,27 +44,20 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.footer
+    
   palette:
-
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Mudar para o modo claro
-
-    # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: claro
       toggle:
-        icon: material/brightness-7
+        icon: material/circle-half-full
         name: Mudar para o modo escuro
 
-    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
-        icon: material/brightness-4
-        name: Mudar para a preferência do sistema
+        icon: material/circle-half-full
+        name: Mudar para o modo claro
+
 
   language: pt-BR
   favicon: planejamento/logos/favicon/favicon.png
