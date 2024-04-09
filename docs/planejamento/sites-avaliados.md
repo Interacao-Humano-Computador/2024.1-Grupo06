@@ -10,6 +10,7 @@ No início do projeto, cada colaborador foi convidado a analisar um site de cód
 | [Portal DETRAN-DF](https://portal.detran.df.gov.br/#/home) | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Planejamento da avaliação Portal DETRAN-DF](avaliacoes/PlanejamentoDETRANDF.pdf) | [Avaliação Portal DETRAN-DF](avaliacoes/AvaliacaoDETRANDF.pdf) |
 [Tribunal Regional Federal da 1ª Região](https://www.trf1.jus.br/trf1/home/) | [Filipe Carvalho](https://github.com/Filipe-002) | [Planejamento da Avaliação - Site TRF1](avaliacoes/PlanejamentoTRF1.pdf) | [Avaliação - Site TRF1](avaliacoes/AvaliacaoTRF1.pdf)
 [GOV.BR](https://www.gov.br/pt-br) | [Pedro Sena](https://github.com/pedroyen21) | [Planejamento da Avaliação - Site GOV.BR](avaliacoes/PlanejamentoGOV.pdf) | [Avaliação - Site GOV.BR](avaliacoes/AvaliacaoGOV.pdf)
+[Portal Ituberá-BA](https://www.gov.br/pt-br) | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Planejamento da Avaliação - Portal Ituberá - BA](avaliacoes/Planejamento_ITUBERA.pdf) | [Avaliação - Portal Ituberá - BA](avaliacoes/Avaliação_Ituberá.pdf)
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
@@ -29,4 +30,5 @@ O Portal Digital do [DETRAN-DF](https://portal.detran.df.gov.br/#/home) é uma p
 |   Versão   | Data  | Descrição            | Autor                                                  | Revisor |
 | :--------: | :---: | :------------------- | ------------------------------------------------------ | ------- |
 | 03/04/2024 |  1.0  | Criação do Documento | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Sena](https://github.com/pedroyen21)     |
-| 04/04/2024 |  1.1  | Adição do site GOV | [Pedro Sena](https://github.com/pedroyen21) | []()     |
+| 04/04/2024 |  1.1  | Adição do site GOV | [Pedro Sena](https://github.com/pedroyen21) | [Daniel Coimbra](https://github.com/DanielCoimbra)     |
+| 08/04/2024 |  1.2  | Adição do Portal de Ituberá BA| [Daniel Coimbra](https://github.com/DanielCoimbra) | [Filipe Carvalho](https://github.com/Filipe-002)     |
