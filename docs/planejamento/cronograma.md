@@ -12,15 +12,16 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto</p></font>
 
-| Atividade                                   | Período de desenvolvimento | Responsável                                                                  | Período de Revisão | Revisores                                                                    | Data da Entrega |
-| ------------------------------------------- | -------------------------- | ---------------------------------------------------------------------------- | ------------------ | ---------------------------------------------------------------------------- | --------------- |
-| Seleção de Websites                         | 25/03 - 01/04              | Daniel Coimbra                                                               | 03/04 - 04/04      | Vinicius Vieira, Victor Almeida, Pedro Sena, Filipe Carvalho                 | 04/04           |
-| Documentação da equipe                      | 01/04 - 03/04              | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho | 03/04 - 08/04      | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho | 08/04           |
-| Seleção de um website dentro dos candidatos | 03/04                      | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho | 01/04 - 08/04      | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho | 08/04           |
-| Ferramentas utilizadas no projeto           | 02/04                      | Filipe Carvalho                                                              | 02/04              | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena                  | 02/04           |
-| Processo de Design                          | 02/04 - 04/04              | Pedro Sena                                                                   | 04/04 - 05/04      | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Filipe Carvalho             | 05/04           |
-| Cronograma de atividades                    | 02/04                      | Vinicius Vieira                                                              | 02/04              | Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho                  | 02/04           |
-| Gravar vídeo de apresentação                | 05/04 - 07/04              | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho | 08/04              | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho | 08/04           |
+| Atividade                                   | Período de desenvolvimento | Responsável     | Período de Revisão | Revisores                                                        | Data da Entrega |
+| ------------------------------------------- | -------------------------- | --------------- | ------------------ | ---------------------------------------------------------------- | --------------- |
+| Seleção de Websites                         | 25/03 - 01/04              | Daniel Coimbra  | 03/04 - 04/04      | Vinicius Vieira, Victor Almeida, Pedro Sena, Filipe Carvalho     | 04/04           |
+| Documentação da equipe                      | 01/04 - 03/04              | Todos           | 03/04 - 08/04      | Todos                                                            | 08/04           |
+| Seleção de um website dentro dos candidatos | 03/04                      | Todos           | 01/04 - 08/04      | Todos                                                            | 08/04           |
+| Ferramentas utilizadas no projeto           | 02/04                      | Filipe Carvalho | 02/04              | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena      | 02/04           |
+| Processo de Design                          | 02/04 - 04/04              | Pedro Sena      | 04/04 - 05/04      | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Filipe Carvalho | 05/04           |
+| Cronograma de atividades                    | 02/04                      | Vinicius Vieira | 02/04              | Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho      | 02/04           |
+| Gravar vídeo de apresentação                | 05/04 - 07/04              | Todos           | 08/04              | Todos                                                            | 08/04           |
+| Correção pós apresentação                   | 09/04 - 12/04              | Todos           | 12/04              | Todos                                                            | 12/04           |
 
 
 
@@ -30,16 +31,19 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento do Projeto</p></font>
 
-| Atividade                | Período de desenvolvimento | Responsável                                                                  | Revisão       | Revisores                                                                    | Data da Entrega |
-| ------------------------ | -------------------------- | ---------------------------------------------------------------------------- | ------------- | ---------------------------------------------------------------------------- | --------------- |
-| Seleção de Websites      | 25/03 - 01/04              | Daniel Coimbra                                                               | 03/04 - 04/04 | Vinicius Vieira, Victor Almeida, Pedro Sena, Filipe Carvalho                 | 02/04           |
-| Documentação da equipe   | 01/04 - 03/04              | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho | 03/04 - 08/04 | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho | 02/04           |
-| Cronograma de atividades | 02/04                      | Vinicius Vieira                                                              | 02/04         | Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho                  | 02/04           |
+| Atividade                                   | Período de desenvolvimento | Responsável     | Revisão       | Revisores                                                        | Data da Entrega |
+| ------------------------------------------- | -------------------------- | --------------- | ------------- | ---------------------------------------------------------------- | --------------- |
+| Seleção de Websites                         | 25/03 - 01/04              | Daniel Coimbra  | 03/04 - 04/04 | Vinicius Vieira, Victor Almeida, Pedro Sena, Filipe Carvalho     | 02/04           |
+| Documentação da equipe                      | 01/04 - 03/04              | Todos           | 03/04 - 08/04 | Todos                                                            | 02/04           |
+| Cronograma de atividades                    | 02/04                      | Vinicius Vieira | 02/04         | Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho      | 02/04           |
+| Seleção de um website dentro dos candidatos | 03/04                      | Todos           | 01/04 - 08/04 | Todos                                                            | 08/04           |
+| Ferramentas utilizadas no projeto           | 02/04                      | Filipe Carvalho | 02/04         | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena      | 02/04           |
+| Processo de Design                          | 02/04 - 04/04              | Pedro Sena      | 04/04 - 05/04 | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Filipe Carvalho | 05/04           |
+| Gravar vídeo de apresentação                | 05/04 - 07/04              | Todos           | 08/04         | Todos                                                            | 08/04           |
+|                                             |
+
 
 ## Etapa 2 - Perfil dos Usuários
-
-### Planejado
-## Entrega 2 - Perfil do usuário
 
 ### Planejado
 
@@ -281,9 +285,10 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                                      | Autor(es)                                              | Revisor(es)                                            |
-| ------ | ---------- | ---------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
-| 1.0    | 24/03/2024 | Criação do Documento                           | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) |
-| 1.1    | 03/04/2024 | Atualização tabela de planejados               | [Vinicius Vieira](https://github.com/viniciusvieira00) | --                                                     |
-| 1.2    | 04/04/2024 | Atualização tabela de executados               | [Vinicius Vieira](https://github.com/viniciusvieira00) | --                                                     |
-| 1.3    | 04/04/2024 | Atualização tabela de planejados outras etapas | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
+| Versão | Data       | Descrição                                       | Autor(es)                                              | Revisor(es)                                            |
+| ------ | ---------- | ----------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
+| 1.0    | 24/03/2024 | Criação do Documento                            | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| 1.1    | 03/04/2024 | Atualização tabela de planejados                | [Vinicius Vieira](https://github.com/viniciusvieira00) | --                                                     |
+| 1.2    | 04/04/2024 | Atualização tabela de executados                | [Vinicius Vieira](https://github.com/viniciusvieira00) | --                                                     |
+| 1.3    | 04/04/2024 | Atualização tabela de planejados outras etapas  | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
+| 1.4    | 09/04/2024 | Atualização tabela de planejados primeira etapa | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |

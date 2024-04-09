@@ -1,5 +1,5 @@
 repo_url: https://github.com/Interacao-Humano-Computador/2024.1-Grupo06
-repo_name: 2024.1-Grupo06
+repo_name: 2024.1-DETRANDF
 
 markdown_extensions:
   - admonition
@@ -17,7 +17,7 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-site_name: Grupo 06
+site_name: Portal DETRAN-DF
 
 
 nav:
@@ -67,8 +67,8 @@ theme:
         name: Mudar para a preferência do sistema
 
   language: pt-BR
-  # favicon: assets/arquivo.png
-  # logo: assets/arquivo.png
+  favicon: planejamento/logos/favicon/favicon.png
+  logo: planejamento/logos/favicon/apple-touch-icon.png
 
 extra:
   version:
