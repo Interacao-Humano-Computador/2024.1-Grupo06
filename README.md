@@ -1,11 +1,10 @@
-# 2024.1-Grupo06
+# DETRANDF
 
 <font size="2"><p style="text-align: center">Figura 1: Logo.</p></font>
 
-<p align="center"><img style="border: 2px solid white; border-radius: 117px" img src="https://cdn-icons-png.flaticon.com/512/7193/7193073.png" width = 40%></p>
+<p align="center"><img style="border: 2px solid white; border-radius: 117px" img src="https://github.com/Interacao-Humano-Computador/2024.1-DETRANDF/blob/main/assets/images/apple-touch-icon.png?raw=true" width = 40%></p>
 
-<font size="2"><p style="text-align: center">Fonte: [Google](https://www.google.com/?client=safari).</p></font>
-
+<font size="2"><p style="text-align: center">Fonte: Elaboração Própria.</p></font>
 
 # Sobre o projeto
 Este espaço é dedicado à documentação de todos os artefatos gerados pelo Grupo 06 na disciplina de Interação Humano-Computador (IHC) da Faculdade do Gama da Universidade de Brasília (FGA-UnB)durante o primeiro semestre de 2024. O propósito do projeto é realizar uma avaliação de IHC do site (Site ainda seá escolhido) e, aplicando os princípios aprendidos em sala de aula, propor melhorias em sua interface. (Texto explicativo sobre o site na próxima versão)
