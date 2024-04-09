@@ -1,7 +1,6 @@
 <font size="2"><p style="text-align: center">Figura 1: Logo.</p></font>
 
-<p align="center"><img style="border: 2px solid white; border-radius: 117px" img src="planejamento/logos/favicon/apple-touch-icon.png" width = 40%></p>
-
+<p align="center"><img style="border: 2px solid white; border-radius: 117px" img src="https://github.com/Interacao-Humano-Computador/2024.1-DETRANDF/blob/main/assets/images/apple-touch-icon.png?raw=true" width = 40%></p>
 <font size="2"><p style="text-align: center">Fonte: Elaboração Própria.</p></font>
 
 
@@ -28,8 +27,8 @@ O website em questão apresenta uma série de desafios que comprometem a experi�
 
 ## Histórico de versão
 
-| Versão| Data | Descrição  | Autor(es)  | Revisor(es) |
-| ------- | ------ | ------- | -------- | -------- |
-| `1.0` | 25/03/2024 | Criação do GitPages | [Vinicius Vieira](https://github.com/viniciusvieira00) | . |
-| `1.1` | 01/04/2024 | Atualização dos membros do grupo | [Vinicius Vieira](https://github.com/viniciusvieira00) | . |
-| `1.2` | 08/04/2024 | Atualização da página inicial | [Filipe Carvalho](https://github.com/filipe-002) | . |
+| Versão | Data       | Descrição                        | Autor(es)                                              | Revisor(es) |
+| ------ | ---------- | -------------------------------- | ------------------------------------------------------ | ----------- |
+| `1.0`  | 25/03/2024 | Criação do GitPages              | [Vinicius Vieira](https://github.com/viniciusvieira00) | .           |
+| `1.1`  | 01/04/2024 | Atualização dos membros do grupo | [Vinicius Vieira](https://github.com/viniciusvieira00) | .           |
+| `1.2`  | 08/04/2024 | Atualização da página inicial    | [Filipe Carvalho](https://github.com/filipe-002)       | .           |
