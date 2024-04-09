@@ -33,7 +33,6 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 | Atividade                | Período de desenvolvimento | Responsável                                                                  | Revisão       | Revisores                                                                    | Data da Entrega |
 | ------------------------ | -------------------------- | ---------------------------------------------------------------------------- | ------------- | ---------------------------------------------------------------------------- | --------------- |
 | Seleção de Websites      | 25/03 - 01/04              | Daniel Coimbra                                                               | 03/04 - 04/04 | Vinicius Vieira, Victor Almeida, Pedro Sena, Filipe Carvalho                 | 02/04           |
-| Documentação da equipe   | 01/04 - 03/04              | Vinicius V                                                                   |
 | Documentação da equipe   | 01/04 - 03/04              | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho | 03/04 - 08/04 | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho | 02/04           |
 | Cronograma de atividades | 02/04                      | Vinicius Vieira                                                              | 02/04         | Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho                  | 02/04           |
 
