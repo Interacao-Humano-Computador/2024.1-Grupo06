@@ -10,7 +10,7 @@ No início do projeto, cada colaborador foi convidado a analisar um site de cód
 | [Portal DETRAN-DF](https://portal.detran.df.gov.br/#/home) | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Planejamento da avaliação Portal DETRAN-DF](avaliacoes/PlanejamentoDETRANDF.pdf) | [Avaliação Portal DETRAN-DF](avaliacoes/AvaliacaoDETRANDF.pdf) |
 [Tribunal Regional Federal da 1ª Região](https://www.trf1.jus.br/trf1/home/) | [Filipe Carvalho](https://github.com/Filipe-002) | [Planejamento da Avaliação - Site TRF1](avaliacoes/PlanejamentoTRF1.pdf) | [Avaliação - Site TRF1](avaliacoes/AvaliacaoTRF1.pdf)
 [GOV.BR](https://www.gov.br/pt-br) | [Pedro Sena](https://github.com/pedroyen21) | [Planejamento da Avaliação - Site GOV.BR](avaliacoes/PlanejamentoGOV.pdf) | [Avaliação - Site GOV.BR](avaliacoes/AvaliacaoGOV.pdf)
-[Portal Ituberá-BA](https://www.gov.br/pt-br) | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Planejamento da Avaliação - Portal Ituberá - BA](avaliacoes/Planejamento_ITUBERA.pdf) | [Avaliação - Portal Ituberá - BA](avaliacoes/Avaliação_Ituberá.pdf)
+[Portal Ituberá-BA](https://www.itubera.ba.gov.br/) | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Planejamento da Avaliação - Portal Ituberá - BA](avaliacoes/Planejamento_ITUBERA.pdf) | [Avaliação - Portal Ituberá - BA](avaliacoes/Avaliação_Ituberá.pdf)
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
@@ -24,6 +24,9 @@ O Portal Digital do [DETRAN-DF](https://portal.detran.df.gov.br/#/home) é uma p
 
 ### Tribunal Regional Federal da 1ª Região
 O site do [Tribunal Regional Federal da 1ª Região (TRF1)](https://www.trf1.jus.br/trf1/home/) é uma ferramenta vital para advogados, partes envolvidas em processos, servidores e cidadãos interessados na justiça federal. Ele permite a consulta de processos, acesso a jurisprudências, pautas de julgamento e legislação, além de oferecer serviços como peticionamento eletrônico e emissão de certidões. Destinado a promover transparência e facilitar o acesso à informação, o site é um recurso indispensável para aqueles que buscam acompanhar as atividades judiciais e administrativas do tribunal.
+
+### Portal Ituberá - BA
+O Portal do Município de [Ituberá - BA](https://www.itubera.ba.gov.br/) reúne informações relevantes para moradores e visitantes. Têm notícias e comunicados oficiais, assim como informações de oficiais e de utilidade pública.
 
 ## Bibliografia
 
