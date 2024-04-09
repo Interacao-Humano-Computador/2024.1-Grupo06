@@ -11,6 +11,7 @@ No início do projeto, cada colaborador foi convidado a analisar um site de cód
 [Tribunal Regional Federal da 1ª Região](https://www.trf1.jus.br/trf1/home/) | [Filipe Carvalho](https://github.com/Filipe-002) | [Planejamento da Avaliação - Site TRF1](avaliacoes/PlanejamentoTRF1.pdf) | [Avaliação - Site TRF1](avaliacoes/AvaliacaoTRF1.pdf)
 [GOV.BR](https://www.gov.br/pt-br) | [Pedro Sena](https://github.com/pedroyen21) | [Planejamento da Avaliação - Site GOV.BR](avaliacoes/PlanejamentoGOV.pdf) | [Avaliação - Site GOV.BR](avaliacoes/AvaliacaoGOV.pdf)
 [Portal Ituberá-BA](https://www.itubera.ba.gov.br/) | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Planejamento da Avaliação - Portal Ituberá - BA](avaliacoes/Planejamento_ITUBERA.pdf) | [Avaliação - Portal Ituberá - BA](avaliacoes/Avaliação_Ituberá.pdf)
+| Prefeitura de Formoso - MG | Víctor Almeida | [Planejamento da avaliação do Site da prefeitura de Formoso - MG](avaliacoes/PlanejamentoPREFEITURAFORMOSO.pdf) | [Avaliação do Site da prefeitura de Formoso - MG](avaliacoes/AvaliacaoPREFEITURAFORMOSO.pdf) |
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
@@ -28,6 +29,9 @@ O site do [Tribunal Regional Federal da 1ª Região (TRF1)](https://www.trf1.jus
 ### Portal Ituberá - BA
 O Portal do Município de [Ituberá - BA](https://www.itubera.ba.gov.br/) reúne informações relevantes para moradores e visitantes. Têm notícias e comunicados oficiais, assim como informações de oficiais e de utilidade pública.
 
+### Prefeitura de Formoso - MG
+O site da prefeitura do município de Formoso/MG é um site que oferece informações do município e de transparência orçamentária de maneira simples e unificada. O site possui além das informações relacionadas às contas públicas, notícias atualizadas, formas de contato com os órgãos e serviços municipais e informações sobre a cidade.
+
 ## Bibliografia
 
 > Portal DETRAN-DF. Disponível em: [Portal DETRAN-DF](https://portal.detran.df.gov.br/#/home). Acesso em: 29/03/2024 <BR>
@@ -40,3 +44,4 @@ O Portal do Município de [Ituberá - BA](https://www.itubera.ba.gov.br/) reúne
 | 03/04/2024 |  1.0  | Criação do Documento | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Sena](https://github.com/pedroyen21)     |
 | 04/04/2024 |  1.1  | Adição do site GOV | [Pedro Sena](https://github.com/pedroyen21) | [Daniel Coimbra](https://github.com/DanielCoimbra)     |
 | 08/04/2024 |  1.2  | Adição do Portal de Ituberá BA| [Daniel Coimbra](https://github.com/DanielCoimbra) | [Filipe Carvalho](https://github.com/Filipe-002)     |
+| 08/04/2024 |  1.3  | Adição do Site da Prefeitura de Formoso MG| Víctor Almeida | Daniel Coimbra     |
