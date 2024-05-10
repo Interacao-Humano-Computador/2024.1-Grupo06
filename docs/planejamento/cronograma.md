@@ -51,15 +51,16 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Perfil do usuário</p></font>
 
-| Atividade                 | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
-| ------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
-| Perfil do usuário         | Início: 09/04<br>Fim: 10/04 | --           | Início: 11/04<br>Fim: 12/04 | --        |
-| Personas                  | Início: 09/04<br>Fim: 10/04 | --           | Início: 11/04<br>Fim: 12/04 | --        |
-| Pesquisa sobre ética      | Início: 09/04<br>Fim: 10/04 | --           | Início: 11/04<br>Fim: 12/04 | --        |
-| Execução do documento     | Início: 09/04<br>Fim: 10/04 | --           | Início: 11/04<br>Fim: 12/04 | --        |
-| Análise de tarefas        | Início: 11/04<br>Fim: 12/04 | --           | Início: 11/04<br>Fim: 12/04 | --        |
-| Gravação da Apresentação  | Início: 15/04<br>Fim: 18/04 | Todos        | Início: 18/04<br>Fim: 22/04 | Todos     |
-| Correção pós apresentação | Início: 09/04<br>Fim: 09/05 | Todos        | Início: 18/05<br>Fim: 22/04 | Todos     |
+| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
+| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+| Perfil do usuário | 09/05 - 10/05 | Filipe Carvalho | 11/04 | Pedro Sena | 10/05 | 
+| Personas | 09/05 - 10/05 | Victor Moreira | 12/05 | Pedro Sena  | 12/05 |
+| Pesquisa sobre ética | 09/05 - 10/05 | Victor Moreira e Pedro Miguel | 12/05 | Filipe Carvalho | 12/05 |
+| Execução do documento | 09/05 - 10/05 | Todos | 12/05 | Todos | 12/05 |
+| Análise de tarefas        | 11/05 - 12/05 | Todos | 12/05 | Todos | 12/05 |
+| Gravação da Apresentação  | 12/05 - 12/05 | Todos | 12/05 | Todos | 12/05 |
+| Correção pós apresentação | 12/05 - 12/05 | Todos | 12/05 | Todos | 12/05 |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
@@ -73,6 +74,13 @@ Na Tabela 4, está explicitado o cronograma executado das atividades da segunda 
 
 | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
 | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+| Perfil do usuário | 04/05 - 09/05 | Filipe Carvalho | 11/04 | Pedro Sena | 10/05 | 
+| Personas | 09/05 - 10/05 | Victor Moreira | 11/05 | Pedro Sena  | 12/05 |
+| Pesquisa sobre ética | 09/05 - 10/05 | Victor Moreira e Pedro Miguel | 12/05 | Filipe Carvalho | 12/05 |
+| Execução do documento | 09/05 - 10/05 | Todos | 12/05 | Todos | 12/05 |
+| Análise de tarefas        | 11/05 - 12/05 | Todos | 12/05 | Todos | 12/05 |
+| Gravação da Apresentação  | 12/05 - 12/05 | Todos | 12/05 | Todos | 12/05 |
+| Correção pós apresentação | 12/05 - 12/05 | Todos | 12/05 | Todos | 12/05 |
 
 ## Etapa 3 - Princípios gerais do projeto
 
@@ -84,11 +92,12 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira 
 
 | Atividade                        | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
 | -------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
-| Princípios gerais do projeto<br> | Início: 24/04<br>Fim: 27/04 | --           | Início: 27/04<br>Fim: 30/04 | --        |
-| Metas de usabilidade<br>         | Início: 24/04<br>Fim: 27/04 | --           | Início: 27/04<br>Fim: 30/04 | --        |
-| Guia de estilo <br>              | Início: 24/04<br>Fim: 27/04 | --           | Início: 27/04<br>Fim: 30/04 | --        |
-| Gravar Apresentação<br>          | Início: 01/05<br>Fim: 07/05 | Todos        | Início: 08/05<br>Fim: 14/05 | Todos     |
-| Correção pós apresentação<br>    | Início: 15/05<br>Fim: 16/05 | Todos        | Início: 16/05<br>Fim: 16/05 | Todos     |
+| Princípios gerais do projeto<br> | Início: 09/05<br>Fim: 11/05 | Filipe Carvalho | Início: 27/04<br>Fim: 30/04 | --        |
+| Características da plataforma para o projeto<br> | Início: 11/05<br>Fim: 13/05 | Pedro Sena, Pedro Miguel e Vinicius Vieira | Início: 27/04<br>Fim: 30/04 | --        |
+| Metas de usabilidade<br>         | Início: 09/05<br>Fim: 11/05 | Filipe Carvalho | Início: 27/04<br>Fim: 30/04 | --        |
+| Guia de estilo <br>              | Início: 11/05<br>Fim: 12/05 | Todos | Início: 27/04<br>Fim: 30/04 | --        |
+| Gravar Apresentação<br>          | Início: 15/05<br>Fim: 15/05 | Todos | Início: 08/05<br>Fim: 14/05 | Todos     |
+| Correção pós apresentação<br>    | Início: 15/05<br>Fim: 16/05 | Todos | Início: 16/05<br>Fim: 16/05 | Todos     |
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
