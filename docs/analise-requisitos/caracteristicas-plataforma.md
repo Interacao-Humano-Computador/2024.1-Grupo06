@@ -54,5 +54,5 @@ Vale lembrar que as informações providas pela extensão não são 100% confiá
 
 |   Versão   | Data  | Descrição            | Autor                                                  | Revisor |
 | :--------: | :---: | :------------------- | ------------------------------------------------------ | ------- |
-| 1.0 |    | Adição das características da Plataforma| [Pedro Sena](https://github.com/pedroyen21) | [Pedro Miguel](https://github.com/pedromadbr)     |
-| 1.1 |    | Adição da introdução ao documento| [Pedro Miguel](https://github.com/pedromadbr) | []()     |
+| 1.0 |  11/05/2024  | Adição das características da Plataforma| [Pedro Sena](https://github.com/pedroyen21) | [Pedro Miguel](https://github.com/pedromadbr)     |
+| 1.1 |  12/05/2024  | Adição da introdução ao documento| [Pedro Miguel](https://github.com/pedromadbr) | []()     |
