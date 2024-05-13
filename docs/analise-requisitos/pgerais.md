@@ -69,7 +69,12 @@ Nessa parte, é destacado que o sistema deve oferecer uma certa liberdade para o
 
 ### Violação
 
-Por conta de ser exigido um login para o total acesso ao site, muitas funções não são liberadas, porém são mostradas livremente ao usuário, gerando uma certa confusão sobre o que se pode fazer com ou sem login.
+Por conta de ser exigido um login para o total acesso ao site, muitas funções não são liberadas, porém são mostradas livremente ao usuário, gerando uma certa confusão sobre o que se pode fazer com ou sem login, conforme mostrado abaixo:
+
+<center>Figura 1: Página inicial do Portal Detran-DF</center>
+
+![figura1](images/inicial.png)
+
 
 ## Consistência e padronização
 
@@ -99,7 +104,12 @@ Tognazzini recomenda que sempre seja considerada a eficiência do usuário, e n�
 
 ### Violação
 
-O Portal Detran-DF falha, de certa forma, em alguns desses aspectos. O sistema é sim rápido e mantem o usuário ocupado, mas não é sensível a o que o usuário está fazendo, falhando diversas vezes em sua página de login, consequentemente não protegendo o trabalho, e não são fornecidos atalhos e aceleradores evidentes, como por exemplo, não encaminhando para a página de login quando o usuário tenta acessar um serviço que só está disponível com um cadastro.
+O Portal Detran-DF falha, de certa forma, em alguns desses aspectos. O sistema é sim rápido e mantem o usuário ocupado, mas não é sensível a o que o usuário está fazendo, falhando diversas vezes em sua página de login, consequentemente não protegendo o trabalho, e não são fornecidos atalhos e aceleradores evidentes, como por exemplo, não encaminhando para a página de login quando o usuário tenta acessar um serviço que só está disponível com um cadastro, conforme novamente indicado na Figura 1:
+
+
+<center>Figura 1: Página inicial do Portal Detran-DF</center>
+
+![figura1](images/inicial.png)
 
 
 ## Antecipação das necessidades do usuário
@@ -126,7 +136,11 @@ De acordo com Norman: “[...] a interface não deve oferecer opções que não 
 
 ### Violação
 
-Um problema grave no portal do Detran, é justamente deixar explícito em sua tela inicial, as funções que não estão disponíveis de antemão para o usuário, exigindo a todo momento, o login do usuário, sendo que essa mensagem também não está muito clara.
+Um problema grave no portal do Detran, é justamente deixar explícito em sua tela inicial, as funções que não estão disponíveis de antemão para o usuário, exigindo a todo momento, o login do usuário, sendo que essa mensagem também não está muito clara. Abaixo segue figura ilustrando.
+
+<center>Figura 1: Página inicial do Portal Detran-DF</center>
+
+![figura1](images/inicial.png)
 
 ## Conteúdo relevante e expressão adequada
 
@@ -145,7 +159,7 @@ Geralemente, as pessoas tem a tendência das pessoas de atribuir característica
 ### Violação
 
 
-Uma violação do princípio do "Conteúdo relevante e expressão adequada" no portal do Detran poderia ser a apresentação de informações irrelevantes ou excessivamente técnicas para os usuários comuns. Por exemplo, se o portal apresentasse uma grande quantidade de jargões jurídicos ou técnicos sem uma explicação clara e acessível, isso poderia dificultar a compreensão e a navegação para os usuários que buscam informações sobre procedimentos de trânsito ou documentação veicular.
+Uma violação do princípio do "Conteúdo relevante e expressão adequada" no portal do Detran poderia ser a apresentação de informações irrelevantes ou excessivamente técnicas para os usuários comuns. Por exemplo, se o portal apresentasse uma grande quantidade de jargões jurídicos ou técnicos sem uma explicação clara e acessível, isso poderia dificultar a compreensão e a navegação para os usuários que buscam informações sobre procedimentos de trânsito ou documentação veicular. De certa forma, isso não ocorre, porém é sentido que poderia haver uma melhor localização para o usuário 100% leigo, como por exemplo, quem está tirando pela primeira vez a carteira de motorista, ou um usuário que está no processo e não conhece ainda muitas expressões.
 
 ## Projeto para erros
 
@@ -163,8 +177,17 @@ Durante alguns testes, foram identificadas duas violações: a primeira é novam
 ![figura7](images/erro.png)</center>
 
 
+## Bibliografia
+
+> <a id="FRM1" href="#anchor_1">1.</a> Interação Humano-Computador. Simone Diniz Junqueira e Bruno Santana da Silva. Acesso em: 11 de mai. de 2024.
+>
+> <a id="FRM2" href="#anchor_2">2.</a> First Principles of Interaction Design (Revised & Expanded). Disponível em: [https://asktog.com/atc/principles-of-interaction-design/](). Acesso em: 11 de mai. de 2024.
+>
+
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                         | Revisor(es)                                    |
 | ------ | ---------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | `1.0`  | 11/05/2024 | Criação da página. | [Filipe Carvalho](https://github.com/Filipe-002)| [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| `1.1`  | 13/05/2024 | Revisão da página e ajustes finais para a entrega. | [Filipe Carvalho](https://github.com/Filipe-002)| [Pedro Miguel](https://github.com/pedroMADBR) |
