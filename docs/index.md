@@ -17,13 +17,45 @@ O website em questão apresenta uma série de desafios que comprometem a experi�
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/viniciusvieira00"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64455111?v=4" width="100px;" alt=""/><br /><sub><b>Vinicius Angelo de Brito Vieira</b></sub></a><br />
-    <td align="center"><a href="https://github.com/DanielCoimbra"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/49206670?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Coimbra</b></sub></a><br /><a href="Link git" title="Rocketseat"></a></td>
-    <td align="center"><a href="https://github.com/Filipe-002"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/90454615?v=4" width="100px;" alt=""/><br /><sub><b>Filipe Carvalho da Silva </b></sub></a><br /><a href="Link git" title="Rocketseat"></a></td>
-    <td align="center"><a href="https://github.com/pedroyen21"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/72281928?v=4" width="100px;" alt=""/><br /><sub><b>Pedro Sena Barbosa Holtz Yen</b></sub></a><br />
-    <td align="center"><a href="https://github.com/vitu-moreira"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/164962834?v=4" width="100px;" alt=""/><br /><sub><b>Víctor Moreira Almeida</b></sub></a><br />
+    <td align="center" >
+      <div style="width: 80px; height: 80px; border-radius: 50%; overflow: hidden;">
+        <img src="https://avatars.githubusercontent.com/u/49206670?v=4" alt="Daniel Coimbra">
+      </div>
+      <br /><sub><b>Daniel Coimbra</b></sub>
+    </td>
+    <td align="center">
+      <div style="width: 80px; height: 80px; border-radius: 50%; overflow: hidden;">
+        <img src="https://avatars.githubusercontent.com/u/90454615?v=4" alt="Filipe Carvalho da Silva">
+      </div>
+      <br /><sub><b>Filipe Carvalho da Silva</b></sub>
+    </td>
+    <td align="center">
+      <div style="width: 80px; height: 80px; border-radius: 50%; overflow: hidden;">
+        <img src="https://avatars.githubusercontent.com/u/64806397?v=4" alt="Pedro Miguel M. de O. dos Santos">
+      </div>
+      <br /><sub><b>Pedro Miguel M. de O. dos Santos</b></sub>
+    </td>
+    <td align="center">
+      <div style="width: 80px; height: 80px; border-radius: 50%; overflow: hidden;">
+        <img src="https://avatars.githubusercontent.com/u/72281928?v=4" alt="Pedro Sena Barbosa Holtz Yen">
+      </div>
+      <br /><sub><b>Pedro Sena Barbosa Holtz Yen</b></sub>
+    </td>
+    <td align="center">
+      <div style="width: 80px; height: 80px; border-radius: 50%; overflow: hidden;">
+        <img src="https://avatars.githubusercontent.com/u/164962834?v=4" alt="Víctor Moreira Almeida">
+      </div>
+      <br /><sub><b>Víctor Moreira Almeida</b></sub>
+    </td>
+    <td align="center">
+      <div style="width: 80px; height: 80px; border-radius: 50%; overflow: hidden;">
+        <img src="https://avatars.githubusercontent.com/u/64455111?v=4" alt="Vinicius Angelo de Brito Vieira">
+      </div>
+      <br /><sub><b>Vinicius Angelo de Brito Vieira</b></sub>
+    </td>
   </tr>
 </table>
+
 
 ## Histórico de versão
 
@@ -32,3 +64,4 @@ O website em questão apresenta uma série de desafios que comprometem a experi�
 | `1.0`  | 25/03/2024 | Criação do GitPages              | [Vinicius Vieira](https://github.com/viniciusvieira00) | .           |
 | `1.1`  | 01/04/2024 | Atualização dos membros do grupo | [Vinicius Vieira](https://github.com/viniciusvieira00) | .           |
 | `1.2`  | 08/04/2024 | Atualização da página inicial    | [Filipe Carvalho](https://github.com/filipe-002)       | .           |
+| `1.3`  | 13/05/2024 | Atualização de estilos e centralização da área de Equipe| [Vinicius Vieira](https://github.com/viniciusvieira00)| .           |
