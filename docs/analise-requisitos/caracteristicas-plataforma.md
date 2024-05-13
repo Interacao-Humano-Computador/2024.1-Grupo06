@@ -2,6 +2,8 @@
 
 ## Introdução
 
+Para dar prosseguimento ao projeto vê-se a necessidade de realizar uma análise detalhada do site como recomendado por Mayhew¹, um ponto importante é o ciclo de vida observado. Portanto, aqui trabalharemos em cima das características do site Detran/DF que serão suas funcionalidades, capacidades, suas interações e pontos fracos e fortes para que posteriormente possamos elaborar uma proposta de melhoria ao caso analisado.
+
 ## Características da Plataforma
 
 O Portal de Serviços do Departamento de Trânsito do Distrito Federal (Detran/DF) é uma plataforma web que fornece diversos serviços relacionados ao trânsito para os cidadãos do Distrito Federal. Possui funcionalidades como consulta, alteração, emissão de documentos relacionados a multas, infrações, veículos, Carteira Nacional de Habilitação (CNH) entre outros. É possível acessá-lo por meio de qualquer dispositivo através de um navegador e conta com uma versão de aplicativo mobile. 
@@ -42,10 +44,15 @@ Não foram encontradas informações oficiais a respeito das tecnologias usadas 
 Vale lembrar que as informações providas pela extensão não são 100% confiáveis, mas podem oferecer informações úteis na ausência de fontes oficiais.
  
 
-## Bibliografia 
+## Bibliografia
+
+## Referências Bibliográficas
+
+1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## 📑 Histórico de versão
 
 |   Versão   | Data  | Descrição            | Autor                                                  | Revisor |
 | :--------: | :---: | :------------------- | ------------------------------------------------------ | ------- |
-| 1.0 |    | Adição das características da Plataforma| [Pedro Sena](https://github.com/pedroyen21) | []()     |
+| 1.0 |  11/05/2024  | Adição das características da Plataforma| [Pedro Sena](https://github.com/pedroyen21) | [Pedro Miguel](https://github.com/pedromadbr)     |
+| 1.1 |  12/05/2024  | Adição da introdução ao documento| [Pedro Miguel](https://github.com/pedromadbr) | []()     |
