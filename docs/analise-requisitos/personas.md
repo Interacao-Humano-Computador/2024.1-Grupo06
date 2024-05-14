@@ -41,7 +41,7 @@ Brenda Silva Santos é uma empreendedora que planeja comprar um carro para auxil
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Persona Motorista Brenda Silva Santos</p></font>
 
-| ![Avatar](https://this-person-does-not-exist.com/img/avatar-gen43a4467040bec48025f52a873df71390.jpg) | Figura 1 - Persona Motorista Brenda Silva Santos <br> Fonte: Elaborado pelo grupo (2024). |
+| ![Avatar](https://this-person-does-not-exist.com/img/avatar-gen3bf75fdd80f68d78913a7cdaf8c1d1d6.jpg) | Figura 1 - Persona Motorista Brenda Silva Santos <br> Fonte: Elaborado pelo grupo (2024). |
 |---------------------|-------------------|
 | Nome                | Brenda Silva Santos |
 | Status              | Persona |
@@ -54,38 +54,16 @@ Brenda Silva Santos é uma empreendedora que planeja comprar um carro para auxil
 | Objetivo            | Comprar um carro para facilitar a entrega de produtos |
 | Expectativas        | Obter informações claras sobre o registro e licenciamento de veículos |
 | Requisitos          | Acesso a informações detalhadas sobre procedimentos e documentação necessária |
-| Tarefas             | Pesquisar informações no portal, realizar procedimentos de registro online |
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Equipe de Projeto</p></font>
-
-### Evelyn Lima Cavalcanti - Anti-Persona
-Evelyn Lima Cavalcanti é uma estudante que ainda não possui interesse direto nos serviços do Detran, como obtenção de CNH ou registro de veículos, pois foca em concluir seus estudos e utiliza principalmente transporte público e bicicleta.
-
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Anti-Persona Evelyn Lima Cavalcanti</p></font>
-
-| ![Avatar](https://this-person-does-not-exist.com/img/avatar-2.jpg) | Figura 2 - Anti-Persona Evelyn Lima Cavalcanti <br> Fonte: Elaborado pelo grupo (2024). |
-|---------------------|-------------------|
-| Nome                | Evelyn Lima Cavalcanti |
-| Status              | Anti-Persona |
-| Gênero              | Feminino |
-| Idade               | 16 |
-| Profissão           | Estudante |
-| Escolaridade        | Ensino Médio Incompleto |
-| Habilidades         | Estudo, pesquisa escolar |
-| Experiências        | Aluna do ensino médio |
-| Objetivo            | Concluir o Ensino Médio |
-| Expectativas        | Não aplicável ao contexto do Detran |
-| Requisitos          | Nenhum relacionado ao Detran |
-| Tarefas             | Estudar, participar de atividades escolares |
+| Tarefas             | Pesquisar informações no portal, realizar procedimentos de registro online, consultar CRLV, agendar vistorias e verificar multas |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Equipe de Projeto</p></font>
 
 ### José Martins - Persona Cidadão
 José Martins é um servidor público que valoriza a eficiência e conveniência dos serviços online para resolver questões burocráticas rapidamente. Ele frequentemente acessa o portal Detran DF para serviços como pagamento de taxas, agendamento de vistorias e obtenção de documentos necessários para o cotidiano.
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Persona Cidadão José Martins</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Persona Cidadão José Martins</p></font>
 
-| ![Avatar](https://this-person-does-not-exist.com/img/avatar-men3.jpg) | Figura 3 - Persona Cidadão José Martins <br> Fonte: Elaborado pelo grupo (2024). |
+| ![Avatar](https://this-person-does-not-exist.com/img/avatar-genc9e6ddac2f3ff2bcb84be4cc35978342.jpg) | Figura 2 - Persona Cidadão José Martins <br> Fonte: Elaborado pelo grupo (2024). |
 |---------------------|-------------------|
 | Nome                | José Martins |
 | Status              | Persona |
@@ -99,6 +77,28 @@ José Martins é um servidor público que valoriza a eficiência e conveniência
 | Expectativas        | Acessar serviços de maneira fácil e intuitiva, encontrar informações claras e precisas |
 | Requisitos          | Interface amigável, informações atualizadas e precisas, segurança nos processos online |
 | Tarefas             | Pagar taxas e multas, agendar vistorias, atualizar cadastro, consultar informações sobre legislação de trânsito |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Equipe de Projeto</p></font>
+
+### Evelyn Lima Cavalcanti - Anti-Persona
+Evelyn Lima Cavalcanti é uma estudante que ainda não possui interesse direto nos serviços do Detran, como obtenção de CNH ou registro de veículos, pois foca em concluir seus estudos e utiliza principalmente transporte público e bicicleta.
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Anti-Persona Evelyn Lima Cavalcanti</p></font>
+
+| ![Avatar](https://this-person-does-not-exist.com/img/avatar-gena71cba442f469ba20f4fd244081c79ec.jpg) | Figura 3 - Anti-Persona Evelyn Lima Cavalcanti <br> Fonte: Elaborado pelo grupo (2024). |
+|---------------------|-------------------|
+| Nome                | Evelyn Lima Cavalcanti |
+| Status              | Anti-Persona |
+| Gênero              | Feminino |
+| Idade               | 16 |
+| Profissão           | Estudante |
+| Escolaridade        | Ensino Médio Incompleto |
+| Habilidades         | Estudo, pesquisa escolar |
+| Experiências        | Aluna do ensino médio |
+| Objetivo            | Concluir o Ensino Médio |
+| Expectativas        | Não aplicável ao contexto do Detran |
+| Requisitos          | Nenhum relacionado ao Detran |
+| Tarefas             | Estudar, participar de atividades escolares |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Equipe de Projeto</p></font>
 
