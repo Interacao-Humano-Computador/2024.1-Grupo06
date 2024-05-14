@@ -37,6 +37,7 @@ nav:
     - Processo de design: planejamento/processo-de-design.md
   - Análise de Requisitos:
     - Principios Gerais: analise-requisitos/pgerais.md
+    - Metas de Usabilidade: analise-requisitos/metas-usabilidade.md
     - Análise de Tarefas: 
       - Análise Hierárquica de Tarefas: analise-requisitos/aht.md
       - GOMS: analise-requisitos/goms.md

@@ -35,15 +35,15 @@ Inicialmente, realizaremos uma avaliação detalhada para identificar quais das 
 
 ### Utilidade
 - **Pergunta Chave**: O sistema oferece a funcionalidade certa no contexto certo?
-- **Avaliação**: Discussão sobre a relevância das funcionalidades oferecidas.
+- **Avaliação no sistema**: Em uma primeira vista, observa-se que o sistema oferece diversos serviços que antigamente só seriam possíveis em uma unidade física do Detran, de forma online. Porém, quando vamos para a prática, muitos serviços não funcionam de forma correta, com muitos deles estando desatualizados, como o serviço de conferir quais clínicas estão credenciadas, CFC's, entre outros. Também há o caso, por exemplo, de que o sistema só registra multas tomadas no âmbito estadual, no caso, do DF, caso o condutor receba uma multa em outro estado, ou seja aplicado por outro órgão, não irá constar no sistema.
 
 ### Aprendizagem
 - **Pergunta Chave**: É fácil aprender a usar o sistema?
-- **Avaliação**: Observações sobre a curva de aprendizado e a intuitividade da interface.
+- **Avaliação**: Uma vez feito o login do usuário, o sistema é bem simples de usar, seguindo vários padrões que são de fácil aprendizado. O problema se encontra na página de login, onde não é muito claro como é o processo para criar uma conta, e a integração com uma conta GOV.com não é feita de forma eficaz.
 
 ### Memorização
 - **Pergunta Chave**: O usuário retém o conhecimento sobre como usar o sistema?
-- **Avaliação**: Avaliação da facilidade de reutilização após períodos sem uso.
+- **Avaliação**: Conforme explicitado anteriormente, o sistema tem uma interface bem simples e que seguem vários padrões, tornando a memorização um aspecto bem fácil de ser aplicado. No geral, dá pra dizer que a utilização do sistema é bastante intuitiva, até mesmo com usuários bom algumas limitações.
 
 ## Conclusão
 
