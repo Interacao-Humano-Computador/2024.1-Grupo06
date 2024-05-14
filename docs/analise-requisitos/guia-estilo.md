@@ -37,7 +37,7 @@ Os usuários acessam o site por meio de uma variedade de dispositivos, incluindo
 Os elementos de interface são apresentados na figura 1:
 
 <figure markdown><p style="text-align: center">Figura 1 - Elementos da Interface.</p>
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/design/zb5apNsCT54zPFvKUEPECH/Untitled?node-id=0%3A1&t=AVCxJ0MGfIfG1cxu-1" allowfullscreen></iframe><figcaption> Fonte: [Víctor Almeida](https://github.com/vitu-moreira), 2024.</figcaption></figure>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2Fzb5apNsCT54zPFvKUEPECH%2FUntitled%3Fnode-id%3D0%253A1%26t%3DAVCxJ0MGfIfG1cxu-1" allowfullscreen></iframe><figcaption> Fonte: [Víctor Almeida](https://github.com/vitu-moreira), 2024.</figcaption></figure>
 
 
 ## Vocabulários e Padrões
