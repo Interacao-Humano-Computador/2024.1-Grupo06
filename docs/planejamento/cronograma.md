@@ -308,3 +308,4 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 | 1.2    | 04/04/2024 | Atualização tabela de executados                | [Vinicius Vieira](https://github.com/viniciusvieira00) | --                                                     |
 | 1.3    | 04/04/2024 | Atualização tabela de planejados outras etapas  | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
 | 1.4    | 09/04/2024 | Atualização tabela de planejados primeira etapa | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
+| 1.5    | 13/05/2024 | Atualização tabela de executado da terceira entrega | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
