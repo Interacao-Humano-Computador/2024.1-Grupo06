@@ -37,6 +37,7 @@ nav:
     - Processo de design: planejamento/processo-de-design.md
   - Análise de Requisitos:
     - Aspectos Éticos: analise-requisitos/aspectos-eticos.md
+    - Perfil do Usuário: analise-requisitos/usuario.md
     - Principios Gerais: analise-requisitos/pgerais.md
     - Análise de Tarefas: 
       - Análise Hierárquica de Tarefas: analise-requisitos/aht.md
