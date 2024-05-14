@@ -37,13 +37,10 @@ Inicialmente, realizaremos uma avaliação detalhada para identificar quais das 
 4. **Acesso a Informações e Educação**: O portal deve oferecer acesso fácil a informações educacionais sobre segurança no trânsito, legislação vigente, e novidades ou alterações nas regulamentações de trânsito.
 - O sistema fornece informações educacionais sobre segurança no trânsito, legislação vigente e outras informações relevantes para os usuários. No entanto, a organização e a apresentação dessas informações podem ser melhoradas para torná-las mais acessíveis e fáceis de encontrar. Além disso, a atualização constante dessas informações é essencial para manter os usuários informados sobre as últimas novidades e alterações nas regulamentações de trânsito, o que pode ser um ponto de melhoria.
 
-#### Conclusão sobre a Eficácia
-
-O sistema do Detran DF atende parcialmente aos propósitos principais para os quais foi projetado, oferecendo funcionalidades essenciais para os usuários, como renovação de CNH, consulta de multas e infrações, pagamento de multas e acesso a informações educacionais. No entanto, existem áreas que requerem melhorias para garantir a eficácia do sistema, como a clareza das instruções fornecidas aos usuários, a apresentação das informações disponíveis, a integração com outros órgãos de trânsito e a segurança do sistema de pagamento. Essas melhorias podem contribuir significativamente para aprimorar a experiência dos usuários e aumentar a eficácia do sistema como um todo.
 
 ### Eficiência
 - **Pergunta Chave**: Quantos recursos são utilizados para realizar a tarefa específica?
-- **Avaliação**: Utilizando o serviço mais utilizado do website do Detran DF, a consulta de multas e infrações, podemos avaliar a eficiência do sistema em termos de tempo e esforço necessários para realizar a tarefa. A eficiência pode ser medida pela rapidez com que os usuários conseguem acessar as informações desejadas, bem como pela facilidade de navegação e interação com o sistema. A utilização desse serviço pdoe revelar alguns problemas de eficiência, como a falta de filtro de busca, a apresentação de informações desnecessárias, e principalmente a falta de integração com outros órgãos de trânsito, o que pode dificultar a obtenção de dados completos sobre infrações, tornando o processo mais demorado e complexo do que o necessário, dando ao usuário uma experiência menos eficiente, tendo que recorrer a outros meios para obter as informações desejadas.
+- **Avaliação**: Utilizando o serviço mais utilizado do website do Detran DF, a consulta de multas e infrações, podemos avaliar a eficiência do sistema em termos de tempo e esforço necessários para realizar a tarefa. A eficiência pode ser medida pela rapidez com que os usuários conseguem acessar as informações desejadas, bem como pela facilidade de navegação e interação com o sistema. A utilização desse serviço pode revelar alguns problemas de eficiência, como a falta de filtro de busca, a apresentação de informações desnecessárias, e principalmente a falta de integração com outros órgãos de trânsito, o que pode dificultar a obtenção de dados completos sobre infrações, tornando o processo mais demorado e complexo do que o necessário, dando ao usuário uma experiência menos eficiente, tendo que recorrer a outros meios para obter as informações desejadas.
 
 ### Segurança
 - **Pergunta Chave**: O sistema previne erros? Recupera ações anteriores?
@@ -63,7 +60,10 @@ O sistema do Detran DF atende parcialmente aos propósitos principais para os qu
 
 ## Conclusão
 
-Resumo das principais descobertas da avaliação, destacando as áreas de sucesso e as que requerem melhorias.
+- Eficácia: O sistema do Detran DF atende parcialmente aos propósitos principais para os quais foi projetado, oferecendo funcionalidades essenciais para os usuários, como renovação de CNH, consulta de multas e infrações, pagamento de multas e acesso a informações educacionais. No entanto, existem áreas que requerem melhorias para garantir a eficácia do sistema, como a clareza das instruções fornecidas aos usuários, a apresentação das informações disponíveis, a integração com outros órgãos de trânsito e a segurança do sistema de pagamento. Essas melhorias podem contribuir significativamente para aprimorar a experiência dos usuários e aumentar a eficácia do sistema como um todo.
+- Eficiência: Pontos a melhoras são: Aprimorar a integração com serviços de outros órgãos de trânsito, a falta de filtro de busca e informações desnecessárias sendo apresentadas, criando uma poluição de informação no sistema;
+- Segurança: O website é bem seguro, traz o selo de segurança do domínio .gov.br para autenticação de sessão, mas um ponto de atenção é o sistema de pagamentos, que precisará de um estudo dedicado para verificar e validar o nível de segurança dos dados sensíveis; 
+- Usabilidade: O portal traz melhorias em usabilidade quando se compara as ações que um usuário deveria tomar presencialmente com alguns cliques do mouse. Porém, há alguns pontos que precisam ser atualizados, como o serviço de procurar clínicas credenciadas do Detran, e também o serviço de checar multas, que não mostra multas de fora do estado.  
 
 ## Referência Bibliográfica
 
@@ -75,5 +75,6 @@ Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https:/
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                         | Revisor(es)                                    |
 | ------ | ---------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| `1.0`  | 11/05/2024 | Criação da página. | [Vinicius Vieira](https://github.com/viniciusvieira00)| [Filipe Carvalho](https://github.com/filipe-002) |
+| `1.0`  | 11/05/2024 | Criação da página. | [Vinicius Vieira](https://github.com/viniciusvieira00)| . |
 | `1.1`  | 11/05/2024 | Adicionando tópicos. | [Filipe Carvalho](https://github.com/filipe-002)| [Daniel Coimbra](https://github.com/DanielCoimbra) | 
+| `1.2`  | 11/05/2024 | Conclusão da página. | [DanielCoimbra](https://github.com/filipe-002)| [Filipe Carvalho](https://github.com/filipe-002) | 
