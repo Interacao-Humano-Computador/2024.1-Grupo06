@@ -92,10 +92,10 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira 
 
 | Atividade                        | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
 | -------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
-| Princípios gerais do projeto<br> | Início: 09/05<br>Fim: 11/05 | Filipe Carvalho | Início: 27/04<br>Fim: 30/04 | --        |
+| Princípios gerais do projeto<br> | Início: 09/05<br>Fim: 11/05 | Filipe Carvalho | Início: 27/04<br>Fim: 13/05 | --        |
 | Características da plataforma para o projeto<br> | Início: 11/05<br>Fim: 13/05 | Pedro Sena, Pedro Miguel e Vinicius Vieira | Início: 27/04<br>Fim: 30/04 | --        |
-| Metas de usabilidade<br>         | Início: 09/05<br>Fim: 11/05 | Filipe Carvalho | Início: 27/04<br>Fim: 30/04 | --        |
-| Guia de estilo <br>              | Início: 11/05<br>Fim: 12/05 | Todos | Início: 27/04<br>Fim: 30/04 | --        |
+| Metas de usabilidade<br>         | Início: 09/05<br>Fim: 11/05 | Filipe Carvalho | Início: 27/04<br>Fim: 13/05 | --        |
+| Guia de estilo <br>              | Início: 11/05<br>Fim: 12/05 | Todos | Início: 12/05<br>Fim: 13/05 | --        |
 | Gravar Apresentação<br>          | Início: 15/05<br>Fim: 15/05 | Todos | Início: 08/05<br>Fim: 14/05 | Todos     |
 | Correção pós apresentação<br>    | Início: 15/05<br>Fim: 16/05 | Todos | Início: 16/05<br>Fim: 16/05 | Todos     |
 
@@ -109,8 +109,15 @@ Na Tabela 6, está explicitado o cronograma executado das atividades da terceira
 
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Princípios gerais do projeto</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+
+| Atividade                        | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
+| -------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
+| Princípios gerais do projeto<br> | Início: 09/05<br>Fim: 11/05 | Filipe Carvalho | Início: 27/04<br>Fim: 13/05 | --        |
+| Características da plataforma para o projeto<br> | Início: 11/05<br>Fim: 13/05 | Pedro Sena, Pedro Miguel e Vinicius Vieira | Início: 27/04<br>Fim: 30/04 | --        |
+| Metas de usabilidade<br>         | Início: 09/05<br>Fim: 11/05 | Filipe Carvalho | Início: 27/04<br>Fim: 13/05 | --        |
+| Guia de estilo <br>              | Início: 11/05<br>Fim: 12/05 | Todos | Início: 12/05<br>Fim: 13/05 | --        |
+| Gravar Apresentação<br>          | Início: 15/05<br>Fim: 15/05 | Todos | Início: 08/05<br>Fim: 14/05 | Todos     |
+| Correção pós apresentação<br>    | Início: 15/05<br>Fim: 16/05 | Todos | Início: 16/05<br>Fim: 16/05 | Todos     |
 
 ## Etapa 4 - Planejamento da avaliação do Storyboard
 
@@ -301,3 +308,4 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 | 1.2    | 04/04/2024 | Atualização tabela de executados                | [Vinicius Vieira](https://github.com/viniciusvieira00) | --                                                     |
 | 1.3    | 04/04/2024 | Atualização tabela de planejados outras etapas  | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
 | 1.4    | 09/04/2024 | Atualização tabela de planejados primeira etapa | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
+| 1.5    | 13/05/2024 | Atualização tabela de executado da terceira entrega | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
