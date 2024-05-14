@@ -37,9 +37,11 @@ nav:
     - Processo de design: planejamento/processo-de-design.md
   - Análise de Requisitos:
     - Perfil do Usuário: analise-requisitos/usuario.md
+    - Principios Gerais: analise-requisitos/pgerais.md
     - Análise de Tarefas: 
       - Análise Hierárquica de Tarefas: analise-requisitos/aht.md
       - GOMS: analise-requisitos/goms.md
+    - Características da Plataforma: analise-requisitos/caracteristicas-plataforma.md
 
 
 
