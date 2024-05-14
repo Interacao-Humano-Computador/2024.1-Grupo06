@@ -75,4 +75,4 @@ Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https:/
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                         | Revisor(es)                                    |
 | ------ | ---------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| `1.0`  | 11/05/2024 | Criação da página. | [Vinicius Vieira](https://github.com/viniciusvieira00)| . |
+| `1.0`  | 13/05/2024 | Criação da página. | [Vinicius Vieira](https://github.com/viniciusvieira00)| . |
