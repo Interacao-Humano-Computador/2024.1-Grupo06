@@ -30,10 +30,77 @@ Foram identificadas duas categorias principais de usuários: motoristas, que bus
 
 - **Motorista**: usuário que busca informações sobre habilitação, veículos e infrações.
 - **Cidadão**: usuário que busca informações sobre serviços e informações gerais.
+- **Anti-Persona**: usuário que não utiliza o portal, ou que não se encaixa nas categorias de motorista ou cidadão.
 
 ## Personas
 
+Vamos melhorar e completar os perfis das personas para o portal Detran DF, utilizando o modelo detalhado fornecido e alinhando as informações das personas com as categorias identificadas:
 
+### Brenda Silva Santos - Persona Motorista
+Brenda Silva Santos é uma empreendedora que planeja comprar um carro para auxiliar na logística de seu negócio. Ela valoriza informações claras e precisas sobre os procedimentos de registro e licenciamento de veículos para garantir que tudo esteja em conformidade com as regulamentações locais.
+
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Persona Motorista Brenda Silva Santos</p></font>
+
+| ![Avatar](https://this-person-does-not-exist.com/img/avatar-gen43a4467040bec48025f52a873df71390.jpg) | Figura 1 - Persona Motorista Brenda Silva Santos <br> Fonte: Elaborado pelo grupo (2024). |
+|---------------------|-------------------|
+| Nome                | Brenda Silva Santos |
+| Status              | Persona |
+| Gênero              | Feminino |
+| Idade               | 49 |
+| Profissão           | Autônoma |
+| Escolaridade        | Ensino Superior Completo |
+| Habilidades         | Gerenciamento de negócios, planejamento estratégico |
+| Experiências        | Proprietária de um pequeno negócio |
+| Objetivo            | Comprar um carro para facilitar a entrega de produtos |
+| Expectativas        | Obter informações claras sobre o registro e licenciamento de veículos |
+| Requisitos          | Acesso a informações detalhadas sobre procedimentos e documentação necessária |
+| Tarefas             | Pesquisar informações no portal, realizar procedimentos de registro online |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Equipe de Projeto</p></font>
+
+### Evelyn Lima Cavalcanti - Anti-Persona
+Evelyn Lima Cavalcanti é uma estudante que ainda não possui interesse direto nos serviços do Detran, como obtenção de CNH ou registro de veículos, pois foca em concluir seus estudos e utiliza principalmente transporte público e bicicleta.
+
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Anti-Persona Evelyn Lima Cavalcanti</p></font>
+
+| ![Avatar](https://this-person-does-not-exist.com/img/avatar-2.jpg) | Figura 2 - Anti-Persona Evelyn Lima Cavalcanti <br> Fonte: Elaborado pelo grupo (2024). |
+|---------------------|-------------------|
+| Nome                | Evelyn Lima Cavalcanti |
+| Status              | Anti-Persona |
+| Gênero              | Feminino |
+| Idade               | 16 |
+| Profissão           | Estudante |
+| Escolaridade        | Ensino Médio Incompleto |
+| Habilidades         | Estudo, pesquisa escolar |
+| Experiências        | Aluna do ensino médio |
+| Objetivo            | Concluir o Ensino Médio |
+| Expectativas        | Não aplicável ao contexto do Detran |
+| Requisitos          | Nenhum relacionado ao Detran |
+| Tarefas             | Estudar, participar de atividades escolares |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Equipe de Projeto</p></font>
+
+### José Martins - Persona Cidadão
+José Martins é um servidor público que valoriza a eficiência e conveniência dos serviços online para resolver questões burocráticas rapidamente. Ele frequentemente acessa o portal Detran DF para serviços como pagamento de taxas, agendamento de vistorias e obtenção de documentos necessários para o cotidiano.
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Persona Cidadão José Martins</p></font>
+
+| ![Avatar](https://this-person-does-not-exist.com/img/avatar-men3.jpg) | Figura 3 - Persona Cidadão José Martins <br> Fonte: Elaborado pelo grupo (2024). |
+|---------------------|-------------------|
+| Nome                | José Martins |
+| Status              | Persona |
+| Gênero              | Masculino |
+| Idade               | 38 |
+| Profissão           | Servidor Público |
+| Escolaridade        | Ensino Superior Completo |
+| Habilidades         | Organização, comunicação eficaz |
+| Experiências        | Utilização de serviços online governamentais |
+| Objetivo            | Resolver questões burocráticas de forma rápida e eficiente |
+| Expectativas        | Acessar serviços de maneira fácil e intuitiva, encontrar informações claras e precisas |
+| Requisitos          | Interface amigável, informações atualizadas e precisas, segurança nos processos online |
+| Tarefas             | Pagar taxas e multas, agendar vistorias, atualizar cadastro, consultar informações sobre legislação de trânsito |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Equipe de Projeto</p></font>
 
 ## Referência Bibliográfica
 
