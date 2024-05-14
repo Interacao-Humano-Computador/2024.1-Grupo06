@@ -76,4 +76,4 @@ Tarefa em que o usuário solicita uma Permissão Internacional para Dirigir.
 
 |   Versão   | Data  | Descrição            | Autor                                                  | Revisor |
 | :--------: | :---: | :------------------- | ------------------------------------------------------ | ------- |
-| 06/05/2024 |  1.0  | AHT 1 e 2| [Pedro Sena](https://github.com/pedroyen21) | []()     |
+| 06/05/2024 |  1.0  | AHT 1 e 2| [Pedro Sena](https://github.com/pedroyen21) | [Filipe Carvalho](https://github.com/Filipe-002)     |
