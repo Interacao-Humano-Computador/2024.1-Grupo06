@@ -23,15 +23,31 @@ Inicialmente, realizaremos uma avaliação detalhada para identificar quais das 
 
 ### Eficácia
 - **Pergunta Chave**: O sistema serve ao propósito principal?
-- **Avaliação**: Análise de como o sistema atende ao seu objetivo principal, com exemplos de sucesso ou falhas observadas.
+- **Avaliação**: Para responder a essa pergunta, é importante primeiro definir quais são esses propósitos principais. Partindo dos objetivos principais dentro do website, facilitar o acesso dos cidadãos a serviços relacionados a veículos, habilitação, infrações, e outros aspectos regulatórios e administrativos de trânsito. Vamos considerar alguns dos principais serviços oferecidos pelo portal do Detran DF para avaliar sua eficácia:
+
+1. **Renovação de CNH (Carteira Nacional de Habilitação)**: O sistema deve permitir que os usuários renovem suas CNHs de maneira eficiente, sem a necessidade de visitas presenciais, a menos que seja absolutamente necessário.
+- O sistema resolve em parte o processo de renovação da CNH, permitindo que o usuário inicie o processo online e continue o processo de renovação indo a uma clínica credenciada para realizar os exames necessários. Após isso, o usuário deve comparecer a um posto de atendimento do Detran para finalizar o processo. A eficácia do sistema pode ser avaliada pela facilidade de uso e clareza das instruções fornecidas aos usuários, porém uma certa limitação na indicação de clínicas credenciadas pode ser um ponto de melhoria.
+
+2. **Consulta de Multas e Infrações**: Os usuários devem ser capazes de verificar facilmente quaisquer multas ou infrações registradas contra seus veículos ou CNHs, bem como acessar detalhes sobre cada infração.
+- O sistema permite que os usuários consultem multas e infrações registradas contra seus veículos ou CNHs, fornecendo informações detalhadas sobre cada infração. O processo de consulta é relativamente simples e direto, mas a apresentação das informações poderia ser mais clara e intuitiva, facilitando a compreensão dos usuários. Outro ponto que vale ressaltar, é a falta de integração com outros órgãos de trânsito, o que pode limitar a abrangência das informações disponíveis, dificultando a obtenção de dados completos sobre infrações, o que pode ser um ponto de melhoria.
+
+3. **Pagamento de Multas**: Deve ser possível pagar multas diretamente pelo portal, utilizando métodos de pagamento seguros e confiáveis.
+- Atualmente o sistema permite que os usuários paguem multas diretamente pelo portal, oferecendo diferentes métodos de pagamento. No entanto, a experiência de pagamento pode ser aprimorada para torná-la mais intuitiva e eficiente, garantindo que os usuários possam concluir o processo sem dificuldades. Além disso, a segurança do sistema de pagamento deve ser uma prioridade, garantindo que as informações dos usuários sejam protegidas contra fraudes e vazamentos de dados, algo que não há como avaliar sem uma análise mais aprofundada, e com acesso ao código fonte do sistema.
+
+4. **Acesso a Informações e Educação**: O portal deve oferecer acesso fácil a informações educacionais sobre segurança no trânsito, legislação vigente, e novidades ou alterações nas regulamentações de trânsito.
+- O sistema fornece informações educacionais sobre segurança no trânsito, legislação vigente e outras informações relevantes para os usuários. No entanto, a organização e a apresentação dessas informações podem ser melhoradas para torná-las mais acessíveis e fáceis de encontrar. Além disso, a atualização constante dessas informações é essencial para manter os usuários informados sobre as últimas novidades e alterações nas regulamentações de trânsito, o que pode ser um ponto de melhoria.
+
+#### Conclusão sobre a Eficácia
+
+O sistema do Detran DF atende parcialmente aos propósitos principais para os quais foi projetado, oferecendo funcionalidades essenciais para os usuários, como renovação de CNH, consulta de multas e infrações, pagamento de multas e acesso a informações educacionais. No entanto, existem áreas que requerem melhorias para garantir a eficácia do sistema, como a clareza das instruções fornecidas aos usuários, a apresentação das informações disponíveis, a integração com outros órgãos de trânsito e a segurança do sistema de pagamento. Essas melhorias podem contribuir significativamente para aprimorar a experiência dos usuários e aumentar a eficácia do sistema como um todo.
 
 ### Eficiência
 - **Pergunta Chave**: Quantos recursos são utilizados para realizar a tarefa específica?
-- **Avaliação**: Discussão sobre a usabilidade em termos de localização de recursos e facilidade de navegação.
+- **Avaliação**: Utilizando o serviço mais utilizado do website do Detran DF, a consulta de multas e infrações, podemos avaliar a eficiência do sistema em termos de tempo e esforço necessários para realizar a tarefa. A eficiência pode ser medida pela rapidez com que os usuários conseguem acessar as informações desejadas, bem como pela facilidade de navegação e interação com o sistema. A utilização desse serviço pdoe revelar alguns problemas de eficiência, como a falta de filtro de busca, a apresentação de informações desnecessárias, e principalmente a falta de integração com outros órgãos de trânsito, o que pode dificultar a obtenção de dados completos sobre infrações, tornando o processo mais demorado e complexo do que o necessário, dando ao usuário uma experiência menos eficiente, tendo que recorrer a outros meios para obter as informações desejadas.
 
 ### Segurança
 - **Pergunta Chave**: O sistema previne erros? Recupera ações anteriores?
-- **Avaliação**: Análise de mecanismos de segurança e recuperação de erros implementados.
+- **Avaliação**: O sistema do Detran DF é seguro em termos de proteção de dados, principalmente por utilizar o meio do gov.br para autenticação dos usuários, garantindo a segurança das informações pessoais dos usuários. No entanto, a segurança do sistema de pagamento deve ser uma prioridade, garantindo que as informações dos usuários sejam protegidas contra fraudes e vazamentos de dados, algo que não há como avaliar sem uma análise mais aprofundada, e com acesso ao código fonte do sistema. Um outro ponto importante a se destacar, é a demora da resposta para o sistema dar "baixa" em uma multa paga, o que pode gerar confusão e desconfiança por parte dos usuários, que podem achar que o pagamento não foi efetuado corretamente, ou que o sistema está com problemas, podendo até mesmo efetuar o pagamento novamente, gerando transtornos desnecessários, que poderiam ser evitados com uma resposta mais rápida do sistema, ou com o "travamento" do pagamento após a primeira tentativa, evitando pagamentos duplicados.
 
 ### Utilidade
 - **Pergunta Chave**: O sistema oferece a funcionalidade certa no contexto certo?
