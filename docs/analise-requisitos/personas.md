@@ -102,6 +102,12 @@ José Martins é um servidor público que valoriza a eficiência e conveniência
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Equipe de Projeto</p></font>
 
+### Manoel Carvalho Soares - Persona Idoso
+
+Manoel Silva é um idoso de 63 anos que trabalhou a maior parte de sua vida como funcionário público, onde se destacou pela dedicação e responsabilidade. Após a aposentadoria, Manoel mantém uma vida ativa, participando de atividades comunitárias e passando tempo com sua família, especialmente com seus netos, que o ajudam com a tecnologia de vez em quando. Seu Manoel decidiu utilizar o site do Detran para a obtenção do cartão de estacionamento para idosos, para evitar o transtorno de se deslocar para uma unidade do Detran.
+
+| ![Avatar](https://this-person-does-not-exist.com/img/avatar-men3.jpg) | Figura 3 - Persona Cidadão José Martins <br> Fonte: Elaborado pelo grupo (2024). |
+
 ## Referência Bibliográfica
 
 - BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.

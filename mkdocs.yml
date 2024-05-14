@@ -36,6 +36,7 @@ nav:
     - Sites avaliados: planejamento/sites-avaliados.md
     - Processo de design: planejamento/processo-de-design.md
   - Análise de Requisitos:
+    - Personas: analise-requisitos/personas
     - Principios Gerais: analise-requisitos/pgerais.md
     - Metas de Usabilidade: analise-requisitos/metas-usabilidade.md
     - Análise de Tarefas: 
