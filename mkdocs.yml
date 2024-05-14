@@ -41,9 +41,9 @@ nav:
     - Análise de Tarefas: 
       - Análise Hierárquica de Tarefas: analise-requisitos/aht.md
       - GOMS: analise-requisitos/goms.md
+    - Características da Plataforma: analise-requisitos/caracteristicas-plataforma.md
     - Principios Gerais: analise-requisitos/pgerais.md
     - Metas de Usabilidade: analise-requisitos/metas-usabilidade.md
-    - Características da Plataforma: analise-requisitos/caracteristicas-plataforma.md
     - Guia de Estilo: analise-requisitos/guia-estilo.md
 
 
