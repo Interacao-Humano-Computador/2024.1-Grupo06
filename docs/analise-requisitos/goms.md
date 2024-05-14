@@ -46,4 +46,4 @@ GOAL 0: Emitir permissão para dirigir em outro País
 
 |   Versão   | Data  | Descrição            | Autor                                                  | Revisor |
 | :--------: | :---: | :------------------- | ------------------------------------------------------ | ------- |
-| 06/05/2024 |  1.0  | GOMS 1 e 2| [Pedro Sena](https://github.com/pedroyen21) | []()     |
+| 06/05/2024 |  1.0  | GOMS 1 e 2| [Pedro Sena](https://github.com/pedroyen21) | [Filipe Carvalho](https://github.com/Filipe-002)     |
