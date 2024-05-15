@@ -12,18 +12,16 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto</p></font>
 
-| Atividade                                   | Período de desenvolvimento | Responsável     | Período de Revisão | Revisores                                                        | Data da Entrega |
-| ------------------------------------------- | -------------------------- | --------------- | ------------------ | ---------------------------------------------------------------- | --------------- |
-| Seleção de Websites                         | 25/03 - 01/04              | Daniel Coimbra  | 03/04 - 04/04      | Vinicius Vieira, Victor Almeida, Pedro Sena, Filipe Carvalho     | 04/04           |
-| Documentação da equipe                      | 01/04 - 03/04              | Todos           | 03/04 - 08/04      | Todos                                                            | 08/04           |
-| Seleção de um website dentro dos candidatos | 03/04                      | Todos           | 01/04 - 08/04      | Todos                                                            | 08/04           |
-| Ferramentas utilizadas no projeto           | 02/04                      | Filipe Carvalho | 02/04              | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena      | 02/04           |
-| Processo de Design                          | 02/04 - 04/04              | Pedro Sena      | 04/04 - 05/04      | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Filipe Carvalho | 05/04           |
-| Cronograma de atividades                    | 02/04                      | Vinicius Vieira | 02/04              | Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho      | 02/04           |
-| Gravar vídeo de apresentação                | 05/04 - 07/04              | Todos           | 08/04              | Todos                                                            | 08/04           |
-| Correção pós apresentação                   | 09/04 - 12/04              | Todos           | 12/04              | Todos                                                            | 12/04           |
-
-
+| Atividade                                   | Período de desenvolvimento | Responsável                                                                  | Período de Revisão | Revisores                                                                    | Data da Entrega |
+| ------------------------------------------- | -------------------------- | ---------------------------------------------------------------------------- | ------------------ | ---------------------------------------------------------------------------- | --------------- |
+| Seleção de Websites                         | 25/03 - 01/04              | Daniel Coimbra                                                               | 03/04 - 04/04      | Vinicius Vieira, Victor Almeida, Pedro Sena, Filipe Carvalho                 | 04/04           |
+| Documentação da equipe                      | 01/04 - 03/04              | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena | 03/04 - 08/04      | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena | 08/04           |
+| Seleção de um website dentro dos candidatos | 03/04                      | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena | 01/04 - 08/04      | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena | 08/04           |
+| Ferramentas utilizadas no projeto           | 02/04                      | Filipe Carvalho                                                              | 02/04              | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena                  | 02/04           |
+| Processo de Design                          | 02/04 - 04/04              | Pedro Sena                                                                   | 04/04 - 05/04      | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Filipe Carvalho             | 05/04           |
+| Cronograma de atividades                    | 02/04                      | Vinicius Vieira                                                              | 02/04              | Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho                  | 02/04           |
+| Gravar vídeo de apresentação                | 05/04 - 07/04              | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena | 08/04              | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena | 08/04           |
+| Correção pós apresentação                   | 09/04 - 12/04              | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena | 12/04              | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena | 12/04           |
 
 ### Executado
 
@@ -31,15 +29,15 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento do Projeto</p></font>
 
-| Atividade                                   | Período de desenvolvimento | Responsável     | Revisão       | Revisores                                                        | Data da Entrega |
-| ------------------------------------------- | -------------------------- | --------------- | ------------- | ---------------------------------------------------------------- | --------------- |
-| Seleção de Websites                         | 25/03 - 01/04              | Daniel Coimbra  | 03/04 - 04/04 | Vinicius Vieira, Victor Almeida, Pedro Sena, Filipe Carvalho     | 02/04           |
-| Documentação da equipe                      | 01/04 - 03/04              | Todos           | 03/04 - 08/04 | Todos                                                            | 02/04           |
-| Cronograma de atividades                    | 02/04                      | Vinicius Vieira | 02/04         | Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho      | 02/04           |
-| Seleção de um website dentro dos candidatos | 03/04                      | Todos           | 01/04 - 08/04 | Todos                                                            | 08/04           |
-| Ferramentas utilizadas no projeto           | 02/04                      | Filipe Carvalho | 02/04         | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena      | 02/04           |
-| Processo de Design                          | 02/04 - 04/04              | Pedro Sena      | 04/04 - 05/04 | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Filipe Carvalho | 05/04           |
-| Gravar vídeo de apresentação                | 05/04 - 07/04              | Todos           | 08/04         | Todos                                                            | 08/04           |
+| Atividade                                   | Período de desenvolvimento | Responsável                                                                  | Revisão       | Revisores                                                                    | Data da Entrega |
+| ------------------------------------------- | -------------------------- | ---------------------------------------------------------------------------- | ------------- | ---------------------------------------------------------------------------- | --------------- |
+| Seleção de Websites                         | 25/03 - 01/04              | Daniel Coimbra                                                               | 03/04 - 04/04 | Vinicius Vieira, Victor Almeida, Pedro Sena, Filipe Carvalho                 | 02/04           |
+| Documentação da equipe                      | 01/04 - 03/04              | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena | 03/04 - 08/04 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena | 02/04           |
+| Cronograma de atividades                    | 02/04                      | Vinicius Vieira                                                              | 02/04         | Daniel Coimbra, Victor Almeida, Pedro Sena, Filipe Carvalho                  | 02/04           |
+| Seleção de um website dentro dos candidatos | 03/04                      | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena | 01/04 - 08/04 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena | 08/04           |
+| Ferramentas utilizadas no projeto           | 02/04                      | Filipe Carvalho                                                              | 02/04         | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Pedro Sena                  | 02/04           |
+| Processo de Design                          | 02/04 - 04/04              | Pedro Sena                                                                   | 04/04 - 05/04 | Vinicius Vieira, Daniel Coimbra, Victor Almeida, Filipe Carvalho             | 05/04           |
+| Gravar vídeo de apresentação                | 05/04 - 07/04              | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena | 08/04         | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena | 08/04           |
 |                                             |
 
 
@@ -51,15 +49,15 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Perfil do usuário</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
-| Perfil do usuário | 09/05 - 10/05 | Filipe Carvalho | 11/04 | Pedro Sena | 10/05 | 
-| Personas | 09/05 - 10/05 | Victor Moreira | 12/05 | Pedro Sena  | 12/05 |
-| Pesquisa sobre ética | 09/05 - 10/05 | Victor Moreira e Pedro Miguel | 12/05 | Filipe Carvalho | 12/05 |
-| Execução do documento | 09/05 - 10/05 | Todos | 12/05 | Todos | 12/05 |
-| Análise de tarefas        | 11/05 - 12/05 | Todos | 12/05 | Todos | 12/05 |
-| Gravação da Apresentação  | 12/05 - 12/05 | Todos | 12/05 | Todos | 12/05 |
-| Correção pós apresentação | 12/05 - 12/05 | Todos | 12/05 | Todos | 12/05 |
+| Atividade                 | Período de desenvolvimento | Responsável                                                                                | Revisão | Revisores                                                                                  | Data da Entrega |
+| ------------------------- | -------------------------- | ------------------------------------------------------------------------------------------ | ------- | ------------------------------------------------------------------------------------------ | --------------- |
+| Perfil do usuário         | 09/05 - 10/05              | Filipe Carvalho                                                                            | 11/04   | Pedro Sena                                                                                 | 10/05           |
+| Personas                  | 09/05 - 10/05              | Victor Moreira                                                                             | 12/05   | Pedro Sena                                                                                 | 12/05           |
+| Pesquisa sobre ética      | 09/05 - 10/05              | Victor Moreira e Pedro Miguel                                                              | 12/05   | Filipe Carvalho                                                                            | 12/05           |
+| Execução do documento     | 09/05 - 10/05              | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | 12/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | 12/05           |
+| Análise de tarefas        | 11/05 - 12/05              | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | 12/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | 12/05           |
+| Gravação da Apresentação  | 12/05 - 12/05              | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | 12/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | 12/05           |
+| Correção pós apresentação | 12/05 - 12/05              | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | 12/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | 12/05           |
 
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
@@ -72,15 +70,15 @@ Na Tabela 4, está explicitado o cronograma executado das atividades da segunda 
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Perfil dos Usuários</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
-| Perfil do usuário | 04/05 - 09/05 | Filipe Carvalho | 11/04 | Pedro Sena | 10/05 | 
-| Personas | 09/05 - 10/05 | Victor Moreira | 11/05 | Pedro Sena  | 12/05 |
-| Pesquisa sobre ética | 09/05 - 10/05 | Victor Moreira e Pedro Miguel | 12/05 | Filipe Carvalho | 12/05 |
-| Execução do documento | 09/05 - 10/05 | Todos | 12/05 | Todos | 12/05 |
-| Análise de tarefas        | 11/05 - 12/05 | Todos | 12/05 | Todos | 12/05 |
-| Gravação da Apresentação  | 12/05 - 12/05 | Todos | 12/05 | Todos | 12/05 |
-| Correção pós apresentação | 12/05 - 12/05 | Todos | 12/05 | Todos | 12/05 |
+| Atividade                 | Período de desenvolvimento | Responsável                                                                                | Revisão | Revisores                                                                                  | Data da Entrega |
+| ------------------------- | -------------------------- | ------------------------------------------------------------------------------------------ | ------- | ------------------------------------------------------------------------------------------ | --------------- |
+| Perfil do usuário         | 04/05 - 09/05              | Filipe Carvalho                                                                            | 11/04   | Pedro Sena                                                                                 | 10/05           |
+| Personas                  | 09/05 - 10/05              | Victor Moreira                                                                             | 11/05   | Pedro Sena                                                                                 | 12/05           |
+| Pesquisa sobre ética      | 09/05 - 10/05              | Victor Moreira e Pedro Miguel                                                              | 12/05   | Filipe Carvalho                                                                            | 12/05           |
+| Execução do documento     | 09/05 - 10/05              | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | 12/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | 12/05           |
+| Análise de tarefas        | 11/05 - 12/05              | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | 12/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | 12/05           |
+| Gravação da Apresentação  | 12/05 - 12/05              | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | 12/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | 12/05           |
+| Correção pós apresentação | 12/05 - 12/05              | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | 12/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | 12/05           |
 
 ## Etapa 3 - Princípios gerais do projeto
 
@@ -90,14 +88,14 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira 
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Princípios gerais do projeto</p></font>
 
-| Atividade                        | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
-| -------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
-| Princípios gerais do projeto<br> | Início: 09/05<br>Fim: 11/05 | Filipe Carvalho | Início: 27/04<br>Fim: 13/05 | --        |
-| Características da plataforma para o projeto<br> | Início: 11/05<br>Fim: 13/05 | Pedro Sena, Pedro Miguel e Vinicius Vieira | Início: 27/04<br>Fim: 30/04 | --        |
-| Metas de usabilidade<br>         | Início: 09/05<br>Fim: 11/05 | Filipe Carvalho | Início: 27/04<br>Fim: 13/05 | --        |
-| Guia de estilo <br>              | Início: 11/05<br>Fim: 12/05 | Todos | Início: 12/05<br>Fim: 13/05 | --        |
-| Gravar Apresentação<br>          | Início: 15/05<br>Fim: 15/05 | Todos | Início: 08/05<br>Fim: 14/05 | Todos     |
-| Correção pós apresentação<br>    | Início: 15/05<br>Fim: 16/05 | Todos | Início: 16/05<br>Fim: 16/05 | Todos     |
+| Atividade                                        | Período de desenvolvimento  | Responsáveis                                                                               | Revisão                     | Revisores                                                                                  |
+| ------------------------------------------------ | --------------------------- | ------------------------------------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------------------------------------ |
+| Princípios gerais do projeto<br>                 | Início: 09/05<br>Fim: 11/05 | Filipe Carvalho                                                                            | Início: 12/05<br>Fim: 13/05 | --                                                                                         |
+| Características da plataforma para o projeto<br> | Início: 11/05<br>Fim: 13/05 | Pedro Sena, Pedro Miguel e Vinicius Vieira                                                 | Início: 12/05<br>Fim: 30/04 | --                                                                                         |
+| Metas de usabilidade<br>                         | Início: 09/05<br>Fim: 11/05 | Filipe Carvalho                                                                            | Início: 12/05<br>Fim: 13/05 | --                                                                                         |
+| Guia de estilo <br>                              | Início: 11/05<br>Fim: 12/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | Início: 12/05<br>Fim: 13/05 | --                                                                                         |
+| Gravar Apresentação<br>                          | Início: 12/05<br>Fim: 12/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | Início: 12/05<br>Fim: 14/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel |
+| Correção pós apresentação<br>                    | Início: 13/05<br>Fim: 15/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | Início: 15/05<br>Fim: 16/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel |
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
@@ -110,14 +108,14 @@ Na Tabela 6, está explicitado o cronograma executado das atividades da terceira
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Princípios gerais do projeto</p></font>
 
 
-| Atividade                        | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
-| -------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
-| Princípios gerais do projeto<br> | Início: 09/05<br>Fim: 11/05 | Filipe Carvalho | Início: 27/04<br>Fim: 13/05 | --        |
-| Características da plataforma para o projeto<br> | Início: 11/05<br>Fim: 13/05 | Pedro Sena, Pedro Miguel e Vinicius Vieira | Início: 27/04<br>Fim: 30/04 | --        |
-| Metas de usabilidade<br>         | Início: 09/05<br>Fim: 11/05 | Filipe Carvalho | Início: 27/04<br>Fim: 13/05 | --        |
-| Guia de estilo <br>              | Início: 11/05<br>Fim: 12/05 | Todos | Início: 12/05<br>Fim: 13/05 | --        |
-| Gravar Apresentação<br>          | Início: 15/05<br>Fim: 15/05 | Todos | Início: 08/05<br>Fim: 14/05 | Todos     |
-| Correção pós apresentação<br>    | Início: 15/05<br>Fim: 16/05 | Todos | Início: 16/05<br>Fim: 16/05 | Todos     |
+| Atividade                                        | Período de desenvolvimento  | Responsáveis                                                                               | Revisão                     | Revisores                                                                                  |
+| ------------------------------------------------ | --------------------------- | ------------------------------------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------------------------------------ |
+| Princípios gerais do projeto<br>                 | Início: 09/05<br>Fim: 11/05 | Filipe Carvalho                                                                            | Início: 12/05<br>Fim: 13/05 | --                                                                                         |
+| Características da plataforma para o projeto<br> | Início: 11/05<br>Fim: 13/05 | Pedro Sena, Pedro Miguel e Vinicius Vieira                                                 | Início: 12/05<br>Fim: 30/04 | --                                                                                         |
+| Metas de usabilidade<br>                         | Início: 09/05<br>Fim: 11/05 | Filipe Carvalho                                                                            | Início: 12/05<br>Fim: 13/05 | --                                                                                         |
+| Guia de estilo <br>                              | Início: 11/05<br>Fim: 12/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | Início: 12/05<br>Fim: 13/05 | --                                                                                         |
+| Gravar Apresentação<br>                          | Início: 12/05<br>Fim: 12/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | Início: 12/05<br>Fim: 14/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel |
+| Correção pós apresentação<br>                    | Início: 13/05<br>Fim: 15/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | Início: 15/05<br>Fim: 16/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel |
 
 ## Etapa 4 - Planejamento da avaliação do Storyboard
 
@@ -129,12 +127,12 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta en
 
 | Atividade                                                        | Período de desenvolvimento  | Responsáveis | Revisão                       | Revisores |
 | ---------------------------------------------------------------- | --------------------------- | ------------ | ----------------------------- | --------- |
-| Planejamento da avaliação do Storyboard                          | Início: 17/05<br>Fim: 20/05 | --           | Início: 20/05<br>Fim: 20/05   | --        |
-| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 17/05<br>Fim: 20/05 | --           | Início: 20/05<br>Fim: 20/05   | --        |
-| Planejamento da Avaliação da Análise de tarefas                  | Início: 17/05<br>Fim: 20/05 | --           | Início: 20/05<br>Fim: 20/05   | --        |
-| Planejamento do relato da avaliação da análise de tareas         | Início: 17/05<br>Fim: 20/05 | --           | Início: 21/05 <br> Fim: 21/05 | --        |
-| Gravação da apresentação                                         | Início: 21/05<br>Fim: 21/05 | Todos        | Início: 20/05<br>Fim: 20/05   | Todos     |
-| Correção pós apresentação                                        | Início: 23/05<br>Fim: 23/05 | Todos        | Início: 24/05<br>Fim: 25/05   | Todos     |
+| Planejamento da avaliação do Storyboard                          | Início: 17/05<br>Fim: 20/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | Início: 20/05<br>Fim: 20/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 17/05<br>Fim: 20/05 | Pedro Miguel | Início: 20/05<br>Fim: 20/05   | Vinicius Vieira |
+| Planejamento da Avaliação da Análise de tarefas                  | Início: 17/05<br>Fim: 20/05 | Pedro Sena, Filipe Carvalho | Início: 20/05<br>Fim: 20/05   | Pedro Miguel        |
+| Planejamento do relato da avaliação da análise de tareas         | Início: 17/05<br>Fim: 20/05 | Daniel Coimbra | Início: 19/05 <br> Fim: 20/05 | Pedro Sena        |
+| Gravação da apresentação                                         | Início: 20/05<br>Fim: 21/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel        | Início: 20/05<br>Fim: 20/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel     |
+| Correção pós apresentação                                        | Início: 23/05<br>Fim: 24/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel        | Início: 24/05<br>Fim: 25/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel     |
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
@@ -301,11 +299,12 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                                       | Autor(es)                                              | Revisor(es)                                            |
-| ------ | ---------- | ----------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
-| 1.0    | 24/03/2024 | Criação do Documento                            | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) |
-| 1.1    | 03/04/2024 | Atualização tabela de planejados                | [Vinicius Vieira](https://github.com/viniciusvieira00) | --                                                     |
-| 1.2    | 04/04/2024 | Atualização tabela de executados                | [Vinicius Vieira](https://github.com/viniciusvieira00) | --                                                     |
-| 1.3    | 04/04/2024 | Atualização tabela de planejados outras etapas  | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
-| 1.4    | 09/04/2024 | Atualização tabela de planejados primeira etapa | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
+| Versão | Data       | Descrição                                           | Autor(es)                                              | Revisor(es)                                            |
+| ------ | ---------- | --------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
+| 1.0    | 24/03/2024 | Criação do Documento                                | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| 1.1    | 03/04/2024 | Atualização tabela de planejados                    | [Vinicius Vieira](https://github.com/viniciusvieira00) | --                                                     |
+| 1.2    | 04/04/2024 | Atualização tabela de executados                    | [Vinicius Vieira](https://github.com/viniciusvieira00) | --                                                     |
+| 1.3    | 04/04/2024 | Atualização tabela de planejados outras etapas      | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
+| 1.4    | 09/04/2024 | Atualização tabela de planejados primeira etapa     | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
 | 1.5    | 13/05/2024 | Atualização tabela de executado da terceira entrega | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
+| 1.6    | 13/05/2024 | Correções após a 3ª Entrega                         | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
