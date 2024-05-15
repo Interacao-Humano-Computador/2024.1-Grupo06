@@ -4,16 +4,6 @@
 
 Para dar prosseguimento ao projeto vê-se a necessidade de realizar uma análise detalhada do site como recomendado por Mayhew¹, um ponto importante é o ciclo de vida observado. Portanto, aqui trabalharemos em cima das características do site Detran/DF que serão suas funcionalidades, capacidades, suas interações e pontos fracos e fortes para que posteriormente possamos elaborar uma proposta de melhoria ao caso analisado.
 
-A seguir segue o ciclo de vida para engenharia de usabilidade de Mayhew:
-
-Figura 1: Ciclo de vida para a engenharia de usabilidade (adaptado de Mayhew, 1999)
-
-![Ciclo de Vida para engenharia de usabilidade](https://github.com/Interacao-Humano-Computador/2024.1-DETRANDF/blob/main/assets/images/engenhariadeUsabilidade.png?raw=True)
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b>
-BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
-</p></font>
-
 ## Características da Plataforma
 
 O Portal de Serviços do Departamento de Trânsito do Distrito Federal (Detran/DF) é uma plataforma web que fornece diversos serviços relacionados ao trânsito para os cidadãos do Distrito Federal. Possui funcionalidades como consulta, alteração, emissão de documentos relacionados a multas, infrações, veículos, Carteira Nacional de Habilitação (CNH) entre outros. É possível acessá-lo por meio de qualquer dispositivo através de um navegador e conta com uma versão de aplicativo mobile. 
