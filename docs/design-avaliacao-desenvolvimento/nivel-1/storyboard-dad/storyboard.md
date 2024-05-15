@@ -4,18 +4,20 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-## Tarefa 1: XXXX
+## Tarefa 1: Emissão de nada consta
 
-Lorew ipsum dolor sit amet, consectetur adipiscing elit.
+Na figura 1 abaixo, é apresentado o storyboard da tarefa de emissão de nada consta. O usuário acessa a aba de serviços, seleciona a opção de emissão de nada consta, preenche o captcha, e clica em "Emitir nada consta", após isso, a página se atualiza, e o usuário já consegue visualizar o nada consta, assim como imprimi-lo ou envia-lo por e-mail.
 
 <center>
 
-**Figura 1** - Storyboard XXXX</p>
+**Figura 1** - Storyboard Emissão de nada consta</p>
 
-<!-- <figure markdown> 
 
-![Figura 1 - Acessar a aba Central de Ajuda.](../../../assets/storyboard/storyboard2.png)<figcaption>Fonte: [Geovanna Maciel](https://github.com/manuziny) (2023).</figcaption>
-</figure> -->
+<div style="width:100%; height: 1200px; overflow: hidden; position:relative; display:flex; padding-top: 56.25%;">
+  <img src="https://i.postimg.cc/RZFbSBHj/emissao-adaptada.png" style="position: absolute; display:flex; top: 0; left: 0; width: 100%; height: 1200px; ">
+</div>
+Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00) (2024).
+
 
 </center>
 
