@@ -16,18 +16,21 @@ A storyboard da figura 1 busca representar uma situação real de uso do sistema
 
 </center>
 
-## Tarefa 2: XXXX
+## Tarefa 2: Emissão de CRLV
 
-Lorew ipsum dolor sit amet, consectetur adipiscing elit.
+A CRLV, Certificado de Registro e Licenciamento de Veículo, é um documento obrigatório para todos os proprietários de veículos no Brasil. Ele serve como prova de que o veículo está devidamente registrado e licenciado para circular nas vias públicas.
+
+Recentemente, foi introduzida a versão digital da CRLV (CRLV-e), que pode ser acessada por meio de aplicativos como o Carteira Digital de Trânsito (CDT) e o Portal Detran-DF. A CRLV-e tem a mesma validade legal que a versão física.
+
+Na Figura 2, buscamos representar uma situação bastante usual para os motoristas. Mateus é um motorista de 35 anos que está no processo de venda do seu carro. Para dar prosseguimento, é necessário emitir toda a documentação para que seu veículo esteja devidamente regularizado e mostrar para o comprador que está tudo OK com o veículo, entre estes documentos está a CRLV. Para evitar filas e economizar tempo, optou por fazer o processo de emissão do documento pelo portal do Detran-DF.
 
 <center>
 
-**Figura 2** - Storyboard XXXX</p>
+**Figura 2** - Storyboard Emitir CRLV</p>
 
-<!-- <figure markdown> 
+<figure markdown> 
 
-![Figura 2 - Acessar a aba Central de Ajuda.](../../../assets/storyboard/storyboard2.png)<figcaption>Fonte: [Geovanna Maciel](https://github.com/manuziny) (2023).</figcaption>
-</figure> -->
+![Figura 2 - Acessar a aba Central de Ajuda.](assets/images/storyboardcrlv.png)<figcaption>Fonte: [Filipe Carvalho](https://github.com/filipe-002) 
 
 </center>
 
@@ -104,4 +107,5 @@ Lorew ipsum dolor sit amet, consectetur adipiscing elit.
 | Versão | Data       | Descrição         | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ----------------- | ------------------------------------------------------ | ----------- |
 | `1.0`  | 15/05/2024 | Criação da página | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Sena](https://github.com/pedroyen21)          |
-| `1.1`  | 17/05/2024 | Adição da Storyboard de solicitação de PID| [Pedro Sena](https://github.com/pedroyen21) | --          |
+| `1.1`  | 17/05/2024 | Adição da Storyboard de solicitação de PID| [Pedro Sena](https://github.com/pedroyen21) | [Filipe Carvalho](https://github.com/filipe-002) |
+| `1.2`  | 18/05/2024 | Adição da Storyboard de emissão de CRLV| [Filipe Carvalho](https://github.com/filipe-002)| -- |
