@@ -37,15 +37,31 @@ Alguns dos principais serviços da plataforma:
 
 - Recolocação de placa.
 
-### Características Tecnlógicas
+## Limites da Plataforma
+
+O Portal de Serviços do Departamento de Trânsito do Distrito Federal (Detran/DF) oferece uma gama de funcionalidades essenciais para a gestão de questões relacionadas ao trânsito. No entanto, existem algumas limitações que podem impactar a experiência do usuário e a eficácia da plataforma:
+
+- **Necessidade de Autenticação**: Usuários não registrados têm acesso limitado a determinadas funcionalidades, exigindo autenticação para acessar serviços personalizados, como consulta de multas e alterações de endereço.
+
+- **Usabilidade e Acessibilidade**: Apesar de ser acessível por dispositivos variados, o portal pode não oferecer a melhor experiência de usabilidade para todos os usuários, especialmente aqueles com necessidades especiais, como deficiências visuais, devido à falta de ferramentas adequadas de acessibilidade.
+
+- **Limitações de Interatividade e Personalização**: A interatividade com o usuário pode ser limitada, sem opções avançadas de personalização ou recomendações automáticas baseadas no histórico do usuário.
+
+- **Falta de Integração Completa**: Embora ofereça diversos serviços, a plataforma não se apresenta totalmente integrada com outros sistemas estaduais ou federais, o que pode dificultar a obtenção de informações completas e atualizadas, especialmente em casos de transferência de veículos entre estados, ou consulta de multas em outros estados, e outros órgãos de trânsito.
+
+
+
+## Características Tecnlógicas
 
 Não foram encontradas informações oficiais a respeito das tecnologias usadas para desenvolver a plataforma. Entretanto, foi usada uma extensão do navegador [Chrome](https://www.google.com/intl/pt-BR/chrome/) chamada [Snov.io](https://chromewebstore.google.com/detail/website-technology-checke/phealodnoblgkcfbhpdebpihdbfmggpi) que faz uma análise do código fonte da página para encontrar padrões pertencentes a determinadas tecnologias. Ela aponta que para desenvolver o site foi utilizado o Framework [Angular](https://angular.io/) e a linguagem [Typescript](https://www.typescriptlang.org/).
 
 Vale lembrar que as informações providas pela extensão não são 100% confiáveis, mas podem oferecer informações úteis na ausência de fontes oficiais.
 
-## Requisitos do Sistema
+<!-- ## Requisitos do Sistema
 
 Para assegurar que o Portal de Serviços do Departamento de Trânsito do Distrito Federal (Detran/DF) atenda de forma eficaz às necessidades dos usuários, é crucial estabelecer requisitos do sistema claros e detalhados. Esses requisitos são fundamentais para orientar o desenvolvimento e a manutenção do portal, garantindo que ele ofereça funcionalidades úteis e uma operação confiável. A seguir, são detalhados os requisitos funcionais e não funcionais do sistema, baseados nas funcionalidades observáveis e em suposições razoáveis, uma vez que informações detalhadas sobre o sistema interno não estão disponíveis publicamente.
+
+
 
 ### Requisitos Funcionais
 
@@ -75,41 +91,8 @@ Para assegurar que o Portal de Serviços do Departamento de Trânsito do Distrit
 
 6. **Escalabilidade**: Flexibilidade para escalar recursos conforme o aumento da demanda.
 
-É importante destacar que, devido à natureza fechada de algumas informações do sistema, esta análise se baseia em funcionalidades observáveis e em suposições comuns para plataformas similares.
+É importante destacar que, devido à natureza fechada de algumas informações do sistema, esta análise se baseia em funcionalidades observáveis e em suposições comuns para plataformas similares. -->
 
-## Limites da Plataforma
-
-O Portal de Serviços do Departamento de Trânsito do Distrito Federal (Detran/DF) oferece uma gama de funcionalidades essenciais para a gestão de questões relacionadas ao trânsito. No entanto, existem algumas limitações que podem impactar a experiência do usuário e a eficácia da plataforma:
-
-- **Necessidade de Autenticação**: Usuários não registrados têm acesso limitado a determinadas funcionalidades, exigindo autenticação para acessar serviços personalizados, como consulta de multas e alterações de endereço.
-
-- **Usabilidade e Acessibilidade**: Apesar de ser acessível por dispositivos variados, o portal pode não oferecer a melhor experiência de usabilidade para todos os usuários, especialmente aqueles com necessidades especiais, como deficiências visuais, devido à falta de ferramentas adequadas de acessibilidade.
-
-- **Limitações de Interatividade e Personalização**: A interatividade com o usuário pode ser limitada, sem opções avançadas de personalização ou recomendações automáticas baseadas no histórico do usuário.
-
-- **Falta de Integração Completa**: Embora ofereça diversos serviços, a plataforma não se apresenta totalmente integrada com outros sistemas estaduais ou federais, o que pode dificultar a obtenção de informações completas e atualizadas, especialmente em casos de transferência de veículos entre estados, ou consulta de multas em outros estados, e outros órgãos de trânsito.
-
-## Metodologia
-
-Para a análise do Portal de Serviços do Departamento de Trânsito do Distrito Federal (Detran/DF), adotou-se o método de avaliação conhecido como *avaliação heurística*. Este método envolve os usuários pertencentes ao grupo de trabalho, que examinam a interface e interações do portal para identificar problemas de usabilidade com base em princípios pré-estabelecidos, conhecidos como heurísticas.
-
-### Processo de Avaliação Heurística
-
-1. **Seleção de Avaliadores**: Todos os membros do grupo de trabalho são designados como avaliadores, com base em suas habilidades e experiências em interação humano-computador e design de interfaces.
-
-2. **Definição de Heurísticas**: Utilização das dez heurísticas de Nielsen, que incluem critérios como compatibilidade do sistema com o mundo real, consistência e padrões, prevenção de erros, e reconhecimento em vez de lembrança.
-
-3. **Sessões de Avaliação**: Cada avaliador explora independentemente o portal, simulando interações de usuários reais e identificando desvios das heurísticas estabelecidas.
-
-4. **Compilação de Resultados**: Todos os avaliadores compilam suas descobertas em relatórios individuais.
-
-5. **Reunião de Consolidação**: Os avaliadores se reúnem para discutir seus achados, consolidando um relatório final que aponta os principais problemas de usabilidade e recomendações para melhoria.
-
-6. **Priorização de Problemas**: Identificação e priorização dos problemas de usabilidade mais críticos que necessitam de intervenção imediata.
-
-7. **Elaboração de Recomendações**: Formulação de recomendações específicas para cada problema identificado, visando melhorar a experiência do usuário e a eficácia geral do portal.
-
-Este método permite uma avaliação detalhada e sistemática da interface do Portal Detran/DF, focando em melhorias que podem ser implementadas para resolver problemas de usabilidade antes que afetem negativamente a experiência do usuário. Ao não envolver diretamente os usuários durante a fase inicial de avaliação, economiza-se recursos e tempo, permitindo uma identificação rápida de áreas que necessitam de ajustes ou melhorias.
 
 ## Referências Bibliográficas
 
@@ -121,4 +104,5 @@ Este método permite uma avaliação detalhada e sistemática da interface do Po
 | :--------: | :---: | :------------------- | ------------------------------------------------------ | ------- |
 | 1.0 |  11/05/2024  | Adição das características da Plataforma| [Pedro Sena](https://github.com/pedroyen21) | [Pedro Miguel](https://github.com/pedromadbr)     |
 | 1.1 |  12/05/2024  | Adição da introdução ao documento| [Pedro Miguel](https://github.com/pedromadbr) | [Vinicius Vieira](https://github.com/viniciusvieira00)     |
-| 1.2 |  13/05/2024  | Adição de tópicos| [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Miguel](https://github.com/pedromadbr)     |
+| 1.2 |  13/05/2024  | Adição de tópicos | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Miguel](https://github.com/pedromadbr)     |
+| 1.3 |  15/05/2024  | Correção da introdução e requisitos | [Pedro Miguel](https://github.com/pedromadbr) | [Vinicius Vieira](https://github.com/viniciusvieira00) |

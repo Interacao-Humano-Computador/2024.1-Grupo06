@@ -24,4 +24,4 @@ BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: E
 
 |   Versão   | Data  | Descrição            | Autor                                                  | Revisor |
 | :--------: | :---: | :------------------- | ------------------------------------------------------ | ------- |
-| 1.0 |  13/05/2024  | Adição das características da Plataforma | [Pedro Miguel](https://github.com/pedromadbr) | []()     |
+| 1.0 |  13/05/2024  | Adição das características da Plataforma | [Pedro Miguel](https://github.com/pedromadbr) | [Vinicius Vieira](https://github.com/viniciusvieira00)     |
