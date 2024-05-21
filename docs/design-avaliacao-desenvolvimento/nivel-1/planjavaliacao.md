@@ -2,51 +2,42 @@
 
 ## Introdução
 
-A avaliação é um processo essencial para que o processo de desenvolvimento consiga produzir um sistema com alta qualidade. Sendo assim, no intuito de corrigir possíveis problemas relacionados com a análise de tarefas realizada, será feita uma avaliação desse artefato. Para uma verdadeira interação com usuários do Bilheteria Digital, serão realizadas entrevistas com usuários reais do produto, tendo como base o [perfil de usuário](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/perfil-usuario/), assim será possível avaliar sua perspectiva de forma dinâmica.
+Para podermos seguir com o melhor desenvolvimento possível do nosso projeto, avaliar é uma parte fundamental do processo, de diferentes formas, com o intuito de seguir executando de maneira correta. Por isso, em relação à análise de tarefas, para corrigirmos eventuais problemas e seguirmos com o melhor andamento de tais, para avaliação, decidimos utilizar os métodos de **entrevista** com usuários reais baseados nos perfis anteriormente coletados, como pode se verificar [nesta página.](https://interacao-humano-computador.github.io/2024.1-DETRANDF/analise-requisitos/usuario/) Este documento tem como objetivo registrar todo o processo de planejamento para o melhor andamento da avaliação.
 
 ## Metodologia
 
-Para realizar esse planejamento será utilizado o framework DECIDE, onde cada letra da palavra é uma etapa a ser realizada no planejamento. A tabela 1 a seguir apresenta o significado de cada letra.
+Baseado na bibliografia principal da disciplina, o livro IHC de Barbosa e Silva, para o planejamento da avaliação, utilizaremos o framework DECIDE. Abaixo segue explicação sobre o que significa cada uma das letras.
 
-<center>
+- Determine: determinar as metas;
 
-**Tabela 1** - Letras da palavra DECIDE com os seus significados.
+- Explore: explorar as questões a serem respondidas;
 
-| Letra |                          Definição                           |
-| :---: | :----------------------------------------------------------: |
-|   D   |            Determinar os objetivos da avaliação.             |
-|   E   |   Explorar perguntas a serem respondidas com a avaliação.    |
-|   C   |     Escolher os métodos de avaliação a serem utilizados.     |
-|   I   | Identificar e administrar as questões práticas da avaliação. |
-|   D   |          Decidir como lidar com as questões éticas.          |
-|   E   |          Avaliar, interpretar e apresentar os dados          |
+- Choose (Escolher): escolher os métodos e as técnicas;
 
-**Fonte** - BARBOSA e SILVA (2011).
+- Identify: identificar questões práticas a serem abordadas, como público;
 
-</center>
+- Decide: decidir como lidar com as questões éticas envolvidas;
 
-## D - Objetivos
+- Evaluate (Avaliar): avaliar, interpretar e apresentar os dados.
 
-Os objetivos desta avaliação é verificar se os artefatos produzidos na [análise de tarefas](../../../../analise-de-requisitos/analise-de-tarefas/hta/) estão em conformidade com os padrões exigidos para esse artefato estão sendo seguidos e se existe algum design alternativo para aplicação. Sendo assim, a avaliação será utilizada para se elicitar ideias e problemas não identificados na produção do artefato de Análise de Tarefas e que deverão ser implementados em uma nova versão do artefato.
+A seguir, definimos como cada um desses conceitos se aplicam em nosso planejamento.
 
-<a id="met1"></a>
+## D - Determinar as metas
 
-## E - Explorar Perguntas Respondidas com a Avaliação
+A meta principal dessa avaliação é verificar se as tarefas selecionadas por nossos membros na [análise de tarefas](https://interacao-humano-computador.github.io/2024.1-DETRANDF/analise-requisitos/aht/) são coerentes com a proposta do projeto, se atingem os padrões estabelecidos, e se fazem sentido com as aplicações, caso contrário em nenhuma das opções, se poderia ser aplicado alguma outra solução alternativa, dessa vez visando atingir as metas propostas.
 
-Com base no objetivo da avaliação foram preparadas perguntas baseadas nos seguintes tópicos:
-- verificar a conformidade com um padrão;
-- comparar ideias e alternativas de design.
-As perguntas selecionadas tem o intuito de serem respondidas com essa avaliação e foram feitas com base no _Captítulo 11 da literatura de Barbosa e Silva (2011, p.266)_<a id="anchor_1" href="#REF1">^1^</a>  as perguntas selecionadas foram as seguintes:
+## E - Explorar as questões a serem respondidas
 
-- Os diagramas HTA's possuem as notações corretas, legendas e a representação em tabela?
-- Os diagramas representam tarefas condizentes com as funcionalidades esperadas para o site?
-- As entrevistas permitem que sejam realizadas melhorias nas tarefas elucidadas pelo artefato de Análise de Tarefas?
+Baseando-se no Capítulo 11 da obra de Barbosa e Silva (2011, p. 266), que abordam aspectos essenciais da Análise Hierárquica de Tarefas (HTA). As seguintes perguntas são formuladas para garantir que os diagramas HTA estejam em conformidade com as normas, representem corretamente as funcionalidades esperadas e sejam úteis para identificar melhorias.
 
-## C - Escolher os Métodos de Avaliação
 
-Para a realização da avaliação, utilizar-se-á de uma adaptação dos métodos de investigação, com o uso de entrevistas e observação com usuários com base em um questionário como roteiro.
+## C - Escolher (Choose) os métodos e as técnicas
 
-A escolha se dá pelo fato de ser um método investigativo que permite coletar muitas informações, além de ser flexível permite fazer perguntas que aprofundam ainda mais os objetivos a serem alcançados pelos usuários. Ademais, tal entrevista deve ser estritamente **gravada** e **documentada**.
+Para a realização da avaliação, optamos pelo método de entrevista presencial com usuários reais baseados nos perfis estabelecidos anteriormente na documentação, com base em questionários e roteiro que será previamente apresentado neste documento.
+
+A razão para escolha desse método é para um melhor entendimento do contexto e atividades do usuário, informações detalhadas sobre tarefas, identificar requisitos e limitações, **validar modelos de tarefas** e identificar oportunidades de melhoria.
+
+
 
 ## I - Identificar Questões Práticas da Avaliação
 
@@ -173,7 +164,7 @@ Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado an
 
 ## Bibliografia
 
-> RIBEIRO, Clara; SANTANA, Natan Tavares. Planejamento da avaliação da Análise de tarefas. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/design%2C_avalia%C3%A7%C3%A3o%2C_desenvolvimento/n%C3%ADvel%201/an%C3%A1lise_de_tarefas/planejamento_tarefas/>>. Acesso em: 17 maio 2023.
+> SANTOS, João; PEREIRA, Maria. D.E.C.I.D.E: framework para avaliação de interfaces que serve para guiar seu discovery. Repositório do Brasil UX Design, 2023. Disponível em: <https://brasil.uxdesign.cc/d-e-c-i-d-e-framework-para-avalia%C3%A7%C3%A3o-de-interfaces-que-serve-para-guiar-seu-discovery-e3dee628d26b>. Acesso em: 21 maio 2024.
 
 > GABRIEL, Lucas; SOUZA, Nicolas. Planejamento da avaliação da Análise de tarefas. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao/>>. Acesso em: 17 maio 2023.
 
