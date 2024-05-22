@@ -72,8 +72,30 @@ Tarefa em que o usuário solicita uma Permissão Internacional para Dirigir.
 |        **3.1 Consentir os termos do pagamento**|                                                       |
 |**3.2 Pagar**                                                  |                                                                                   ||
 
+
+### Emitir CRLV ###
+
+Tarefa em que o usuário faz a emissão da CRLV (Certificado de registro e licenciamento de veículo).
+
+![Figura 4 - Emitir CRLV (Figura do autor - 2024)](images/htacrlv.png)
+<center> *Fonte: Interação  Humano Computador - BARBOSA, Simone; DINIZ, Bruno. 2010*</center>
+<br><br>
+
+| Objetivos / Operações                        | Problemas e Recomendações                                                                   |
+|----------------------------------------------|----------------------------------------------------------------------------------------------|
+| **0.Acessar barra de serviços 1>2** | - **Feedback:** Apresentar todos os serviços existentes <br> - **Plano:** Solicitar CRLV <br> |
+| **1. Selecionar opção "Emitir CRLV-e 1>2"**      |  |
+|        **2. Acessar conta ou fazer login 1>2** |    |
+| **2.1. Fazer login com CPF e  senha 1+2**  | - **Input:** Inserir CPF cadastrado e senha - <br> **Plano:** Se os dados estiverem corretos, informa ao servidor que está tudo ok |
+| **2.2. Fazer login com GOV.br** | - **Input:** Inserir CPF cadastrado e senha no GOV.bt <br> - **Plano:** Se os dados estiverem corretos, informa ao servidor que está tudo ok             |
+|**3. Selecionar veículo**                                          |                                     |
+|**4. Fazer o download do documento** |                                                                               |
+
+
+
 ## 📑 Histórico de versão
 
-|   Versão   | Data  | Descrição            | Autor                                                  | Revisor |
+|   Data   | Versão  | Descrição            | Autor                                                  | Revisor |
 | :--------: | :---: | :------------------- | ------------------------------------------------------ | ------- |
 | 06/05/2024 |  1.0  | AHT 1 e 2| [Pedro Sena](https://github.com/pedroyen21) | [Filipe Carvalho](https://github.com/Filipe-002)     |
+| 22/05/2024 |  1.1  | Inclusão do AHT de CRLV e correção de detalhes| [Filipe Carvalho](https://github.com/Filipe-002)   | -- |
