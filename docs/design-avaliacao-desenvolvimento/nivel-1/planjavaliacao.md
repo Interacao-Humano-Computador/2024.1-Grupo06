@@ -78,7 +78,7 @@ Os prazos estarão documentados na tabela abaixo, com as seguintes informações
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Tarefa associada     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Filipe Carvalho](https://github.com/filipe-002)  |   André Belle    |              |    |  | Emissão de CRLV-e |
+|  [Filipe Carvalho](https://github.com/filipe-002)  |   André Belle    |    15:00          |  16:00  | 28/05/2024 | Emissão de CRLV-e |
 |  [Vinicius Vieira](https://github.com/viniciusvieira00) |  Aloysio Vieira      |   15:00           | 15:10    | 30/05/2024 |  |
 |  [Pedro Miguel](https://github.com/dougAlvs) |        |             |           |  |  |
 |  [Pedro Sena](https://github.com/pedroyen21) |    Tiago Brant    |  11:00 | 11:10         |  25/05/2024         | Solicitar Permissão Internacional para Dirigir |
