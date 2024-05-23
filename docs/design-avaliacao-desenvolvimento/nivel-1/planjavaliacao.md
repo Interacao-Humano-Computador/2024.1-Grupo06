@@ -86,6 +86,7 @@ Os prazos estarão documentados na tabela abaixo, com as seguintes informações
 |  [Victor Moreira](https://github.com/vitu-moreira) |  Firmina Moreira    |        15:00     |        16:00   | 25/05/2024  | Identificação do condutor como real infrator |
 
 **Fonte** - _[Pedro Sena](https://github.com/pedroyen21) e [Filipe Carvalho](https://github.com/Filipe-002)._
+
 </center>
 
 <a id="met2"></a>
@@ -143,10 +144,8 @@ Concluída essa etapa, os dados serão apresentados ao time de desenvolvimento, 
 Com o intuito de testarmos nosso planejamento da avaliação supracitado, faremos um teste piloto.
 Ele nos dará uma boa noção para sabermos se estamos seguindo o caminho correto em nossas perguntas, se o entrevistado pode se sentir desconfortável ou desorientado em algum momento e se estaremos coletando dados realmente relevantes e que satisfaçam nossos objetivos previamente estabelecidos. 
 
-Dessa forma, elegemos dois membros do grupo, XXX e YYY, para realizar o teste piloto. Ele será feito remotamente dia DD/MM/AAAA das HH:MM às HH:MM.
+Dessa forma, elegemos dois membros do grupo, Victor Moreira e Pedro Sena, para realizar o teste piloto. Ele será feito remotamente dia 27/05/2024 das 10:00.
 
-
-## Resultado do Teste Piloto
 
 ## Bibliografia
 

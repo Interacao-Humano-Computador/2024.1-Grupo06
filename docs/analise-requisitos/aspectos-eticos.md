@@ -11,6 +11,11 @@ Para dar credibilidade e valor ao nosso trabalho é necessário conduzir também
 
 - Princípio da justiça e equidade: está relacionado à importância social da pesquisa, priorizando benefícios substanciais para os participantes da pesquisa e minimizando as cargas impostas aos participantes vulneráveis. Isso garante a consideração justa dos interesses envolvidos e mantém o propósito humanitário e social da pesquisa em foco.
 
+# Termo de Consentimento
+
+Termo de consentimento usado na pesquisa:
+
+![Figura 6 - Termo de Consentimennto](images/termo-consentimento.png)<figcaption>Fonte: [Víctor Moreira](https://github.com/vitu-moreira) (2024).</figcaption>
 
 ## Referências Bibliográficas
 
@@ -24,4 +29,4 @@ BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: E
 
 |   Versão   | Data  | Descrição            | Autor                                                  | Revisor |
 | :--------: | :---: | :------------------- | ------------------------------------------------------ | ------- |
-| 1.0 |  13/05/2024  | Adição das características da Plataforma | [Pedro Miguel](https://github.com/pedromadbr) | []()     |
+| 1.0 |  13/05/2024  | Adição das características da Plataforma | [Pedro Miguel](https://github.com/pedromadbr) | [Vinicius Vieira](https://github.com/viniciusvieira00)     |
