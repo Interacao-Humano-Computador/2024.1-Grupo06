@@ -29,6 +29,11 @@ nav:
   - Atas:
       - Ata 1: atas/ata1.md
       - Ata 2: atas/ata2.md
+      - Ata 3: atas/ata3.md
+      - Ata 4: atas/ata4.md
+      - Ata 5: atas/ata5.md
+      - Ata 6: atas/ata6.md
+      - Ata 7: atas/ata7.md
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
     - Ferramentas: planejamento/ferramentas.md
@@ -58,7 +63,6 @@ nav:
         - Storyboard:
             - Planejamento da Avaliação do Storyboard: design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-avaliacao-sb.md
             - Planejamento do Relato dos Resultados: design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-relato-resultado-sb.md
-            - Relato do Resultado: design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/relato-resultado-storyboard.md
             - Storyboards: design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/storyboard.md
 
 

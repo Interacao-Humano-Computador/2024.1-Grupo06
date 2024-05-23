@@ -46,6 +46,10 @@ O problema é que, ao digitar Detran-DF em um serviço de pesquisa, como mostrad
 
 Isso mostra uma violação do princípio da Correspondência com as expectativas do usuário, pois além de não levar à página desejada, não se é claro onde se encontram determinadas informações/serviços.
 
+### Sugestão de melhoria
+
+Uma boa solução para esse problema, seria que, ao invés de ter duas páginas, Detran-DF e Portal Detran-DF, poderíamos unir as duas páginas em uma só, facilitando o acesso do usuário aos serviços e ao digitar "Detran DF" em algum serviço de pesquisa.
+
 ## Simplicidade nas estruturas das tarefas
 
 ### Definição
@@ -61,6 +65,10 @@ Esse princípio será violado por um problema que será constante na análise. D
 
 ![figura4](images/servicos.png)</center>
 
+### Sugestão de melhoria
+
+Na página inicial do Portal, seria interessante se houvesse algum aviso, como o mostrado na Figura 04, de forma clara para que o usuário entenda que para se aproveitar 100% do site, é necessário fazer login no serviço.
+
 
 ## Equilíbrio entre controle e liberdade do usuário
 
@@ -73,7 +81,11 @@ Por conta de ser exigido um login para o total acesso ao site, muitas funções 
 
 <center>Figura 1: Página inicial do Portal Detran-DF</center>
 
-![figura1](images/inicial.png)
+![figura1](images/violacao3.png)
+
+### Sugestão de melhoria
+
+Uma solução seria apresentar uma tela com o seguinte título: "Serviços para todos os usuários", logo abaixo teria uma sessão com as funcionalidades disponíveis. Em seguida, uma sessão dizendo: "Para acesso dessas funcionalidade, por favor, clique aqui para fazer login:" e viria um pop-up com a tela de login.
 
 
 ## Consistência e padronização
@@ -96,6 +108,10 @@ A violação ocorre na outra página de login, onde é encaminhado para a págin
 
 ![figura6](images/gov.png)</center>
 
+### Sugestão de melhoria
+
+Ao invés de gerar uma tela em outra aba para login, o que pode gerar erros, poderia ser aberto um pop-up no próprio site solicitando as informações necessárias para continuar.
+
 ## Promoção da eficiência do usuário
 
 ### Definição
@@ -104,13 +120,17 @@ Tognazzini recomenda que sempre seja considerada a eficiência do usuário, e n�
 
 ### Violação
 
-O Portal Detran-DF falha, de certa forma, em alguns desses aspectos. O sistema é sim rápido e mantem o usuário ocupado, mas não é sensível a o que o usuário está fazendo, falhando diversas vezes em sua página de login, consequentemente não protegendo o trabalho, e não são fornecidos atalhos e aceleradores evidentes, como por exemplo, não encaminhando para a página de login quando o usuário tenta acessar um serviço que só está disponível com um cadastro, conforme novamente indicado na Figura 1:
+O Portal Detran-DF falha, de certa forma, em alguns desses aspectos. O sistema é sim rápido e mantem o usuário ocupado, mas não é sensível a o que o usuário está fazendo, falhando diversas vezes em sua página de login, consequentemente não protegendo o trabalho, e não são fornecidos atalhos e aceleradores evidentes, como por exemplo, não encaminhando para a página de login quando o usuário tenta acessar um serviço que só está disponível com um cadastro, conforme indicado na Figura 4:
 
 
-<center>Figura 1: Página inicial do Portal Detran-DF</center>
+<center>Figura 4: Aviso de login
 
-![figura1](images/inicial.png)
+![figura1](images/violacao4.png)
+</center>
 
+### Sugestão de melhoria
+
+Ao clicar em um dos serviços indisponíveis, deveria ser encaminhado para uma tela ou pop-up dizendo: "Para acessar o seguinte serviço, por favor, faça login abaixo", e tirando da tela inicial todos os serviços que não estão disponíveis de primeira.
 
 ## Antecipação das necessidades do usuário
 
@@ -126,7 +146,9 @@ O site disponibiliza em sua página inicial as funções mais utilizadas, mas n�
 
 ![figura7](images/inicial.png)</center>
 
+### Sugestão de melhoria
 
+Conforme informado anteriormente, a solução para essa violação seria encaminhar o usuário para uma página de login informando que para acessar tal serviço, é necessário estar logado e solicitar as informações necessárias.
 
 ## Visibilidade e Reconhecimento 
 
@@ -138,9 +160,16 @@ De acordo com Norman: “[...] a interface não deve oferecer opções que não 
 
 Um problema grave no portal do Detran, é justamente deixar explícito em sua tela inicial, as funções que não estão disponíveis de antemão para o usuário, exigindo a todo momento, o login do usuário, sendo que essa mensagem também não está muito clara. Abaixo segue figura ilustrando.
 
-<center>Figura 1: Página inicial do Portal Detran-DF</center>
+<center>Figura 8: Página inicial do Portal Detran-DF</center>
 
-![figura1](images/inicial.png)
+![figura1](images/violacao5.png)
+
+### Sugestão de melhoria
+
+Para solucionar esse problema, o ideal seria mostrar primeiro <strong>apenas</strong> as funções que estão disponíveis livrementes, conforme mostra a figura abaixo:
+
+<center>Figura 9: Serviços disponíveis</center>
+![figura9](images/solucao1.png)
 
 ## Conteúdo relevante e expressão adequada
 
@@ -161,6 +190,10 @@ Geralemente, as pessoas tem a tendência das pessoas de atribuir característica
 
 Uma violação do princípio do "Conteúdo relevante e expressão adequada" no portal do Detran poderia ser a apresentação de informações irrelevantes ou excessivamente técnicas para os usuários comuns. Por exemplo, se o portal apresentasse uma grande quantidade de jargões jurídicos ou técnicos sem uma explicação clara e acessível, isso poderia dificultar a compreensão e a navegação para os usuários que buscam informações sobre procedimentos de trânsito ou documentação veicular. De certa forma, isso não ocorre, porém é sentido que poderia haver uma melhor localização para o usuário 100% leigo, como por exemplo, quem está tirando pela primeira vez a carteira de motorista, ou um usuário que está no processo e não conhece ainda muitas expressões.
 
+### Sugestão de melhoria
+
+Simplificar alguns jargões ou até mesmo ter explicações sobre o que significa um Nada Consta, por exemplo.
+
 ## Projeto para erros
 
 ### Definição
@@ -172,10 +205,13 @@ Esse princípio enfatiza que os sistemas devem ser concebidos considerando a pro
 Durante alguns testes, foram identificadas duas violações: a primeira é novamente na página de login, em que ao clicar no botão "Entrar com GOV.BR", não era encaminhado ao site propriamente dito, e ao fazer login com outra conta, era encaminhado a uma página de erro, não havendo qualquer orientação ao usuário, conforme mostrado na Figura 8 a seguir:
 
 
-<center>Figura 8: Aviso de erro
+<center>Figura 9: Aviso de erro
 
 ![figura7](images/erro.png)</center>
 
+### Sugestão de melhoria
+
+Ao ocorrer algum erro, informar ao usuário de maneira clara e simples o que aconteceu, e propor uma solução, como por exemplo: "Clique para atualizar a página", "Tente novamente" ou até mesmo: "Estamos com problemas internos, tente novamente mais tarde ou entre em contato com o Detran pelo número ou vá até uma agência", entre outros.
 
 ## Bibliografia
 
@@ -191,3 +227,4 @@ Durante alguns testes, foram identificadas duas violações: a primeira é novam
 | ------ | ---------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | `1.0`  | 11/05/2024 | Criação da página. | [Filipe Carvalho](https://github.com/Filipe-002)| [Vinicius Vieira](https://github.com/viniciusvieira00) |
 | `1.1`  | 13/05/2024 | Revisão da página e ajustes finais para a entrega. | [Filipe Carvalho](https://github.com/Filipe-002)| [Pedro Miguel](https://github.com/pedroMADBR) |
+| `1.2`  | 18/05/2024 | Adição de novos prints e sugestões de melhoria | [Filipe Carvalho](https://github.com/Filipe-002)| -- |
