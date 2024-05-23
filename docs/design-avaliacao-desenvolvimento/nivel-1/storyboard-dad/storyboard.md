@@ -16,13 +16,20 @@ A storyboard da figura 1 busca representar uma situação real de uso do sistema
 
 </center>
 
+## Tarefa 2: Emissão de CRLV
+
+A CRLV, Certificado de Registro e Licenciamento de Veículo, é um documento obrigatório para todos os proprietários de veículos no Brasil. Ele serve como prova de que o veículo está devidamente registrado e licenciado para circular nas vias públicas.
+
+Recentemente, foi introduzida a versão digital da CRLV (CRLV-e), que pode ser acessada por meio de aplicativos como o Carteira Digital de Trânsito (CDT) e o Portal Detran-DF. A CRLV-e tem a mesma validade legal que a versão física.
+
+Na Figura 2, buscamos representar uma situação bastante usual para os motoristas. Mateus é um motorista de 35 anos que está no processo de venda do seu carro. Para dar prosseguimento, é necessário emitir toda a documentação para que seu veículo esteja devidamente regularizado e mostrar para o comprador que está tudo OK com o veículo, entre estes documentos está a CRLV. Para evitar filas e economizar tempo, optou por fazer o processo de emissão do documento pelo portal do Detran-DF.
 ## Tarefa 2: Alterar endereço do veículo
 
 Storyboard 2 ilustra a mudança de um novo morador para uma vizinhança, quando ele se dá de cara com o vizinho, que o alerta que as correspondências do antigo dono da casa estão acumulando na caixa de correio. Isso o faz lembrar que ele próprio tem suas pendências a resolver; em especial, ele precisa atualizar a informação de endereço no cadastro de veículo do Detran-DF. Para isso, ele poderia ir até a sede, mas resolveu tentar pela internet, onde achou o Portal Detran-DF e conseguiu realizar a mudança. 
 
 <center>
 
-**Figura 2** - Storyboard Alterar Endereço</p>
+**Figura 2** - Storyboard Emitir CRLV</p>
 
 ![Figura 2 - Storyboard Alterar Endereço](../../nivel-1/storyboard-dad/assets/images/storyboard-endereco.jpeg)<figcaption>Fonte: [DanielCoimbra](https://github.com/DanielCoimbra) (2024).</figcaption>
 
@@ -101,5 +108,7 @@ Lorew ipsum dolor sit amet, consectetur adipiscing elit.
 | Versão | Data       | Descrição         | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ----------------- | ------------------------------------------------------ | ----------- |
 | `1.0`  | 15/05/2024 | Criação da página | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Sena](https://github.com/pedroyen21)          |
+| `1.1`  | 17/05/2024 | Adição da Storyboard de solicitação de PID| [Pedro Sena](https://github.com/pedroyen21) | [Filipe Carvalho](https://github.com/filipe-002) |
+| `1.2`  | 18/05/2024 | Adição da Storyboard de emissão de CRLV| [Filipe Carvalho](https://github.com/filipe-002)| -- |
 | `1.1`  | 17/05/2024 | Adição da Storyboard de solicitação de PID| [Pedro Sena](https://github.com/pedroyen21) | [Daniel Coimbra](https://github.com/DanielCoimbra) |
 | `1.2`  | 22/05/2024 | Adição da Storyboard de alterar endereço do veículo| [Daniel Coimbra](https://github.com/DanielCoimbra) | [Pedro Sena](https://github.com/pedroyen21) |
