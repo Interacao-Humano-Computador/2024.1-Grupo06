@@ -80,11 +80,11 @@ As gravações e resultados de cada entrevista podem ser encontrados [AQUI](http
 |                   Entrevistador(es)                    | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |              Storyboard associado              |
 | :----------------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :--------------------------------------------: |
 |    [Filipe Carvalho](https://github.com/filipe-002)    |   André Belle   |       15:00       |     16:00      | 28/05/2024 |               Emissão de CRLV-e                |
-| [Vinicius Vieira](https://github.com/viniciusvieira00) | Aloysio Vieira  |       15:00       |     15:10      | 30/05/2024 |                                                |
-|      [Pedro Miguel](https://github.com/dougAlvs)       |                 |                   |                |            |                                                |
+| [Vinicius Vieira](https://github.com/viniciusvieira00) | Aloysio Vieira  |       15:00       |     15:10      | 30/05/2024 |           Baixar nada consta da CNH            |
+|      [Pedro Miguel](https://github.com/dougAlvs)       |  Maria Eduarda  |       16:00       |     16:10      | 23/05/2024 |        Consulta das escolas cadastradas        |
 |      [Pedro Sena](https://github.com/pedroyen21)       |   Tiago Brant   |       11:00       |     11:10      | 25/05/2024 | Solicitar Permissão Internacional para Dirigir |
-|   [Daniel Coimbra](https://github.com/DanielCoimbra)   |                 |                   |                |            |                                                |
-|   [Victor Moreira](https://github.com/vitu-moreira)    |                 |                   |                |            |                                                |
+|   [Daniel Coimbra](https://github.com/DanielCoimbra)   |  Luiz Eduardo   |       9:00        |      9:10      | 25/05/2024 |          Alterar endereço do veículo           |
+|   [Victor Moreira](https://github.com/vitu-moreira)    | Firmina Moreira |       15:00       |     15:10      | 25/05/2024 |       Identificação de Condutor Infrator       |
 
 **Fonte**: [Usuário](https://github.com/).
 </center>
@@ -149,7 +149,8 @@ A seguir, apresentamos o vídeo do teste-piloto conforme o cronograma, onde [XXX
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                        | Autor(es)                                              | Revisor(es) |
-| ------ | ---------- | -------------------------------- | ------------------------------------------------------ | ----------- |
-| `1.0`  | 15/05/2024 | Criação da página                | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
-| `1.1`  | 15/05/2024 | Ajuste da página, e seus tópicos | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
+| Versão | Data       | Descrição                           | Autor(es)                                              | Revisor(es) |
+| ------ | ---------- | ----------------------------------- | ------------------------------------------------------ | ----------- |
+| `1.0`  | 15/05/2024 | Criação da página                   | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
+| `1.1`  | 22/05/2024 | Ajuste da página, e seus tópicos    | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
+| `1.2`  | 22/05/2024 | Ajuste de cronograma de entrevistas | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |

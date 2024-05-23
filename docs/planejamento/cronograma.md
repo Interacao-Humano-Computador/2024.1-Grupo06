@@ -125,14 +125,14 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta en
 
 <font size="3"><p style="text-align: center"><b>Tabela 7</b> - Planejamento da avaliação do Storyboard</p></font>
 
-| Atividade                                                        | Período de desenvolvimento  | Responsáveis | Revisão                       | Revisores |
-| ---------------------------------------------------------------- | --------------------------- | ------------ | ----------------------------- | --------- |
+| Atividade                                                        | Período de desenvolvimento  | Responsáveis                                                                               | Revisão                       | Revisores                                                                                  |
+| ---------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------- | ------------------------------------------------------------------------------------------ |
 | Planejamento da avaliação do Storyboard                          | Início: 17/05<br>Fim: 20/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | Início: 20/05<br>Fim: 20/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel |
-| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 17/05<br>Fim: 20/05 | Pedro Miguel | Início: 20/05<br>Fim: 20/05   | Vinicius Vieira |
-| Planejamento da Avaliação da Análise de tarefas                  | Início: 17/05<br>Fim: 20/05 | Pedro Sena, Filipe Carvalho | Início: 20/05<br>Fim: 20/05   | Pedro Miguel        |
-| Planejamento do relato da avaliação da análise de tareas         | Início: 17/05<br>Fim: 20/05 | Daniel Coimbra | Início: 19/05 <br> Fim: 20/05 | Pedro Sena        |
-| Gravação da apresentação                                         | Início: 20/05<br>Fim: 21/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel        | Início: 20/05<br>Fim: 20/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel     |
-| Correção pós apresentação                                        | Início: 23/05<br>Fim: 24/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel        | Início: 24/05<br>Fim: 25/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel     |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 17/05<br>Fim: 20/05 | Pedro Miguel                                                                               | Início: 20/05<br>Fim: 20/05   | Vinicius Vieira                                                                            |
+| Planejamento da Avaliação da Análise de tarefas                  | Início: 17/05<br>Fim: 20/05 | Pedro Sena, Filipe Carvalho                                                                | Início: 20/05<br>Fim: 20/05   | Pedro Miguel                                                                               |
+| Planejamento do relato da avaliação da análise de tareas         | Início: 17/05<br>Fim: 20/05 | Daniel Coimbra                                                                             | Início: 19/05 <br> Fim: 20/05 | Pedro Sena                                                                                 |
+| Gravação da apresentação                                         | Início: 20/05<br>Fim: 21/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | Início: 20/05<br>Fim: 20/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel |
+| Correção pós apresentação                                        | Início: 23/05<br>Fim: 24/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | Início: 24/05<br>Fim: 25/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel |
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
@@ -142,8 +142,17 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da quarta e
 
 <font size="3"><p style="text-align: center"><b>Tabela 8</b> - Planejamento da avaliação do Storyboard</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+| Atividade                                                        | Período de desenvolvimento  | Responsáveis                                                                               | Revisão                       | Revisores                                                                                  |
+| ---------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------- | ------------------------------------------------------------------------------------------ |
+| Planejamento da avaliação do Storyboard                          | Início: 17/05<br>Fim: 20/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | Início: 20/05<br>Fim: 20/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 17/05<br>Fim: 20/05 | Vinicius Vieira                                                                            | Início: 20/05<br>Fim: 20/05   | Vinicius Vieira                                                                            |
+| Planejamento da Avaliação da Análise de tarefas                  | Início: 17/05<br>Fim: 20/05 | Pedro Sena, Filipe Carvalho                                                                | Início: 20/05<br>Fim: 20/05   | Pedro Miguel                                                                               |
+| Planejamento do relato da avaliação da análise de tarefas        | Início: 17/05<br>Fim: 20/05 | Pedro Miguel                                                                               | Início: 19/05 <br> Fim: 20/05 | Pedro Sena                                                                                 |
+| Gravação da apresentação                                         | Início: 20/05<br>Fim: 21/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | Início: 20/05<br>Fim: 20/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel |
+| Correção pós apresentação                                        | Início: 23/05<br>Fim: 24/05 | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel | Início: 24/05<br>Fim: 25/05   | Daniel Coimbra, Vinicius Vieira, Filipe Carvalho, Victor Moreira, Pedro Sena, Pedro Miguel |
+
+<font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
+
 
 ## Etapa 5 - Relato dos resultados do StoryBoard e da Análise de tarefas
 
@@ -299,12 +308,13 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                                           | Autor(es)                                              | Revisor(es)                                            |
-| ------ | ---------- | --------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
-| 1.0    | 24/03/2024 | Criação do Documento                                | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) |
-| 1.1    | 03/04/2024 | Atualização tabela de planejados                    | [Vinicius Vieira](https://github.com/viniciusvieira00) | --                                                     |
-| 1.2    | 04/04/2024 | Atualização tabela de executados                    | [Vinicius Vieira](https://github.com/viniciusvieira00) | --                                                     |
-| 1.3    | 04/04/2024 | Atualização tabela de planejados outras etapas      | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
-| 1.4    | 09/04/2024 | Atualização tabela de planejados primeira etapa     | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
-| 1.5    | 13/05/2024 | Atualização tabela de executado da terceira entrega | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
-| 1.6    | 13/05/2024 | Correções após a 3ª Entrega                         | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
+| Versão | Data       | Descrição                                           | Autor(es)                                              | Revisor(es)                                      |
+| ------ | ---------- | --------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------ |
+| 1.0    | 24/03/2024 | Criação do Documento                                | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
+| 1.1    | 03/04/2024 | Atualização tabela de planejados                    | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
+| 1.2    | 04/04/2024 | Atualização tabela de executados                    | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
+| 1.3    | 04/04/2024 | Atualização tabela de planejados outras etapas      | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
+| 1.4    | 09/04/2024 | Atualização tabela de planejados primeira etapa     | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
+| 1.5    | 13/05/2024 | Atualização tabela de executado da terceira entrega | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
+| 1.6    | 13/05/2024 | Correções após a 3ª Entrega                         | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
+| 1.7    | 22/05/2024 | Ajuste de cronograma de executado da 4ª entrega     | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
