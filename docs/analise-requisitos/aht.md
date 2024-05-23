@@ -72,8 +72,47 @@ Tarefa em que o usuário solicita uma Permissão Internacional para Dirigir.
 |        **3.1 Consentir os termos do pagamento**|                                                       |
 |**3.2 Pagar**                                                  |                                                                                   ||
 
+### Emissão de Nada Consta da CNH ###
+
+Operação onde o usuário solicita um documento que comprove que não há pendências em sua CNH.
+
+<center>
+
+![Figura 4 - Emissão de nada consta](images/emissao-nd-ct.png)
+
+*Fonte: Interação  Humano Computador - BARBOSA, Simone; DINIZ, Bruno. 2010*
+<br><br>
+
+</center>
+
+
+| Objetivos / Operações                        | Problemas e Recomendações                                                                   |
+|----------------------------------------------|----------------------------------------------------------------------------------------------|
+| **0. Emissão de Nada Consta da CNH**         | - **Input:** Acesso ao site do DETRAN-DF e login realizado <br> - **Feedback:** Documento "Nada Consta" exibido na tela <br> - **Plano:** Navegar pelo site, realizar login, selecionar a funcionalidade e emitir o documento <br> - **Recomendação:** Garantir que todas as etapas de verificação e segurança sejam cumpridas |
+| **1. Acesso ao website**                     | - **Plano:** Acessar diretamente o site do DETRAN-DF                                           |
+| **1.1 Acessar site do DETRAN-DF**            |                                                                                              |
+| **2. Página de Login**                       | - **Plano:** Navegar até a página de login                                                    |
+| **2.1 Navegar até a página de login**        |                                                                                              |
+| **3. Login**                                 | - **Plano:** Inserir credenciais e efetuar login                                              |
+| **3.1 Inserir credenciais**                  |                                                                                              |
+| **3.2 Efetuar login**                        |                                                                                              |
+| **4. Seleção da Funcionalidade**             | - **Plano:** Navegar no menu até a opção desejada                                             |
+| **4.1 Passar o mouse sobre a opção "CNH"**   |                                                                                              |
+| **4.2 Selecionar "Consultar CNH"**           |                                                                                              |
+| **5. Visualização de Informações**           | - **Plano:** Verificar as informações da CNH                                                  |
+| **5.1 Visualizar resumo das informações da CNH** |                                                                                              |
+| **6. Captcha**                               | - **Plano:** Completar verificação de segurança                                               |
+| **6.1 Completar verificação "Não sou um robô"** |                                                                                            |
+| **7. Emissão de Documento**                  | - **Plano:** Solicitar a emissão do documento "Nada Consta"                                   |
+| **7.1 Clicar no botão "Emitir nada consta"** |                                                                                              |
+| **7.2 Visualizar ícone de carregamento**     |                                                                                              |
+| **8. Visualização e Ações com o Documento**  | - **Plano:** Visualizar o documento e optar por imprimi-lo ou enviá-lo por e-mail             |
+| **8.1 Página atualiza e exibe o documento "Nada Consta"**
+
+
 ## 📑 Histórico de versão
 
 |   Versão   | Data  | Descrição            | Autor                                                  | Revisor |
 | :--------: | :---: | :------------------- | ------------------------------------------------------ | ------- |
 | 06/05/2024 |  1.0  | AHT 1 e 2| [Pedro Sena](https://github.com/pedroyen21) | [Filipe Carvalho](https://github.com/Filipe-002)     |
+| 20/05/2024 |  1.1  | AHT 3| [Vinicius Vieira](https://github.com/viniciusvieira00) | -- |
