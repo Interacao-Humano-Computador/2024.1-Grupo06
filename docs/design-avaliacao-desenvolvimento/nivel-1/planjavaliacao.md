@@ -76,15 +76,14 @@ Os prazos estarão documentados na tabela abaixo, com as seguintes informações
 
 **Tabela 2** - Cronograma de entrevista
 
-| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Tarefa associada     |
-| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Filipe Carvalho](https://github.com/filipe-002)  |   André Belle    |    15:00          |  16:00  | 28/05/2024 | Emissão de CRLV-e |
-|  [Vinicius Vieira](https://github.com/viniciusvieira00) |  Aloysio Vieira      |   15:00           | 15:10    | 30/05/2024 |  |
-|  [Pedro Miguel](https://github.com/dougAlvs) |        |             |           |  |  |
-|  [Pedro Sena](https://github.com/pedroyen21) |    Tiago Brant    |  11:00 | 11:10         |  25/05/2024         | Solicitar Permissão Internacional para Dirigir |
-|  [Daniel Coimbra](https://github.com/DanielCoimbra) |      |              |           |  |  |
-|  [Victor Moreira](https://github.com/vitu-moreira) |      |              |           |  |  |
-
+|                   Entrevistador(es)                    | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |              Tarefa associada              |
+| :----------------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :--------------------------------------------: |
+|    [Filipe Carvalho](https://github.com/filipe-002)    |   André Belle   |       15:00       |     16:00      | 28/05/2024 |               Emissão de CRLV-e                |
+| [Vinicius Vieira](https://github.com/viniciusvieira00) | Aloysio Vieira  |       15:00       |     15:10      | 30/05/2024 |           Baixar nada consta da CNH            |
+|      [Pedro Miguel](https://github.com/dougAlvs)       |  Maria Eduarda  |       16:00       |     16:10      | 23/05/2024 |        Consulta das escolas cadastradas        |
+|      [Pedro Sena](https://github.com/pedroyen21)       |   Tiago Brant   |       11:00       |     11:10      | 25/05/2024 | Solicitar Permissão Internacional para Dirigir |
+|   [Daniel Coimbra](https://github.com/DanielCoimbra)   |  Luiz Eduardo   |       9:00        |      9:10      | 25/05/2024 |          Alterar endereço do veículo           |
+|   [Victor Moreira](https://github.com/vitu-moreira)    | Firmina Moreira |       15:00       |     15:10      | 25/05/2024 |       Identificação de Condutor Infrator       |
 **Fonte** - _[Pedro Sena](https://github.com/pedroyen21) e [Filipe Carvalho](https://github.com/Filipe-002)._
 </center>
 
