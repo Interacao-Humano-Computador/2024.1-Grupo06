@@ -39,11 +39,11 @@ A página do storyboard deve ser detalhada [aqui](../storyboard-dad//storyboard.
 |                   Entrevistador(es)                    | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |              Storyboard associado              |
 | :----------------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :--------------------------------------------: |
 |    [Filipe Carvalho](https://github.com/filipe-002)    |   André Belle   |       15:00       |     16:00      | 28/05/2024 |               Emissão de CRLV-e                |
-| [Vinicius Vieira](https://github.com/viniciusvieira00) | Aloysio Vieira  |       15:00       |     15:10      | 30/05/2024 |                                                |
-|      [Pedro Miguel](https://github.com/dougAlvs)       |                 |                   |                |            |                                                |
+| [Vinicius Vieira](https://github.com/viniciusvieira00) | Aloysio Vieira  |       15:00       |     15:10      | 30/05/2024 |                 Emissão de nada consta                               |
+|      [Pedro Miguel](https://github.com/dougAlvs)       |   Maria Eduarda |       16:00       |     16:10      | 23/05/2024 |                 Consultar empresas cadastradas                   |
 |      [Pedro Sena](https://github.com/pedroyen21)       |   Tiago Brant   |       11:00       |     11:10      | 25/05/2024 | Solicitar Permissão Internacional para Dirigir |
-|   [Daniel Coimbra](https://github.com/DanielCoimbra)   |                 |                   |                |            |                                                |
-|   [Victor Moreira](https://github.com/vitu-moreira)    |                 |                   |                |            |                                                |
+|   [Daniel Coimbra](https://github.com/DanielCoimbra)   |   Luiz Eduardo  |       09:00       |     09:10      | 25/05/2024 |       Alterar endereço cadastrado ao veículo                                         |
+|   [Victor Moreira](https://github.com/vitu-moreira)    |Firminia  Moreira|       15:00       |     15:10      | 25/05/2024 |              Identificação do condutor como real infrator                |
 
 Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).
 
@@ -71,13 +71,7 @@ O entrevistador deve analisar e interpretar os resultados obtidos durante a aval
 
 ### Sumário dos principais resultados
 
-Os dados obtidos com a avaliação de cada tarefa serão apresentados de forma resumida e objetiva, contendo uma descrição breve se os participantes conseguiram realizar a tarefa com êxito ou não. A apresentação dos dados pode ser feita por meio de uma tabela ou texto. No entanto, a gravação deve ser disponibilizada da seguinte forma:
-
-<p style="text-align: center"><a href="" target="blanket">Clique aqui</a></p>
-
-<p style="text-align: center"><iframe width="560" height="315" src=""></iframe></p>
-
-<font size="3"><p style="text-align: center">Fonte: Vinicius Vieira.</p></font>
+Em breve, a gravação estará disponível.
 
 ### Planejamento de Reprojeto
 
@@ -99,6 +93,7 @@ O objetivo desta atividade está quase sempre relacionado à validação com a a
 **Fonte** - [Vinicius Vieira](https://github.com/viniciusvieira00).
 
 </center>
+
 ## Referências Bibliográficas
 
 > BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Elsevier, 2011. 
@@ -107,5 +102,6 @@ O objetivo desta atividade está quase sempre relacionado à validação com a a
 
 | Versão | Data       | Descrição         | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ----------------- | ------------------------------------------------------ | ----------- |
-| `1.0`  | 15/05/2024 | Criação da página | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
-| `1.1`  | 22/05/2024 | Ajuste da documentação da página | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
+| `1.0`  | 15/05/2024 | Criação da página | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Daniel Coimbra](https://github.com/DanielCoimbra)          |
+| `1.1`  | 22/05/2024 | Ajuste da documentação da página | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Miguel](https://github.com/dougAlvs)          |
+| `1.2`  | 22/05/2024 | Ajuste da documentação da página | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Vinicius Vieira](https://github.com/viniciusvieira00)          |
