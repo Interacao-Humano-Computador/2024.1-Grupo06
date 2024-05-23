@@ -84,7 +84,9 @@ Os prazos estarão documentados na tabela abaixo, com as seguintes informações
 |      [Pedro Sena](https://github.com/pedroyen21)       |   Tiago Brant   |       11:00       |     11:10      | 25/05/2024 | Solicitar Permissão Internacional para Dirigir |
 |   [Daniel Coimbra](https://github.com/DanielCoimbra)   |  Luiz Eduardo   |       9:00        |      9:10      | 25/05/2024 |          Alterar endereço do veículo           |
 |   [Victor Moreira](https://github.com/vitu-moreira)    | Firmina Moreira |       15:00       |     15:10      | 25/05/2024 |       Identificação de Condutor Infrator       |
+
 **Fonte** - _[Pedro Sena](https://github.com/pedroyen21) e [Filipe Carvalho](https://github.com/Filipe-002)._
+
 </center>
 
 <a id="met2"></a>
