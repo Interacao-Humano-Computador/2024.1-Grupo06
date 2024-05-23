@@ -41,6 +41,19 @@ GOAL 0: Emitir permissão para dirigir em outro País
 		OP 3.1: Consentir o pagamento
 		OP 3.2: Pagar
 
+### Identificar condutor como real infrator ###
+
+Tarefa em que o usuário deseja identificar um condutor que cometeu infrações em seu veículo.
+
+GOAL 0: Identificar condutor como real infrator
+	GOAL 1: Selecionar o veículo
+		OP 1.1: consultar o veículo
+	GOAL 2: Escolher a infração
+		OP 2.1: Selecionar as infrações
+	GOAL 3: Indicar o real infrator
+		OP 3.1: Pesquisar o real infrator
+		OP 3.2: confirmar o real infrator
+
 
 ## 📑 Histórico de versão
 
