@@ -41,35 +41,21 @@ Storyboard 3 ilustra a mudança de um novo morador para uma vizinhança, quando 
 
 ![Figura 3 - Storyboard Alterar Endereço](../../nivel-1/storyboard-dad/assets/images/storyboard-endereco.jpeg)<figcaption>Fonte: [DanielCoimbra](https://github.com/DanielCoimbra) (2024).</figcaption>
 
-</center>
+## Tarefa 4: Emissão de CRLV
 
-## Tarefa 3: XXXX
+A CRLV, Certificado de Registro e Licenciamento de Veículo, é um documento obrigatório para todos os proprietários de veículos no Brasil. Ele serve como prova de que o veículo está devidamente registrado e licenciado para circular nas vias públicas.
 
-Lorew ipsum dolor sit amet, consectetur adipiscing elit.
+Recentemente, foi introduzida a versão digital da CRLV (CRLV-e), que pode ser acessada por meio de aplicativos como o Carteira Digital de Trânsito (CDT) e o Portal Detran-DF. A CRLV-e tem a mesma validade legal que a versão física.
 
-<center>
-
-**Figura 3** - Storyboard XXXX</p>
-
-<!-- <figure markdown> 
-
-![Figura 3 - Acessar a aba Central de Ajuda.](../../../assets/storyboard/storyboard2.png)<figcaption>Fonte: [Geovanna Maciel](https://github.com/manuziny) (2023).</figcaption>
-</figure> -->
-
-</center>
-
-## Tarefa 4: XXXX
-
-Lorew ipsum dolor sit amet, consectetur adipiscing elit.
+Na Figura 4, buscamos representar uma situação bastante usual para os motoristas. Mateus é um motorista de 35 anos que está no processo de venda do seu carro. Para dar prosseguimento, é necessário emitir toda a documentação para que seu veículo esteja devidamente regularizado e mostrar para o comprador que está tudo OK com o veículo, entre estes documentos está a CRLV. Para evitar filas e economizar tempo, optou por fazer o processo de emissão do documento pelo portal do Detran-DF.
 
 <center>
 
-**Figura 4** - Storyboard XXXX</p>
+**Figura 4** - Storyboard Emitir CRLV</p>
 
-<!-- <figure markdown> 
+<figure markdown> 
 
-![Figura 4 - Acessar a aba Central de Ajuda.](../../../assets/storyboard/storyboard2.png)<figcaption>Fonte: [Geovanna Maciel](https://github.com/manuziny) (2023).</figcaption>
-</figure> -->
+![Figura 4 - Acessar a aba Central de Ajuda.](assets/images/storyboardcrlv.png)<figcaption>Fonte: [Filipe Carvalho](https://github.com/filipe-002) 
 
 </center>
 
@@ -83,7 +69,7 @@ Lorew ipsum dolor sit amet, consectetur adipiscing elit.
 
 <!-- <figure markdown> 
 
-![Figura 5 - Acessar a aba Central de Ajuda.](../../../assets/storyboard/storyboard2.png)<figcaption>Fonte: [Geovanna Maciel](https://github.com/manuziny) (2023).</figcaption>
+![Figura 3 - Acessar a aba Central de Ajuda.](../../../assets/storyboard/storyboard2.png)<figcaption>Fonte: [Geovanna Maciel](https://github.com/manuziny) (2023).</figcaption>
 </figure> -->
 
 </center>
@@ -98,7 +84,7 @@ Lorew ipsum dolor sit amet, consectetur adipiscing elit.
 
 <!-- <figure markdown> 
 
-![Figura 6 - Acessar a aba Central de Ajuda.](../../../assets/storyboard/storyboard2.png)<figcaption>Fonte: [Geovanna Maciel](https://github.com/manuziny) (2023).</figcaption>
+![Figura 4 - Acessar a aba Central de Ajuda.](../../../assets/storyboard/storyboard2.png)<figcaption>Fonte: [Geovanna Maciel](https://github.com/manuziny) (2023).</figcaption>
 </figure> -->
 
 </center>
@@ -117,5 +103,6 @@ Lorew ipsum dolor sit amet, consectetur adipiscing elit.
 | ------ | ---------- | --------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------- |
 | `1.0`  | 15/05/2024 | Criação da página                                   | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Sena](https://github.com/pedroyen21)        |
 | `1.1`  | 17/05/2024 | Adição da Storyboard de solicitação de PID          | [Pedro Sena](https://github.com/pedroyen21)            | [Daniel Coimbra](https://github.com/DanielCoimbra) |
-| `1.2`  | 22/05/2024 | Adição da Storyboard de alterar endereço do veículo | [Daniel Coimbra](https://github.com/DanielCoimbra)     | [Pedro Sena](https://github.com/pedroyen21)        |
+| `1.2`  | 18/05/2024 | Adição da Storyboard de emissão de CRLV             | [Filipe Carvalho](https://github.com/filipe-002)       | [Pedro Sena](https://github.com/pedroyen21)        |
+| `1.3`  | 22/05/2024 | Adição da Storyboard de alterar endereço do veículo | [Daniel Coimbra](https://github.com/DanielCoimbra)     | [Pedro Sena](https://github.com/pedroyen21)        |
 
