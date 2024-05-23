@@ -35,18 +35,33 @@ nav:
     - Cronograma: planejamento/cronograma.md
     - Ferramentas: planejamento/ferramentas.md
     - Heatmap: planejamento/heatmap.md
+    - Metodologia: planejamento/metodologia.md
     - Sites avaliados: planejamento/sites-avaliados.md
+    - Site escolhido: planejamento/site-escolhido.md
     - Processo de design: planejamento/processo-de-design.md
   - Análise de Requisitos:
+    - Aspectos Éticos: analise-requisitos/aspectos-eticos.md
     - Perfil do Usuário: analise-requisitos/usuario.md
     - Personas: analise-requisitos/personas.md
+    - Cenários: analise-requisitos/cenarios.md
     - Análise de Tarefas: 
       - Análise Hierárquica de Tarefas: analise-requisitos/aht.md
       - GOMS: analise-requisitos/goms.md
-    - Características da Plataforma: analise-requisitos/caracteristicas-plataforma.md
-    - Principios Gerais: analise-requisitos/pgerais.md
     - Metas de Usabilidade: analise-requisitos/metas-usabilidade.md
+    - Principios Gerais: analise-requisitos/pgerais.md
     - Guia de Estilo: analise-requisitos/guia-estilo.md
+    - Características Gerais: analise-requisitos/caracteristicas-plataforma.md
+  - Design, Avaliação e Desenvolvimento:
+    - Nível 1:
+        - Análise de Tarefas:
+            - Planejamento da Avaliação da Análise de Tarefas: design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-avaliacao-at.md
+            - Planejamento do Relato dos Resultados da Avaliação: design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-relato-resultado-at.md
+            - Relato do Resultado: design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/relato-resultado-at.md
+        - Storyboard:
+            - Planejamento da Avaliação do Storyboard: design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-avaliacao-sb.md
+            - Planejamento do Relato dos Resultados: design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-relato-resultado-sb.md
+            - Relato do Resultado: design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/relato-resultado-storyboard.md
+            - Storyboards: design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/storyboard.md
 
 
 
