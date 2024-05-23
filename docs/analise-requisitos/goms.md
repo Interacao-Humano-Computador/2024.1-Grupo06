@@ -127,6 +127,19 @@ Explicando os quatro tipos de elementos utilizados no método GOMS:
 | Fazer o download do documento           | Assegurar que o link/botão de download esteja destacado e funcione corretamente em diferentes dispositivos e navegadores. Fornecer uma mensagem de confirmação ou notificação após a conclusão do download.    |
 
 
+### Identificar condutor como real infrator ###
+
+Tarefa em que o usuário deseja identificar um condutor que cometeu infrações em seu veículo.
+
+GOAL 0: Identificar condutor como real infrator
+	GOAL 1: Selecionar o veículo
+		OP 1.1: consultar o veículo
+	GOAL 2: Escolher a infração
+		OP 2.1: Selecionar as infrações
+	GOAL 3: Indicar o real infrator
+		OP 3.1: Pesquisar o real infrator
+		OP 3.2: confirmar o real infrator
+
 
 ## 📑 Histórico de versão
 
