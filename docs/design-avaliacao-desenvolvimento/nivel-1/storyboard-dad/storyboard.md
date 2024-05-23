@@ -55,7 +55,7 @@ Na Figura 4, buscamos representar uma situação bastante usual para os motorist
 
 <figure markdown> 
 
-![Figura 4 - Acessar a aba Central de Ajuda.](assets/images/storyboardcrlv.png)<figcaption>Fonte: [Filipe Carvalho](https://github.com/filipe-002) 
+![Figura 4 - Storyboard Emissão de CRLV.](assets/images/storyboardcrlv.png)<figcaption>Fonte: [Filipe Carvalho](https://github.com/filipe-002) 
 
 </center>
 
@@ -102,4 +102,3 @@ O storyboard 6 representa uma situação onde um idoso que emprestou o carro par
 | `1.1`  | 17/05/2024 | Adição da Storyboard de solicitação de PID          | [Pedro Sena](https://github.com/pedroyen21)            | [Daniel Coimbra](https://github.com/DanielCoimbra) |
 | `1.2`  | 18/05/2024 | Adição da Storyboard de emissão de CRLV             | [Filipe Carvalho](https://github.com/filipe-002)       | [Pedro Sena](https://github.com/pedroyen21)        |
 | `1.3`  | 22/05/2024 | Adição da Storyboard de alterar endereço do veículo | [Daniel Coimbra](https://github.com/DanielCoimbra)     | [Pedro Sena](https://github.com/pedroyen21)        |
-
