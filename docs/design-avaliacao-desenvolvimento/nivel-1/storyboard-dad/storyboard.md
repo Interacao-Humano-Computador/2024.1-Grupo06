@@ -73,18 +73,16 @@ Lorew ipsum dolor sit amet, consectetur adipiscing elit.
 
 </center>
 
-## Tarefa 6: XXXX
+## Tarefa 6: Indicar condutor como real infrator
 
-Lorew ipsum dolor sit amet, consectetur adipiscing elit.
+O storyboard 6 representa uma situação onde um idoso que emprestou o carro para seu filho que acabou recebendo uma multa. O idoso e seu filho então buscam como transferir a multa para o nome do filho para que ele possa receber os pontos na carteira e pagar a mesma, eles acabam encontrando o site do Portal Detran-DF e fazendo a identificação do real infrator.
 
 <center>
 
-**Figura 6** - Storyboard XXXX</p>
+**Figura 6** - Storyboard Identificação Condutor infrator</p>
 
-<!-- <figure markdown> 
+![Figura 6 - Storyboard identificação condutor infrator](../../nivel-1/storyboard-dad/assets/images/storyboard-ident-condutor-infrator.png)<figcaption>Fonte: [Víctor Moreira](https://github.com/vitu-moreira) (2024).</figcaption>
 
-![Figura 6 - Acessar a aba Central de Ajuda.](../../../assets/storyboard/storyboard2.png)<figcaption>Fonte: [Geovanna Maciel](https://github.com/manuziny) (2023).</figcaption>
-</figure> -->
 
 </center>
 
