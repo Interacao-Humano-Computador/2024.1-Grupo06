@@ -28,18 +28,15 @@ Storyboard 2 ilustra a mudança de um novo morador para uma vizinhança, quando 
 
 </center>
 
-## Tarefa 3: XXXX
+## Tarefa 3: Procurar empresa cadastrada para realizar renovação de CNH 
 
-Lorew ipsum dolor sit amet, consectetur adipiscing elit.
+Storyboard 3 ilustra um caminhoneiro que percebe que sua CNH irá vencer em breve e precisa urgentemente encontrar uma escola que seja confiável para realizar a renovação de sua CNH  e assim voltar atrabalhar sem preocupações em ser multado no trânsito.
 
 <center>
 
-**Figura 3** - Storyboard XXXX</p>
+**Figura 3** - Storyboard de Consultar Empresas</p>
 
-<!-- <figure markdown> 
-
-![Figura 3 - Acessar a aba Central de Ajuda.](../../../assets/storyboard/storyboard2.png)<figcaption>Fonte: [Geovanna Maciel](https://github.com/manuziny) (2023).</figcaption>
-</figure> -->
+![Figura 3 - Storyboard de Consultar Empresas](../../nivel-1/storyboard-dad/assets/images/StoryboardConsultarCredenciadas.png)<figcaption>Fonte: [Pedro Miguel](https://github.com/pedroMADBR) (2024).</figcaption>
 
 </center>
 
@@ -103,3 +100,4 @@ Lorew ipsum dolor sit amet, consectetur adipiscing elit.
 | `1.0`  | 15/05/2024 | Criação da página | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Sena](https://github.com/pedroyen21)          |
 | `1.1`  | 17/05/2024 | Adição da Storyboard de solicitação de PID| [Pedro Sena](https://github.com/pedroyen21) | [Daniel Coimbra](https://github.com/DanielCoimbra) |
 | `1.2`  | 22/05/2024 | Adição da Storyboard de alterar endereço do veículo| [Daniel Coimbra](https://github.com/DanielCoimbra) | [Pedro Sena](https://github.com/pedroyen21) |
+| `1.3`  | 22/05/2024 | Adição da Storyboard de Consultar Empresas | [Pedro Miguel](https://github.com/pedroMADBR) | [Vinicius Vieira](https://github.com/viniciusvieira00) |
