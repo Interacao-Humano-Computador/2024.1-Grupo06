@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+O planejamento de uma avaliação do storyboard inclui a definição de metas, critérios, público-alvo e a criação de cronogramas apropriados para revisão e iteração. Uma avaliação minuciosa do storyboard melhorará a narrativa visual e garantirá que o projeto final atinja seus objetivos, conectando-se de maneira eficaz com o público.
 
 ## Tarefa 1: Solicitar Permissão Internacional para Dirigir
 
@@ -43,6 +43,7 @@ Storyboard 3 ilustra a mudança de um novo morador para uma vizinhança, quando 
 
 ## Tarefa 4: Emissão de CRLV
 
+
 A CRLV, Certificado de Registro e Licenciamento de Veículo, é um documento obrigatório para todos os proprietários de veículos no Brasil. Ele serve como prova de que o veículo está devidamente registrado e licenciado para circular nas vias públicas.
 
 Recentemente, foi introduzida a versão digital da CRLV (CRLV-e), que pode ser acessada por meio de aplicativos como o Carteira Digital de Trânsito (CDT) e o Portal Detran-DF. A CRLV-e tem a mesma validade legal que a versão física.
@@ -59,18 +60,15 @@ Na Figura 4, buscamos representar uma situação bastante usual para os motorist
 
 </center>
 
-## Tarefa 5: XXXX
+## Tarefa 5: Procurar empresa cadastrada para realizar renovação de CNH 
 
-Lorew ipsum dolor sit amet, consectetur adipiscing elit.
+Storyboard 5 ilustra um caminhoneiro que percebe que sua CNH irá vencer em breve e precisa urgentemente encontrar uma escola que seja confiável para realizar a renovação de sua CNH  e assim voltar atrabalhar sem preocupações em ser multado no trânsito.
 
 <center>
 
-**Figura 5** - Storyboard XXXX</p>
+**Figura 5** - Storyboard de Consultar Empresas</p>
 
-<!-- <figure markdown> 
-
-![Figura 3 - Acessar a aba Central de Ajuda.](../../../assets/storyboard/storyboard2.png)<figcaption>Fonte: [Geovanna Maciel](https://github.com/manuziny) (2023).</figcaption>
-</figure> -->
+![Figura 5 - Storyboard de Consultar Empresas](../../nivel-1/storyboard-dad/assets/images/StoryboardConsultarCredenciadas.png)<figcaption>Fonte: [Pedro Miguel](https://github.com/pedroMADBR) (2024).</figcaption>## Tarefa 5: XXXX
 
 </center>
 
@@ -102,3 +100,5 @@ O storyboard 6 representa uma situação onde um idoso que emprestou o carro par
 | `1.1`  | 17/05/2024 | Adição da Storyboard de solicitação de PID          | [Pedro Sena](https://github.com/pedroyen21)            | [Daniel Coimbra](https://github.com/DanielCoimbra) |
 | `1.2`  | 18/05/2024 | Adição da Storyboard de emissão de CRLV             | [Filipe Carvalho](https://github.com/filipe-002)       | [Pedro Sena](https://github.com/pedroyen21)        |
 | `1.3`  | 22/05/2024 | Adição da Storyboard de alterar endereço do veículo | [Daniel Coimbra](https://github.com/DanielCoimbra)     | [Pedro Sena](https://github.com/pedroyen21)        |
+| `1.4`  | 22/05/2024 | Adição da Storyboard de Consultar Empresas | [Pedro Miguel](https://github.com/pedroMADBR) | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+

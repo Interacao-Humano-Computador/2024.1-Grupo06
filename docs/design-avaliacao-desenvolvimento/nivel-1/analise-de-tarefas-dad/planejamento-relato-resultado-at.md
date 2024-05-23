@@ -1,10 +1,20 @@
 ## Introdução
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec nisl nec nisl ultricies ultricies. Donec auctor, nunc nec
+Para a seção de planejamento do relato vamos estruturar e estabelecer os critérios para concluir o relato dos resultados da análise de tarefas. É importante planejar cada passo dessa seção para que não deixemos nenhum detalhe passar despercebido em nossos trabalhos passados e também para atividades futuras. Dessa forma, conseguiremos viabilizar um bom trabalho na avaliação do Portal Detran - DF.
 
 ## Metodologia
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec nisl nec nisl ultricies ultricies. Donec auctor, nunc nec
+Para realizar esse relato iremos nos basear nos tópicos destacados por Barbosa e Silva (2011, p.279) e dessa forma trabalharemos com as seguintes abordagens:
+
+- Objetivo e escopo da avaliação
+- Método de avaliação
+- Seleção dos participantes
+- Problemas e dificuldades encontradas
+- Sugestões de melhoria
+- Feedback dos usuários
+- Análise e interpretação dos usuários
+- Sumários dos principais resultados
+- Planejamento de reprojeto
 
 ## Tópicos
 
@@ -87,4 +97,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec nisl nec nis
 
 | Versão | Data       | Descrição         | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ----------------- | ------------------------------------------------------ | ----------- |
-| `1.0`  | 15/05/2024 | Criação da página | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
+| `1.0`  | 15/05/2024 | Criação da página | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Miguel](https://github.com/pedroMADBR) |
+| `1.1`  | 22/05/2024 | Elaboração do planejamento | [Pedro Miguel](https://github.com/pedroMADBR) | [Vinicius Vieira](https://github.com/viniciusvieira00) |

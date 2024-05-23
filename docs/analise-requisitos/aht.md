@@ -113,7 +113,7 @@ Operação onde o usuário solicita um documento que comprove que não há pend�
 
 Tarefa em que o usuário faz a emissão da CRLV (Certificado de registro e licenciamento de veículo).
 
-![Figura 4 - Emitir CRLV (Figura do autor - 2024)](images/htacrlv.png)
+![Figura 5 - Emitir CRLV (Figura do autor - 2024)](images/htacrlv.png)
 <center> *Fonte: Interação  Humano Computador - BARBOSA, Simone; DINIZ, Bruno. 2010*</center>
 <br><br>
 
@@ -129,6 +129,34 @@ Tarefa em que o usuário faz a emissão da CRLV (Certificado de registro e licen
 
 
 
+
+### Procurar empresa cadastrada para realizar renovação de CNH 
+
+Tarefa em que o usuário busca por uma empresa cadastrada no Detran - DF para renovação de sua Carteira Nacional de Habilitação.
+
+<center>
+
+![Figura 6 - Procurar empresa cadastrada para realizar renovação de CNH ](images/HTAConsultarEmpresasCadastradas.png)
+
+*Fonte: Interação  Humano Computador - BARBOSA, Simone; DINIZ, Bruno. 2010*
+<br><br>
+
+</center>
+
+| **Objetivos / Operações**                                          | **Problemas e Recomendações**                                                                                                                                                                                            |
+|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0.Procurar empresa cadastrada para realizar renovação de CNH       | - Input: Escolha de tipo de curso e empresa
+- Feedback: Lista de empresas e dados da empresa escolhida
+- Plano: Buscar empresa para renovação de CNH
+- Recomendação: Permitir uma busca em todas as empresas cadastradas |
+| 1.Selecionar seção de consultas de instituições de ensino          | - Plano: Selecionar seção de instituições de ensino                                                                                                                                                                      |
+| 1.1.Selecionar seção de consultas de instituições de ensino        |                                                                                                                                                                                                                          |
+| 2.Selecionar curso desejado                                        | - Plano: Selecionar curso de Renovação de CNH                                                                                                                                                                            |
+| 2.1.Selecionar curso desejado                                      |                                                                                                                                                                                                                          |
+| 3.Escolher empresa com endereço perto                              | - Plano: Escolher empresa para entender sobre o curso                                                                                                                                                                    |
+| 4.Ligar e visitar o site da empresa para mais informações do curso | - Plano: Ligar para empresa selecionada                                                                                                                                                                                  |
+
+
 ## 📑 Histórico de versão
 
 |    Data    | Versão | Descrição                                      | Autor                                                  | Revisor                                                |
@@ -136,3 +164,5 @@ Tarefa em que o usuário faz a emissão da CRLV (Certificado de registro e licen
 | 06/05/2024 |  1.0   | AHT 1 e 2                                      | [Pedro Sena](https://github.com/pedroyen21)            | [Filipe Carvalho](https://github.com/Filipe-002)       |
 | 20/05/2024 |  1.1   | AHT 3                                          | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/Filipe-002)       |
 | 22/05/2024 |  1.2   | Inclusão do AHT de CRLV e correção de detalhes | [Filipe Carvalho](https://github.com/Filipe-002)       | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| 22/05/2024 |  1.3  | AHT de Consultar Empresas | [Pedro Miguel](https://github.com/pedroMADBR) | [Filipe Carvalho](https://github.com/Filipe-002)     |
+
