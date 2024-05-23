@@ -11,6 +11,11 @@ Para dar credibilidade e valor ao nosso trabalho é necessário conduzir também
 
 - Princípio da justiça e equidade: está relacionado à importância social da pesquisa, priorizando benefícios substanciais para os participantes da pesquisa e minimizando as cargas impostas aos participantes vulneráveis. Isso garante a consideração justa dos interesses envolvidos e mantém o propósito humanitário e social da pesquisa em foco.
 
+# Termo de Consentimento
+
+Termo de consentimento usado na pesquisa:
+
+![Figura 6 - Termo de Consentimennto](images/termo-consentimento.png)<figcaption>Fonte: [Víctor Moreira](https://github.com/vitu-moreira) (2024).</figcaption>
 
 ## Referências Bibliográficas
 
