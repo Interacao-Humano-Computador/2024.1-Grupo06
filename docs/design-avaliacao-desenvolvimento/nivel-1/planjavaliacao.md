@@ -82,8 +82,8 @@ Os prazos estarão documentados na tabela abaixo, com as seguintes informações
 |  [Vinicius Vieira](https://github.com/viniciusvieira00) |  Aloysio Vieira      |   15:00           | 15:10    | 30/05/2024 |  |
 |  [Pedro Miguel](https://github.com/dougAlvs) |        |             |           |  |  |
 |  [Pedro Sena](https://github.com/pedroyen21) |    Tiago Brant    |  11:00 | 11:10         |  25/05/2024         | Solicitar Permissão Internacional para Dirigir |
-|  [Daniel Coimbra](https://github.com/DanielCoimbra) |      |              |           |  |  |
-|  [Victor Moreira](https://github.com/vitu-moreira) |      |              |           |  |  |
+|  [Daniel Coimbra](https://github.com/DanielCoimbra) |  Luiz Eduardo    |      09:00        |       10:00    | 25/05/2024  |  Alterar endereço do veículo    |
+|  [Victor Moreira](https://github.com/vitu-moreira) |  Firmina Moreira    |        15:00     |        16:00   | 25/05/2024  | Identificação do condutor como real infrator |
 
 **Fonte** - _[Pedro Sena](https://github.com/pedroyen21) e [Filipe Carvalho](https://github.com/Filipe-002)._
 </center>
@@ -110,6 +110,8 @@ Basicamente, a entrevista consiste em uma captura da tela dos diagramas HTA e GO
 |   5.1    | Observando a tarefa Emitir CRLV, a sequência de processos é coerente? Se não, poderia descrever o porquê? |    Discursiva  | Filipe Carvalho |
 | 6 | Quais os passos você acha necessários para solicitar sua Permissão para Dirigir (PID) | Discursiva | Pedro Sena |
 | 6.1 | Observando a [análise da tarefa](../../analise-requisitos/aht.md) solicitar PID, a sequência de atividades é coerente? Se não, poderia descrever o porquê? | Discursiva | Pedro Sena |
+| 7 |  ⁠Como você efetuaria uma consulta da sua CNH, e a emissão de um nada consta da mesma?| Discursiva| Vinicius Vieira |
+| 7.1 | Observando a tarefa Consulta e emissão de nada consta da CNH, o processo atual é coerente? Se não, poderia descrever o porquê? | Discursiva | Vinicius Vieira |
 
 
 **Fonte** - [Pedro Sena](https://github.com/pedroyen21) e [Filipe Carvalho](https://github.com/Filipe-002).
