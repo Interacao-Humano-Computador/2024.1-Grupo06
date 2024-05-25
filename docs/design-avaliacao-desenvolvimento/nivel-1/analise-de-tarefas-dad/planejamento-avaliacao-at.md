@@ -76,14 +76,15 @@ Os prazos estarão documentados na tabela abaixo, com as seguintes informações
 
 **Tabela 2** - Cronograma de entrevista
 
-|                   Entrevistador(es)                    | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |                Tarefa associada                |
-| :----------------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :--------------------------------------------: |
-|    [Filipe Carvalho](https://github.com/filipe-002)    |   André Belle   |       15:00       |     16:00      | 28/05/2024 |               Emissão de CRLV-e                |
-| [Vinicius Vieira](https://github.com/viniciusvieira00) | Aloysio Vieira  |       15:00       |     15:10      | 30/05/2024 |                                                |
-|      [Pedro Miguel](https://github.com/dougAlvs)       |                 |                   |                |            |                                                |
-|      [Pedro Sena](https://github.com/pedroyen21)       |   Tiago Brant   |       11:00       |     11:10      | 25/05/2024 | Solicitar Permissão Internacional para Dirigir |
-|   [Daniel Coimbra](https://github.com/DanielCoimbra)   |                 |                   |                |            |                                                |
-|   [Victor Moreira](https://github.com/vitu-moreira)    |                 |                   |                |            |                                                |
+|                   Entrevistador(es)                    | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    | Local |              Tarefa associada              |
+| :----------------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | |:--------------------------------------------: |
+|    [Filipe Carvalho](https://github.com/filipe-002)    |   André Belle   |       15:00       |     16:00      | 28/05/2024 | |               Emissão de CRLV-e                |
+| [Vinicius Vieira](https://github.com/viniciusvieira00) | Aloysio Vieira  |       15:00       |     15:10      | 30/05/2024 | |         Baixar nada consta da CNH            |
+|      [Pedro Miguel](https://github.com/dougAlvs)       |  Maria Eduarda  |       16:00       |     16:10      | 23/05/2024 | |     Consulta das escolas cadastradas        |
+|      [Pedro Sena](https://github.com/pedroyen21)       |   Tiago Brant   |       11:00       |     11:10      | 01/06/2024 | Casa do entrevistado  | Solicitar Permissão Internacional para Dirigir |
+|   [Daniel Coimbra](https://github.com/DanielCoimbra)   |  Luiz Eduardo   |       9:00        |      9:10      | 25/05/2024 ||          Alterar endereço do veículo           |
+|   [Victor Moreira](https://github.com/vitu-moreira)    | Firmina Moreira |       15:00       |     15:10      | 25/05/2024 | |      Identificação de Condutor Infrator       |
+
 
 **Fonte** - _[Pedro Sena](https://github.com/pedroyen21) e [Filipe Carvalho](https://github.com/Filipe-002)._
 </center>
@@ -141,7 +142,7 @@ Concluída essa etapa, os dados serão apresentados ao time de desenvolvimento, 
 Com o intuito de testarmos nosso planejamento da avaliação supracitado, faremos um teste piloto.
 Ele nos dará uma boa noção para sabermos se estamos seguindo o caminho correto em nossas perguntas, se o entrevistado pode se sentir desconfortável ou desorientado em algum momento e se estaremos coletando dados realmente relevantes e que satisfaçam nossos objetivos previamente estabelecidos. 
 
-Dessa forma, elegemos dois membros do grupo, XXX e YYY, para realizar o teste piloto. Ele será feito remotamente dia DD/MM/AAAA das HH:MM às HH:MM.
+Dessa forma, elegemos dois membros do grupo, Pedro Sena e Victor Moreira, para realizar o teste piloto. Ele será feito remotamente dia 27/05/2024 às 10:10.
 
 
 ## Resultado do Teste Piloto
@@ -164,3 +165,4 @@ Dessa forma, elegemos dois membros do grupo, XXX e YYY, para realizar o teste pi
 | `1.1`  | 20/05/2024 | Criação da página                                               | [Filipe Carvalho](https://github.com/filipe-002)       | [Pedro Sena](https://github.com/pedroyen21)            |
 | `1.2`  | 21/05/2024 | Inclusão dos textos                                             | [Filipe Carvalho](https://github.com/filipe-002)       | [Pedro Sena](https://github.com/pedroyen21)            |
 | `1.3`  | 22/05/2024 | Mudança da introdução e adição do planejamento do teste piloto. | [Pedro Sena](https://github.com/pedroyen21)            | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| `1.4`  | 24/05/2024 | Adição local | [Pedro Sena](https://github.com/pedroyen21)            | []() |
