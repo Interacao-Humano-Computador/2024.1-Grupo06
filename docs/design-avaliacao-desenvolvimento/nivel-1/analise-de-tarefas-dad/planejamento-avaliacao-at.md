@@ -4,7 +4,7 @@
 
 A avaliação de artefatos de IHC com usuários é arriscada porque uma falha pode significar tempo perdido e gerar a necessidade de refazer a avaliação. Entretanto, tal evento irritaria o usuário e probabilidade do mesmo não querer refazer a entrevista é grande. Tendo isso em vista, um planejamento para uma melhor execução e mitigação de erros faz-se necessária.
 
-Dessa forma, o grupo realizará uma entrevista com um usuário real do portal Detran DF para cada tarefa da [análise de tarefas](../../../analise-requisitos/aht.md) baseando-se nos [perfis de usuário](../../analise-requisitos/usuario.md).
+Dessa forma, o grupo realizará uma entrevista com um usuário real do portal Detran DF para cada tarefa da [análise de tarefas](../../../analise-requisitos/aht.md) baseando-se nos [perfis de usuário](../../../analise-requisitos/usuario.md).
 
 ## Metodologia
 
@@ -43,11 +43,11 @@ A razão para escolha desse método é para um melhor entendimento do contexto e
 
 ### Recrutamento
 
-A seleção de participantes para as entrevista será baseada primeiramente no [perfil de usuário](../../analise-requisitos/usuario.md) e as [personas](../../analise-requisitos/personas.md), de acordo com os dados obtidos nas pesquisas feitas. No total serão 6 entrevistados, um para cada membro do grupo. Decidimos utilizar tal estratégia para que cada membro do grupo obtivesse um contato real com um usuário e ter acesso à diferentes perspectivas de uso.
+A seleção de participantes para as entrevista será baseada primeiramente no [perfil de usuário](../../../analise-requisitos/usuario.md) e as [personas](../../../analise-requisitos/personas.md), de acordo com os dados obtidos nas pesquisas feitas. No total serão 6 entrevistados, um para cada membro do grupo. Decidimos utilizar tal estratégia para que cada membro do grupo obtivesse um contato real com um usuário e ter acesso à diferentes perspectivas de uso.
 
 ### Preparação
 
-Para a preparação da avaliação, o entrevistador será responsável por fazer as perguntas presentes no roteiro que será apresentado e fazer as anotações sobre as respostas do usuário. A entrevista deverá envolver alguma das atividades presentes na [análise de tarefas](../../analise-requisitos/aht.md). Cada membro do grupo ficará responsável por uma entrevista com um usuário baseado na tarefa escolhida, gerando o total de 6 entrevistas.
+Para a preparação da avaliação, o entrevistador será responsável por fazer as perguntas presentes no roteiro que será apresentado e fazer as anotações sobre as respostas do usuário. A entrevista deverá envolver alguma das atividades presentes na [análise de tarefas](../../../analise-requisitos/aht.md). Cada membro do grupo ficará responsável por uma entrevista com um usuário baseado na tarefa escolhida, gerando o total de 6 entrevistas.
 
 ### Custos
 
@@ -109,8 +109,17 @@ Basicamente, a entrevista consiste em uma captura da tela dos diagramas HTA e GO
 | 4 | Você tem carteira de motorista?| [  ] Sim <br> [  ] Não | Todos |
 | 5 | Como você emitiria sua CRLV? | [ ] Inseriria os dados do veículo e emitiria o documento. <br> [ ] Outro, como? | Filipe Carvalho |
 |   5.1    | Observando a tarefa Emitir CRLV, a sequência de processos é coerente? Se não, poderia descrever o porquê? |    Discursiva  | Filipe Carvalho |
-| 6 | Quais os passos você acha necessários para solicitar sua Permissão para Dirigir (PID) | Discursiva | Pedro Sena |
-| 6.1 | Observando a [análise da tarefa](../../analise-requisitos/aht.md) solicitar PID, a sequência de atividades é coerente? Se não, poderia descrever o porquê? | Discursiva | Pedro Sena |
+| 6 | Quais os passos você acha necessários para solicitar sua Permissão Internacional para Dirigir (PID)? | Discursiva | Pedro Sena |
+| 6.1 | Observando a [análise da tarefa](../../../analise-requisitos/aht.md) solicitar PID, a sequência de atividades é coerente? Se não, poderia descrever o porquê? | Discursiva | Pedro Sena |
+| 7 | Quais os passos você acha necessários para baixar nada consta da CNH? | Discursiva | Vinicius Vieira |
+| 7.1 | Observando a [análise da tarefa](../../../analise-requisitos/aht.md) baixar nada consta da CNH, a sequência de atividades é coerente? Se não, poderia descrever o porquê? | Discursiva | Vinicius Vieira |
+| 8 | Quais os passos você acha necessários para consultar as escolas de trânsito cadastradas? | Discursiva | Pedro Miguel |
+| 8.1 | Observando a [análise da tarefa](../../../analise-requisitos/aht.md) consultar as escolas de trânsito cadastradas, a sequência de atividades é coerente? Se não, poderia descrever o porquê? | Discursiva | Pedro Miguel |
+| 9 | Quais os passos você acha necessários para alterar endereço do veículo? | Discursiva | Daniel Coimbra |
+| 9.1 | Observando a [análise da tarefa](../../../analise-requisitos/aht.md) alterar endereço do veículo, a sequência de atividades é coerente? Se não, poderia descrever o porquê? | Discursiva | Daniel Coimbra |
+| 10 | Quais os passos você acha necessários para identificar um condutor infrator? | Discursiva | Victor Moreira |
+| 10.1 | Observando a [análise da tarefa](../../../analise-requisitos/aht.md) identificar um condutor infrator, a sequência de atividades é coerente? Se não, poderia descrever o porquê? | Discursiva |  Victor Moreira |
+
 
 
 **Fonte** - [Pedro Sena](https://github.com/pedroyen21) e [Filipe Carvalho](https://github.com/Filipe-002).
@@ -142,7 +151,7 @@ Concluída essa etapa, os dados serão apresentados ao time de desenvolvimento, 
 Com o intuito de testarmos nosso planejamento da avaliação supracitado, faremos um teste piloto.
 Ele nos dará uma boa noção para sabermos se estamos seguindo o caminho correto em nossas perguntas, se o entrevistado pode se sentir desconfortável ou desorientado em algum momento e se estaremos coletando dados realmente relevantes e que satisfaçam nossos objetivos previamente estabelecidos. 
 
-Dessa forma, elegemos dois membros do grupo, Pedro Sena e Victor Moreira, para realizar o teste piloto. Ele será feito remotamente dia 27/05/2024 às 10:10.
+Dessa forma, elegemos dois membros do grupo, Pedro Sena e Victor Moreira, para realizar o teste piloto. Ele será feito remotamente dia 27/05/2024 às 10:10. Neste teste piloto, o entrevistador fará perguntas de todos os entrevistadores, ou seja, de todas as tarefas. Para que haja maior coleta de dados, e portanto, maior entendimento de como deverá ser conduzida as avaliações com os usuários reais. 
 
 
 ## Resultado do Teste Piloto

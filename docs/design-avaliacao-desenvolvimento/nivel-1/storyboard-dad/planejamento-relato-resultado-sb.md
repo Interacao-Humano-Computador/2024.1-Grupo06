@@ -36,14 +36,14 @@ A página do storyboard deve ser detalhada [aqui](../storyboard-dad//storyboard.
 
 **Tabela 1** - Cronograma Planejado.
 
-|                   Entrevistador(es)                    | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |              Storyboard associado              |
-| :----------------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :--------------------------------------------: |
-|    [Filipe Carvalho](https://github.com/filipe-002)    |   André Belle   |       15:00       |     16:00      | 28/05/2024 |               Emissão de CRLV-e                |
-| [Vinicius Vieira](https://github.com/viniciusvieira00) | Aloysio Vieira  |       15:00       |     15:10      | 30/05/2024 |                 Emissão de nada consta                               |
-|      [Pedro Miguel](https://github.com/dougAlvs)       |   Maria Eduarda |       16:00       |     16:10      | 23/05/2024 |                 Consultar empresas cadastradas                   |
-|      [Pedro Sena](https://github.com/pedroyen21)       |   Tiago Brant   |       11:00       |     11:10      | 25/05/2024 | Solicitar Permissão Internacional para Dirigir |
-|   [Daniel Coimbra](https://github.com/DanielCoimbra)   |   Luiz Eduardo  |       09:00       |     09:10      | 25/05/2024 |       Alterar endereço cadastrado ao veículo                                         |
-|   [Victor Moreira](https://github.com/vitu-moreira)    |Firminia  Moreira|       15:00       |     15:10      | 25/05/2024 |              Identificação do condutor como real infrator                |
+|                   Entrevistador(es)                    | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    | Local |              Tarefa associada              |
+| :----------------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | |:--------------------------------------------: |
+|    [Filipe Carvalho](https://github.com/filipe-002)    |   André Belle   |       15:00       |     16:00      | 28/05/2024 | |               Emissão de CRLV-e                |
+| [Vinicius Vieira](https://github.com/viniciusvieira00) | Aloysio Vieira  |       15:00       |     15:10      | 30/05/2024 | |         Baixar nada consta da CNH            |
+|      [Pedro Miguel](https://github.com/dougAlvs)       |  Maria Eduarda  |       16:00       |     16:10      | 23/05/2024 | |     Consulta das escolas cadastradas        |
+|      [Pedro Sena](https://github.com/pedroyen21)       |   Tiago Brant   |       11:00       |     11:10      | 01/06/2024 | Casa do entrevistado  | Solicitar Permissão Internacional para Dirigir |
+|   [Daniel Coimbra](https://github.com/DanielCoimbra)   |  Luiz Eduardo   |       9:00        |      9:10      | 25/05/2024 ||          Alterar endereço do veículo           |
+|   [Victor Moreira](https://github.com/vitu-moreira)    | Firmina Moreira |       15:00       |     15:10      | 25/05/2024 | |      Identificação de Condutor Infrator       |
 
 Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).
 
