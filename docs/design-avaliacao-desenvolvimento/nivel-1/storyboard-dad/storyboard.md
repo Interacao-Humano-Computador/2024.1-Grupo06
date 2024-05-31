@@ -68,7 +68,7 @@ Storyboard 5 ilustra um caminhoneiro que percebe que sua CNH irá vencer em brev
 
 **Figura 5** - Storyboard de Consultar Empresas</p>
 
-![Figura 5 - Storyboard de Consultar Empresas](../../nivel-1/storyboard-dad/assets/images/StoryboardConsultarCredenciadas.png)<figcaption>Fonte: [Pedro Miguel](https://github.com/pedroMADBR) (2024).</figcaption>## Tarefa 5: XXXX
+![Figura 5 - Storyboard de Consultar Empresas](../../nivel-1/storyboard-dad/assets/images/StoryboardConsultarCredenciadas.png)<figcaption>Fonte: [Pedro Miguel](https://github.com/pedroMADBR) (2024).</figcaption>
 
 </center>
 
@@ -84,9 +84,6 @@ O storyboard 6 representa uma situação onde um idoso que emprestou o carro par
 
 </center>
 
-## Bibliografia
-
-> XXXX.Acessado em DD/MM/AAAA. Disponível em: [XXXX](https://www.XXXX.com).
 
 ## Referências Bibliográficas
 
@@ -101,4 +98,5 @@ O storyboard 6 representa uma situação onde um idoso que emprestou o carro par
 | `1.2`  | 18/05/2024 | Adição da Storyboard de emissão de CRLV             | [Filipe Carvalho](https://github.com/filipe-002)       | [Pedro Sena](https://github.com/pedroyen21)        |
 | `1.3`  | 22/05/2024 | Adição da Storyboard de alterar endereço do veículo | [Daniel Coimbra](https://github.com/DanielCoimbra)     | [Pedro Sena](https://github.com/pedroyen21)        |
 | `1.4`  | 22/05/2024 | Adição da Storyboard de Consultar Empresas | [Pedro Miguel](https://github.com/pedroMADBR) | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| `1.5`  | 31/05/2024 | Correção de Formatação | [Pedro Miguel](https://github.com/pedroMADBR) | [Filipe Carvalho](https://github.com/filipe-002) |
 
