@@ -156,6 +156,14 @@ Dessa forma, elegemos dois membros do grupo, Pedro Sena e Victor Moreira, para r
 
 ## Resultado do Teste Piloto
 
+Segue o teste piloto realizado por Pedro Sena como entrevistador e Victor Moreira como entrevistado. Seguindo o cronograma supracitado com alguns minutos de atraso.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JKzQczRH3iE?si=Tvaeg-kbesZ4ZK2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
 ## Bibliografia
 
 > SANTOS, João; PEREIRA, Maria. D.E.C.I.D.E: framework para avaliação de interfaces que serve para guiar seu discovery. Repositório do Brasil UX Design, 2023. Disponível em: <https://brasil.uxdesign.cc/d-e-c-i-d-e-framework-para-avalia%C3%A7%C3%A3o-de-interfaces-que-serve-para-guiar-seu-discovery-e3dee628d26b>. Acesso em: 21 maio 2024.
@@ -175,3 +183,4 @@ Dessa forma, elegemos dois membros do grupo, Pedro Sena e Victor Moreira, para r
 | `1.2`  | 21/05/2024 | Inclusão dos textos                                             | [Filipe Carvalho](https://github.com/filipe-002)       | [Pedro Sena](https://github.com/pedroyen21)            |
 | `1.3`  | 22/05/2024 | Mudança da introdução e adição do planejamento do teste piloto. | [Pedro Sena](https://github.com/pedroyen21)            | [Vinicius Vieira](https://github.com/viniciusvieira00) |
 | `1.4`  | 24/05/2024 | Adição local | [Pedro Sena](https://github.com/pedroyen21)            | []() |
+| `1.5`  | 01/06/2024 | Adição Teste piloto | [Pedro Sena](https://github.com/pedroyen21)            | []() |
