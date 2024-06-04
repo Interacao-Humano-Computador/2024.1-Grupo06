@@ -2,53 +2,82 @@
 
 ## Introdução
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec nisl nec nisl ultricies ultricies. Donec auctor, nunc nec.
+Este documento explicita o relato dos resultados da avaliação da análise hierárquica de tarefas HTA de cada atividade escolhida pelos integrantes no [planejamento da avaliação da análise de tarefas](../analise-de-tarefas-dad/planejamento-avaliacao-at.md). 
 
-## Entrevista - XXXX
+## Entrevista - Solicitar Permissão Internacional para Dirigir
 
 ### Objetivo e escopo da avaliação
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Esta avaliação tem como objetivo determinar a discrepância entre o que um usuário pensa que é necessário para realizar a tarefa e os passos empregados no sistema atual.
 
 ### Método de avaliação
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+O método escolhido foi a entrevista, que é um método investigativo. Seu cronograma planejado se encontra abaixo na *Tabela 1.1* e o executado se encontra na *Tabela 1.2*. Já que o entrevistado teve que remarcar a entrevista para o dia seguinte devido a um imprevisto.
 
 <center>
-*Tabela 1* - Cronograma da entrevista.
+
+*Tabela 1.1* - Cronograma Planejado da entrevista.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Usuário](https://github.com/)  |   <span style = "color: orange">XXXX</span>     |       HH:mm       |     HH:mm      | DD/MM/YYYY | Plataforma --- |
+|  [Pedro Sena](https://github.com/pedroyen21)  |   Tiago Brant     |       11:00       |     11:10      | 01/06/2024 | Casa do entrevistado |
 
-*Fonte* - [Usuário](https://github.com/)
+*Fonte* - [Pedro Sena](https://github.com/pedroyen21)
+
+*Tabela 1.2* - Cronograma Executado da entrevista.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Pedro Sena](https://github.com/pedroyen21)  |   Tiago Brant     |       10:30       |     10:38      | 02/06/2024 | Casa do entrevistado |
+
+*Fonte* - [Pedro Sena](https://github.com/pedroyen21)
+
 </center>
 
 ### Seleção de participante
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Tiago Brant se encaixa no perfil de usuário por ser homem de 23 anos e possuir CNH.
 
 ### Problemas e dificuldades encontradas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Tiago não encontrou dificuldades.
 
 ### Sugestões de melhoria
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Tiago não sugeriu melhorias no HTA.
 
 ### Feedback do usuário
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Achou os atividades do HTA condizentes com a atividade.
 
 ### Análise e interpretação dos resultados
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Respostas do questionário:
+
+**Pedro**: Quais os passos você acha necessários para solicitar sua Permissão Internacional para Dirigir (PID)?
+
+**Tiago**: Capacitação Teórica, Capacitação prática ou avaliação dos dois caso não seja fornecido o estudo. Visto, justificativa, termos de responsabilidade.
+
+**Pedro**: Observando a análise da tarefa solicitar PID, a sequência de atividades é coerente? Se não, poderia descrever o porquê?
+
+**Tiago**: Sim, faz sentido.
+
+Com base nas respostas podemos concluir que o HTA da atividade faz sentido para o entrevistado apesar de ser um pouco menos burocrático que se pensava. 
 
 ### Sumário dos principais resultados
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+- HTA é completamente plausível para o entrevistado.
 
-<font size="3"><p style="text-align: center">Fonte:[Usuário](https://github.com/).</p></font>
+- Menos burocrático que o esperado.
+
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ujpeGcdoYx8?si=g2xLzRQjBvEeees_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte:[Pedro Sena](https://github.com/pedroyen21).</p></font>
+
+</center>
 
 ## Entrevista - XXXX
 

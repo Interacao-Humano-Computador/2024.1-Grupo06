@@ -1,58 +1,93 @@
 # Relato do Resultado - Storyboard
 
-## Introdução 
+## Introdução
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Este documento explicita o relato dos resultados da avaliação dos storyboards de cada atividade escolhida pelos integrantes no [planejamento da avaliação dos storyboards](../storyboard-dad/planejamento-avaliacao-sb.md). 
 
-## Entrevista - XXX
+## Entrevista - Solicitar Permissão Internacional para Dirigir
 
 ### Objetivo e escopo da avaliação
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Esta avaliação tem como objetivo determinar a discrepância entre o que um usuário pensa que é necessário para realizar a tarefa e os passos empregados no sistema atual.
 
 ### Método de avaliação
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+O método escolhido foi a entrevista, que é um método investigativo. Seu cronograma planejado se encontra abaixo na *Tabela 1.1* e o executado se encontra na *Tabela 1.2*. Já que o entrevistado teve que remarcar a entrevista para o dia seguinte devido a um imprevisto.
 
 <center>
-**Tabela 11** - Cronograma da entrevista.
 
-|       Entrevistador(es)        |              Entrevistado(s)              | Horário de Início | Horário de Fim |    Data    |     Local      |
-| :----------------------------: | :---------------------------------------: | :---------------: | :------------: | :--------: | :------------: |
-| [Usuário](https://github.com/) | <span style = "color: orange">XXXX</span> |       HH:mm       |     HH:mm      | DD/MM/YYYY | Plataforma --- |
+*Tabela 1.1* - Cronograma Planejado da entrevista.
 
-**Fonte** - [Usuário](https://github.com/).
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Pedro Sena](https://github.com/pedroyen21)  |   Tiago Brant     |       11:00       |     11:10      | 01/06/2024 | Casa do entrevistado |
+
+*Fonte* - [Pedro Sena](https://github.com/pedroyen21)
+
+*Tabela 1.2* - Cronograma Executado da entrevista.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Pedro Sena](https://github.com/pedroyen21)  |   Tiago Brant     |       10:30       |     10:38      | 02/06/2024 | Casa do entrevistado |
+
+*Fonte* - [Pedro Sena](https://github.com/pedroyen21)
+
 </center>
 
 ### Seleção de participante
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Tiago Brant se encaixa no perfil de usuário por ser homem de 23 anos e possuir CNH.
 
 ### Problemas e dificuldades encontradas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Tiago não encontrou dificuldades.
 
 ### Sugestões de melhoria
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Tiago não sugeriu melhorias ao Storyboard.
 
 ### Feedback do usuário
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Achou o storyboard factível.
 
 ### Análise e interpretação dos resultados
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Respostas do questionário:
+
+**Pedro**: A história contada pelo storyboard está alinhada com o título?
+
+**Tiago**: Sim
+
+**Pedro**: O storyboard reflete situações reais? 
+
+**Tiago**: Sim
+
+**Pedro**: O storyboard cobre os principais passos da tarefa? 
+
+**Tiago**: Sim
+
+**Pedro**: As ações no storyboard são sequenciais, fluidas e lógicas? 	
+
+**Tiago**: Sim
+
+**Pedro**: O storyboard possui uma composição visual clara, com personagens, objetos e cenários identificáveis?
+
+**Tiago**: Sim
+
+Com base nas respostas podemos concluir que o Storyboard da atividade faz sentido para o entrevistado e representa bem uma situação real.
 
 ### Sumário dos principais resultados
 
-<center>
-**Tabela 12** - Respostas 6.
+- Storyboard é completamente plausível para o entrevistado.
 
-| Perguntas   | Respostas |
-| ----------- | --------- |
-| 1 – XXXXX ? | Sim       |
-**Fonte** - [Usuário](https://github.com/).
+- Menos burocrático que o esperado.
+
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ujpeGcdoYx8?si=g2xLzRQjBvEeees_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte:[Pedro Sena](https://github.com/pedroyen21).</p></font>
 
 </center>
 
