@@ -134,8 +134,6 @@ O feedback dado pelo usuário foram que os diagramas são bem didáticos e que c
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3DUC7oN_zTc?si=c4hvkVzxzclaT-NH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OvjcEbSQRB0?si=DHceVKspFFwVR1r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 </center>
 
 <font size="3"><p style="text-align: center">Fonte: [Filipe Carvalho](https://github.com/filipe-002).</p></font>
