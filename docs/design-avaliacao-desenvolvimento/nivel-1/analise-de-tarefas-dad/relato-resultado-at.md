@@ -79,47 +79,66 @@ Com base nas respostas podemos concluir que o HTA da atividade faz sentido para 
 
 </center>
 
-## Entrevista - XXXX
+## Entrevista - Emitir CRLV-e
 
 ### Objetivo e escopo da avaliação
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Este estudo visa identificar a diferença entre a percepção do usuário sobre o que é necessário para concluir a tarefa e os procedimentos utilizados no sistema atual.
 
 ### Método de avaliação
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+O método utilizado para a avaliação foi a de entrevista presencial, que se caracteriza como um método investigativo. O cronograma planejado se encontra na tabela 2.1, mas por motivos de saúde do entrevistador, a entrevista precisou ser remarcada, assim como o entrevistado precisou se ausentar e foi substituído por outro que se encaixa no mesmo perfil de usuário. O cronograma atualizado se encontra na tabela 2.2.
 
 <center>
-**Tabela 2** - Cronograma da entrevista.
+**Tabela 2** - Cronograma planejado.
 
 |       Entrevistador(es)        |              Entrevistado(s)              | Horário de Início | Horário de Fim |    Data    |     Local      |
 | :----------------------------: | :---------------------------------------: | :---------------: | :------------: | :--------: | :------------: |
-| [Usuário](https://github.com/) | <span style = "color: orange">XXXX</span> |       HH:mm       |     HH:mm      | DD/MM/YYYY | Plataforma --- |
+| [Filipe Carvalho](https://github.com/filipe-002) | André Belle |       15:00       |     16:00     | 28/05/2024 | TRF-1 |
 
-**Fonte** - [Usuário](https://github.com/).
+**Fonte** - [Filipe Carvalho](https://github.com/filipe-002).
+</center>
+
+<center>
+**Tabela 2** - Cronograma planejado.
+
+|       Entrevistador(es)        |              Entrevistado(s)              | Horário de Início | Horário de Fim |    Data    |     Local      |
+| :----------------------------: | :---------------------------------------: | :---------------: | :------------: | :--------: | :------------: |
+| [Filipe Carvalho](https://github.com/filipe-002) | Gustavo Henrique |       15:30      |     16:00     | 07/06/2024 | TRF-1 |
+
+**Fonte** - [Filipe Carvalho](https://github.com/filipe-002).
 </center>
 
 ### Seleção de participante
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Gustavo foi selecionado para a entrevista por ser um motorista que utiliza o site do Detran e se encaixar no perfil de usuário.
 
 ### Problemas e dificuldades encontradas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Durante toda a entrevista, Gustavo não relatou nenhum problema com o diagrama e o StoryBoard.
 
 ### Sugestões de melhoria
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Não houve qualquer sugestão de melhoria por parte do entrevistado.
 
 ### Feedback do usuário
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+O feedback dado pelo usuário foram que os diagramas são bem didáticos e que conseguiu entender muito bem os passos demonstrados, e que condizem com a realidade.
 
 ### Sumário dos principais resultados
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+- Os diagramas são bem didáticos, sendo bem fáceis de entender.
+- Não houve qualquer dificuldade do usuário em entender os diagramas e as tarefas propostas.
 
-<font size="3"><p style="text-align: center">Fonte: [Usuário](https://github.com/).</p></font>
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3DUC7oN_zTc?si=c4hvkVzxzclaT-NH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OvjcEbSQRB0?si=DHceVKspFFwVR1r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Filipe Carvalho](https://github.com/filipe-002).</p></font>
 
 ## Entrevista - XXXX
 
