@@ -100,7 +100,7 @@ O método utilizado para a avaliação foi a de entrevista presencial, que se ca
 </center>
 
 <center>
-**Tabela 2** - Cronograma planejado.
+**Tabela 2** - Cronograma executado.
 
 |       Entrevistador(es)        |              Entrevistado(s)              | Horário de Início | Horário de Fim |    Data    |     Local      |
 | :----------------------------: | :---------------------------------------: | :---------------: | :------------: | :--------: | :------------: |
@@ -115,7 +115,7 @@ Gustavo foi selecionado para a entrevista por ser um motorista que utiliza o sit
 
 ### Problemas e dificuldades encontradas
 
-Durante toda a entrevista, Gustavo não relatou nenhum problema com o diagrama e o StoryBoard.
+Durante toda a entrevista, Gustavo não relatou nenhum problema com o diagrama.
 
 ### Sugestões de melhoria
 

@@ -91,57 +91,71 @@ Com base nas respostas podemos concluir que o Storyboard da atividade faz sentid
 
 </center>
 
-## Entrevista - XXXX
+## Entrevista - Emitir CRLV-e
 
 
 ### Objetivo e escopo da avaliação
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Essa avaliação tem o objetivo de avaliar se o storyboard da tarefa selecionada, realmente condiz com a realidade dos passos de emitir uma CRLV, e se os tais passos são simples e fáceis de entender. 
 
 ### Método de avaliação
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+O método utilizado para a avaliação foi a entrevista presencial, caracterizada como um método investigativo. O cronograma planejado está na Tabela 2.1. Contudo, devido a problemas de saúde do entrevistador e a ausência do entrevistado, a entrevista precisou ser remarcada e o entrevistado foi substituído por outro que se encaixa no mesmo perfil de usuário. O cronograma atualizado está na Tabela 2.2.
 
 <center>
-**Tabela 11** - Cronograma da entrevista.
+**Tabela 2.1** - Cronograma planejado.
 
 |       Entrevistador(es)        |              Entrevistado(s)              | Horário de Início | Horário de Fim |    Data    |     Local      |
 | :----------------------------: | :---------------------------------------: | :---------------: | :------------: | :--------: | :------------: |
-| [Usuário](https://github.com/) | <span style = "color: orange">XXXX</span> |       HH:mm       |     HH:mm      | DD/MM/YYYY | Plataforma --- |
+| [Filipe Carvalho](https://github.com/filipe-002) | André Belle |       15:00       |     16:00     | 28/05/2024 | TRF-1 |
 
-**Fonte** - [Usuário](https://github.com/).
+**Fonte** - [Filipe Carvalho](https://github.com/filipe-002).
+</center>
+
+<center>
+**Tabela 2.2** - Cronograma executado.
+
+|       Entrevistador(es)        |              Entrevistado(s)              | Horário de Início | Horário de Fim |    Data    |     Local      |
+| :----------------------------: | :---------------------------------------: | :---------------: | :------------: | :--------: | :------------: |
+| [Filipe Carvalho](https://github.com/filipe-002) | Gustavo Henrique |       15:30      |     16:00     | 07/06/2024 | TRF-1 |
+
+**Fonte** - [Filipe Carvalho](https://github.com/filipe-002).
 </center>
 
 ### Seleção de participante
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Gustavo foi escolhido para a entrevista por ser um motorista que utiliza o site do Detran e por se encaixar no perfil de usuário.
 
 ### Problemas e dificuldades encontradas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Durante toda a entrevista, Gustavo não relatou nenhum problema com o storyboard.
 
 ### Sugestões de melhoria
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Não houve qualquer sugestão de melhoria por parte do entrevistado.
 
 ### Feedback do usuário
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-### Análise e interpretação dos resultados
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+O usuário respondeu sim para todas as perguntas feitas, ou seja, a história contada pelo storyboard está alinhada com o título, o storyboard reflete situações reais, o storyboard cobre os principais passos da tarefa, as ações no storyboard são sequenciais, fluidas e lógicas, e o storyboard possui uma composição visual clara, com personagens, objetos e cenários identificáveis, apenas destacou que as imagens são ilustrativas, mas que refletem sim a realidade.
 
 ### Sumário dos principais resultados
 
+- O Storyboard é bem didático, sendo de fácil entendimento, e refletindo bem uma situação real.
+- Não houve qualquer dificuldade do usuário em entender o storyboard e a tarefa proposta, respondendo sim para todas as perguntas
+
 <center>
-**Tabela 12** - Respostas 6.
+**Tabela 2.3** - Respostas das perguntas.
 
-| Perguntas   | Respostas |
-| ----------- | --------- |
-| 1 – XXXXX ? | Sim       |
-**Fonte** - [Usuário](https://github.com/).
+| ID  | Pergunta                                                                                             | Resposta                       |
+| --- | ---------------------------------------------------------------------------------------------------- | ------------------------------ |
+| 1   | A história contada pelo storyboard está alinhada com o título?                                       | (X) SIM <br> (&emsp;) NÃO |
+| 2   | O storyboard reflete situações reais?                                                                | (X) SIM <br> (&emsp;) NÃO |
+| 3   | O storyboard cobre os principais passos da tarefa?                                                   | (X) SIM <br> (&emsp;) NÃO |
+| 4   | As ações no storyboard são sequenciais, fluidas e lógicas?                                           | (X) SIM <br> (&emsp;) NÃO |
+| 5   | O storyboard possui uma composição visual clara, com personagens, objetos e cenários identificáveis? | (X) SIM <br> (&emsp;) NÃO |
 
+<i>Fonte</i> - <a href="https://github.com/filipe-002">Filipe Carvalho</a>
+</center>
 </center>
 
 ## Entrevista - XXXX
