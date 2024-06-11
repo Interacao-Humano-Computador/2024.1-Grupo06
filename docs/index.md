@@ -17,23 +17,11 @@ O website em questão apresenta uma série de desafios que comprometem a experi�
 
 <table>
   <tr>
-    <td align="center" >
-      <div style="width: 80px; height: 80px; border-radius: 50%; overflow: hidden;">
-        <img src="https://avatars.githubusercontent.com/u/49206670?v=4" alt="Daniel Coimbra">
-      </div>
-      <br /><sub><b>Daniel Coimbra</b></sub>
-    </td>
     <td align="center">
       <div style="width: 80px; height: 80px; border-radius: 50%; overflow: hidden;">
         <img src="https://avatars.githubusercontent.com/u/90454615?v=4" alt="Filipe Carvalho da Silva">
       </div>
       <br /><sub><b>Filipe Carvalho da Silva</b></sub>
-    </td>
-    <td align="center">
-      <div style="width: 80px; height: 80px; border-radius: 50%; overflow: hidden;">
-        <img src="https://avatars.githubusercontent.com/u/64806397?v=4" alt="Pedro Miguel M. de O. dos Santos">
-      </div>
-      <br /><sub><b>Pedro Miguel M. de O. dos Santos</b></sub>
     </td>
     <td align="center">
       <div style="width: 80px; height: 80px; border-radius: 50%; overflow: hidden;">
