@@ -162,14 +162,14 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta en
 
 <font size="3"><p style="text-align: center"><b>Tabela 9</b> - Relato dos resultados do StoryBoard e da Análise de tarefas</p></font>
 
-| Atividade                                                               | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
-| ----------------------------------------------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
-| Relato dos resultados do Storyboard                                     | Início: 23/05<br>Fim: 24/05 | --           | Início: 24/05<br>Fim: 24/05 | --        |
-| Relato dos resultados da Análise de tarefas                             | Início: 23/05<br>Fim: 24/05 | --           | Início: 24/05<br>Fim: 24/05 | --        |
-| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 24/05<br>Fim: 25/05 | --           | Início: 25/05<br>Fim: 25/05 | --        |
-| Planejamento da avaliação do protótipo de papel                         | Início: 26/05<br>Fim: 27/05 | --           | Início: 28/05<br>Fim: 28/05 | --        |
-| Gravação da apresentação                                                | Início: 28/05<br>Fim: 28/05 | Todos        | Início: 28/05<br>Fim: 28/05 | Todos     |
-| Correção pós apresentação                                               | Início: 30/05<br>Fim: 31/05 | Todos        | Início: 01/05<br>Fim: 02/05 | Todos     |
+| Atividade                                                               | Período de desenvolvimento  | Responsáveis    | Revisão                     | Revisores  |
+| ----------------------------------------------------------------------- | --------------------------- | --------------- | --------------------------- | ---------- |
+| Relato dos resultados do Storyboard                                     | Início: 23/05<br>Fim: 24/05 | Vinicius Vieira | Início: 24/05<br>Fim: 24/05 | Pedro Sena |
+| Relato dos resultados da Análise de tarefas                             | Início: 23/05<br>Fim: 24/05 | --              | Início: 24/05<br>Fim: 24/05 | Pedro Sena |
+| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 24/05<br>Fim: 25/05 | --              | Início: 25/05<br>Fim: 25/05 | --         |
+| Planejamento da avaliação do protótipo de papel                         | Início: 26/05<br>Fim: 27/05 | --              | Início: 28/05<br>Fim: 28/05 | --         |
+| Gravação da apresentação                                                | Início: 28/05<br>Fim: 28/05 | Todos           | Início: 28/05<br>Fim: 28/05 | Todos      |
+| Correção pós apresentação                                               | Início: 30/05<br>Fim: 31/05 | Todos           | Início: 01/05<br>Fim: 02/05 | Todos      |
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
@@ -191,20 +191,20 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da primeira
 
 <font size="3"><p style="text-align: center"><b>Tabela 11</b> - Verificação dos Artefatos 1</p></font>
 
-| Atividade                              | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
-| -------------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
-| Verificação e Relato artefatos etapa 1 | Início: 30/05<br>Fim: 31/05 | --           | Início: 31/05<br>Fim: 01/06 | --        |
-| Verificação e Relato artefatos etapa 2 | Início: 30/05<br>Fim: 31/05 | --           | Início: 31/05<br>Fim: 01/06 | --        |
-| Verificação e Relato artefatos etapa 3 | Início: 30/05<br>Fim: 31/05 | --           | Início: 31/05<br>Fim: 01/06 | --        |
-| Verificação e Relato artefatos etapa 4 | Início: 30/05<br>Fim: 31/05 | --           | Início: 31/05<br>Fim: 01/06 | --        |
-| Verificação e Relato artefatos etapa 5 | Início: 30/05<br>Fim: 31/05 | --           | Início: 31/05<br>Fim: 01/06 | --        |
-| Ajustes artefatos etapa 1              | Início: 02/06<br>Fim: 03/06 | --           | Início: 04/06<br>Fim: 04/06 | --        |
-| Ajustes artefatos etapa 2              | Início: 02/06<br>Fim: 03/06 | --           | Início: 04/06<br>Fim: 04/06 | --        |
-| Ajustes artefatos etapa 3              | Início: 02/06<br>Fim: 03/06 | --           | Início: 04/06<br>Fim: 04/06 | --        |
-| Ajustes artefatos etapa 4              | Início: 02/06<br>Fim: 03/06 | --           | Início: 04/06<br>Fim: 04/06 | --        |
-| Ajustes artefatos etapa 5              | Início: 02/06<br>Fim: 03/06 | --           | Início: 04/06<br>Fim: 04/06 | --        |
-| Gravação da apresentação               | Início: 04/06<br>Fim: 04/06 | Todos        | Início: 04/06<br>Fim: 05/06 | Todos     |
-| Correção pós entrega                   | Início: 06/06<br>Fim: 07/06 | Todos        | Início: 08/06<br>Fim: 09/06 | Todos     |
+| Atividade                              | Período de desenvolvimento     | Responsáveis                                                 | Revisão                     | Revisores                                                    |
+| -------------------------------------- | ------------------------------ | ------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------ |
+| Verificação e Relato artefatos etapa 1 | Início: 03/06<br>Fim: 12/06    | Pedro Sena                                                   | Início: 12/06<br>Fim: 12/06 | Filipe Carvalho, Pedro Sena, Victor Almeida, Vinicius Vieira |
+| Verificação e Relato artefatos etapa 2 | Início: 03/06<br>Fim: 12/06    | Filipe Carvalho, Pedro Sena, Victor Almeida, Vinicius Vieira | Início: 12/06<br>Fim: 12/06 | Filipe Carvalho, Pedro Sena, Victor Almeida, Vinicius Vieira |
+| Verificação e Relato artefatos etapa 3 | Início: 03/06<br>Fim: 12/06    | Victor Almeida                                               | Início: 12/06<br>Fim: 12/06 | Filipe Carvalho, Pedro Sena, Victor Almeida, Vinicius Vieira |
+| Verificação e Relato artefatos etapa 4 | Início: 03/06<br>Fim: 12/06    | Vinicius Vieira                                              | Início: 12/06<br>Fim: 12/06 | Filipe Carvalho, Pedro Sena, Victor Almeida, Vinicius Vieira |
+| Verificação e Relato artefatos etapa 5 | Início: 03/06<br>Fim: 12/06    | Filipe Carvalho                                              | Início: 12/06<br>Fim: 12/06 | Filipe Carvalho, Pedro Sena, Victor Almeida, Vinicius Vieira |
+| Ajustes artefatos etapa 1              | Início: 11/06<br>Fim: 12/06    | Pedro Sena                                                   | Início: 12/06<br>Fim: 12/06 | --                                                           |
+| Ajustes artefatos etapa 2              | Início: 11/06<br>Fim: 12/06    | Filipe Carvalho, Pedro Sena, Victor Almeida, Vinicius Vieira | Início: 12/06<br>Fim: 12/06 | --                                                           |
+| Ajustes artefatos etapa 3              | Início: 11/06<br>Fim: 12/06    | Victor Almeida                                               | Início: 12/06<br>Fim: 12/06 | --                                                           |
+| Ajustes artefatos etapa 4              | Início: 11/06<br>Fim: 12/06    | Vinicius Vieira                                              | Início: 12/06<br>Fim: 12/06 | --                                                           |
+| Ajustes artefatos etapa 5              | Início: 11/06<br>Fim: 12/06    | Filipe Carvalho                                              | Início: 12/06<br>Fim: 12/06 | --                                                           |
+| Gravação da apresentação               | Início: 11/06/06<br>Fim: 11/06 | Filipe Carvalho, Pedro Sena, Victor Almeida, Vinicius Vieira | Início: 12/06<br>Fim: 12/06 | Filipe Carvalho, Pedro Sena, Victor Almeida, Vinicius Vieira |
+| Correção pós entrega                   | Início: 12/06<br>Fim: 13/06    | Filipe Carvalho, Pedro Sena, Victor Almeida, Vinicius Vieira | Início: 12/06<br>Fim: 12/06 | Filipe Carvalho, Pedro Sena, Victor Almeida, Vinicius Vieira |
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
