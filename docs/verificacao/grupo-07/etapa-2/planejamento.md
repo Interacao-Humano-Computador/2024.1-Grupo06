@@ -15,7 +15,12 @@ Este planejamento tem o intuito de informar como se dará a verificação dos ar
 
 ## Metodologia
 
-Para esta verificação, será utilizado o método de inspeção. Que também é bastante usado para identificar erros e antever defeitos de interface, Barbosa e Silva (2021, p.272)
+Para esta verificação, será utilizado o método de inspeção. Que também é bastante usado para identificar erros e antever defeitos de interface, Barbosa e Silva (2021, p.272), mas nesse contexto será usada para verificar artefatos do projeto.
+Os checklists serão compostos por:
+- ID (Número): identificador
+- Descrição (Texto): Requisito
+- Avaliação (S | N | I, incompleto): se cumpriu ou não o requisito
+- Observações (Texto): Observações do avaliador
 
 ### Participantes
 
@@ -25,15 +30,15 @@ O responsável pelo checklist é o Pedro Sena, mas haverá a participação de o
 
 Os artefatos alvos dessa verificação são:
 
-- O [** Perfil do Usuário **](https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/perfil_usuario/) na versão 1.4.
+- O [**Perfil do Usuário**](https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/perfil_usuario/) na versão 1.4.
 
-- As [** Personas **](https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/personas/) na versão 2.0.
+- As [**Personas**](https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/personas/) na versão 2.0.
 
-- O [** Cenários **](https://interacao-humano-computador.github.io/2024.1-CBMERJ/design_avaliacao_desenvolvimento/nivel_1/story_board/planejamento_avaliacao/#e-explorar-perguntas) na versão 2.0.
+- O [**Cenários**](https://interacao-humano-computador.github.io/2024.1-CBMERJ/design_avaliacao_desenvolvimento/nivel_1/story_board/planejamento_avaliacao/#e-explorar-perguntas) na versão 2.0.
 
-- Os [** Aspéctos Éticos **](https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/aspectos_eticos/) na versão 3.0.
+- Os [**Aspectos Éticos**](https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/aspectos_eticos/) na versão 3.0.
 
-- As [** Análises de Tarefas **](https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/analise_tarefas/) na versão 2.2.
+- As [**Análises de Tarefas**](https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/analise_tarefas/) na versão 2.2.
 
 Os resultados das verificações em si serão apresentados em páginas separadas e que podem ser acessados através dos seguintes links:
 
@@ -51,14 +56,14 @@ A verificação será realizada no período de 11 de junho de 2024 até dia 12 d
 
 **Tabela 1** - Cronograma das Atividades.
 
-| Data       | Descrição                                                                   | Responsável                                                                                               |
+| Data       | Descrição                                                                   | Responsável(eis)                                                                                               |
 | ---------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | 11/06/2024 | Inspeão  do Perfil do usuário.             | [Pedro Sena](https://github.com/pedroyen21)                                                    |
 | 11/06/2024 | Inspeção das Personas. | [Pedro Sena](https://github.com/pedroyen21)                                                    |
 | 12/06/2024 | Inspeção dos cenários.                     | [Pedro Sena](https://github.com/pedroyen21)                                                    |
 | 12/06/2024 | Inspeção dos aspectos éticos.         | [Pedro Sena](https://github.com/pedroyen21)                                                    |
-| 12/06/2024 | Inspeção da análise de tarefas.                                  | [Pedro Sena](https://github.com/pedroyen21), Vinicius Vieira, Victor Moreira, Filipe Carvalho |
-                                                 |
+| 12/06/2024 | Inspeção da análise de tarefas.                                  | Pedro Sena <br>Vinicius Vieira <br> Victor Moreira <br> Filipe Carvalho |
+                                                 
 
 _Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
 
@@ -68,7 +73,7 @@ _Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
 
 As checklists foram desenvolvidas com base nos padrões esperados para cada artefato, nas principais atividades realizadas durante sua elaboração e nas sugestões de elementos de análise propostas por Simone e Silva.
 
-Para organizar melhor a verificação, a checklist será dividida em quatro partes, sendo uma delas geral e aplicável a todas as etapas de verificação. As checklists são: Geral, Perfil do usuário, personas, cenários, aspectos éticos e análise de tarefas. As Tabelas 2 a 6 apresentam as checklists de verificação.
+Para organizar melhor a verificação, a checklist será dividida em quatro partes, sendo uma delas geral e aplicável a todas as etapas de verificação. As checklists são: Geral, Perfil do usuário, personas, cenários, aspectos éticos e análise de tarefas. As Tabelas 2 a 7 apresentam as checklists de verificação.
 
 ### Geral
 
@@ -214,23 +219,21 @@ A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 </center>
 
-### Storyboards
+### Análise de Tarefas
 
-A tabela 7 a seguir apresenta a checklist referente aos itens exigidos para o relato dos resultados segundo PREECE et al. (2007, p.427 e 447).
+A tabela 7 a seguir apresenta a checklist referente à análise de tarefas segundo Barbosa e Silva - capítulo 8.
+Como o grupo 7 decidiu fazer a análise de tarefas com os métodos HTA e GOMS, o checklist será referente a eles.
 
 <center>
 
-**Tabela 7** - Checklist para os Storyboards.
+**Tabela 7** - Checklist para a análise de tarefas.
 
-| ID  | Descrição                                                                                                      | Avaliação | Observações |
+| ID  | Descrição                                                                                                 | Avaliação | Observações |
 | --- | -------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
-| 6   | O storyboard apresenta os atores envolvidos?                                                                   |     -     |      -      |
-| 7   | O contexto e o ambiente estão apresentados e possuem lastro na realidade?                                      |     -     |      -      |
-| 8   | Cada storyboard representa ao menos uma atividade principal e os processos envolvidos?                         |     -     |      -      |
-| 9   | As atividades realizadas condizem com o contexto e seguem uma ordem lógica?                                    |     -     |      -      |
-| 10  | Dentro do contexto, o ator principal possui sua motivação explícita e condizente com o que a atividade oferta? |     -     |      -      |
-| 11  | Ao findar a atividade, o storyboard demonstra a satisfação do usuário?                                         |     -     |      -      |
-| 12  | O storyboard foi feito com base em um dos cenários criados para o projeto?                                     |     -     |      -      |
+| 6   | Define claramente os objetivos e subobjetivos que o usuário precisa realizar?                                                                   |     -     |      -      |
+| 7   | Os objetivos de alto nível estão localizados emcima e dão origem a subobjetivos ou operações mais específicos (HTA) ?                         |     -     |      -      |
+| 8   | Os níveis mais baixos da hierarquia se encontram apenas operações (HTA)?                                      |     -     |      -      |
+| 9   | Uma operação é especificada pelas circunstâncias nas quais o objetivo é ativado (HTA)?                                      |     -     |      -      |
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
@@ -239,12 +242,10 @@ A tabela 7 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 ## Referências Bibliográficas
 
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
-
-> Sharp, Helen & Rogers, Yvonne & Preece, Jennifer. (2007). Interaction Design. Beyond Human-Computer Interaction.
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2021.
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                   | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------------ | ----------- |
-| `1.0`  | 11/06/2024 | Criação da página e sua devida documentação | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
+| `1.0`  | 12/06/2024 | Criação da página e sua devida documentação | [Pedro Sena](https://github.com/pedroyen21) | --          |
