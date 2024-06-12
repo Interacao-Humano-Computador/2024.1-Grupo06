@@ -31,10 +31,10 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   3   | O artefato possui um Histórico de Versões com o id e descrição das versões, datas, autores e revisores?        |    Sim     |                                                                                                   |
 |   4   | Todos os textos estão na norma padrão?                                                                         |    Sim     |                                                                                                   |
 |   5   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                   |    Sim     |                                                                                                   |
-|   6   | O storyboard apresenta os atores envolvidos?                                                                   |    Incompleto     |                                                                                                   |
-|   7   | O contexto e o ambiente estão apresentados e possuem lastro na realidade?                                      |    Incompleto     |                                                                                                   |
-|   8   | Cada storyboard representa ao menos uma atividade principal e os processos envolvidos?                         |    Incompleto     |                                                                                                   |
-|   9   | As atividades realizadas condizem com o contexto e seguem uma ordem lógica?                                    |    Incompleto     |                                                                                                   |
+|   6   | O storyboard apresenta os atores envolvidos?                                                                   | Incompleto |                                                                                                   |
+|   7   | O contexto e o ambiente estão apresentados e possuem lastro na realidade?                                      | Incompleto |                                                                                                   |
+|   8   | Cada storyboard representa ao menos uma atividade principal e os processos envolvidos?                         | Incompleto |                                                                                                   |
+|   9   | As atividades realizadas condizem com o contexto e seguem uma ordem lógica?                                    | Incompleto |                                                                                                   |
 |  10   | Dentro do contexto, o ator principal possui sua motivação explícita e condizente com o que a atividade oferta? | Incompleto |                                                                                                   |
 |  11   | Ao findar a atividade, o storyboard demonstra a satisfação do usuário?                                         | Incompleto |                                                                                                   |
 |  12   | O storyboard foi feito com base em um dos cenários criados para o projeto?                                     |    Sim     |                                                                                                   |
@@ -67,6 +67,13 @@ A figura 1 é possível analisar um gráfico com o percentual de erros e acertos
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado da Checklist.</p></font>
 <iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR3MVzA3YqsA9BFsnNEfxxqoXiAKdV707I1Fk9otAVU83qTtaSDkRSKTJ8P2xds5-3OuzFI9jHjTdRM/pubchart?oid=282101453&amp;format=interactive"></iframe><figcaption><font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font></figcaption>
+</figure>
+
+## Gravação da Verificação
+
+<figure markdown>
+<iframe src="https://drive.google.com/file/d/1_L32yUYBQcDbjROVSjcWSzG_62ia7JR_/preview" width="640" height="480" allow="autoplay"></iframe>
+<figcaption><font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font></figcaption>
 </figure>
 
 ## Bibliografia
