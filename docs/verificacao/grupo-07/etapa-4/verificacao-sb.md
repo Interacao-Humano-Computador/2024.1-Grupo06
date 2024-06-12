@@ -72,8 +72,8 @@ A figura 1 é possível analisar um gráfico com o percentual de erros e acertos
 ## Gravação da Verificação
 
 <figure markdown>
-<iframe src="https://drive.google.com/file/d/1_L32yUYBQcDbjROVSjcWSzG_62ia7JR_/preview" width="640" height="480" allow="autoplay"></iframe>
-<figcaption><font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font></figcaption>
+<font size="3"><p style="text-align: center"><b>Vídeo 1</b> - Vídeo da verificação.</p></font>
+<iframe src="https://drive.google.com/file/d/1_L32yUYBQcDbjROVSjcWSzG_62ia7JR_/preview" width="640" height="480" allow="autoplay"></iframe><figcaption><font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font></figcaption>
 </figure>
 
 ## Bibliografia
