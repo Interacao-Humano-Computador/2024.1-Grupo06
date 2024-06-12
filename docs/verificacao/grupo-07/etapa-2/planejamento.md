@@ -230,10 +230,19 @@ Como o grupo 7 decidiu fazer a análise de tarefas com os métodos HTA e GOMS, o
 
 | ID  | Descrição                                                                                                 | Avaliação | Observações |
 | --- | -------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
-| 6   | Define claramente os objetivos e subobjetivos que o usuário precisa realizar?                                                                   |     -     |      -      |
-| 7   | Os objetivos de alto nível estão localizados emcima e dão origem a subobjetivos ou operações mais específicos (HTA) ?                         |     -     |      -      |
-| 8   | Os níveis mais baixos da hierarquia se encontram apenas operações (HTA)?                                      |     -     |      -      |
-| 9   | Uma operação é especificada pelas circunstâncias nas quais o objetivo é ativado (HTA)?                                      |     -     |      -      |
+| 6   | (HTA) Define claramente os objetivos e subobjetivos que o usuário precisa realizar?    |     -     |      -      |
+| 7   | (HTA) A notação condiz com o estabalecido?        |     -     |      -      |
+| 8   | (HTA) Os níveis mais baixos da hierarquia se encontram apenas operações?                                      |     -     |      -      |
+| 9   | (HTA) Os objetivos de alto nível estão localizados emcima e dão origem a subobjetivos ou operações mais específicos? |     -     |      -      |
+| 10  | (HTA) Possui a representação em tabela?                                      |     -     |      -      |
+| 11  | (HTA) A representação em tabela possui problemas e recomendações?                                      |     -     |      -      |
+| 12  | (HTA) A representação em tabela possui entradas?                                      |     -     |      -      |
+| 13  | (HTA) A representação em tabela possui ações?                                      |     -     |      -      |
+| 14  | (HTA) A representação em tabela possui feedbacks?                                      |     -     |      -      |
+| 15  | (GOMS) Define claramente os objetivos e subobjetivos que o usuário precisa realizar?                                      |     -     |      -      |
+| 16  | (GOMS) O modelo GOMS obedece a notação?                                      |     -     |      -      |
+| 17  | (GOMS) A numeração dos métodos é coesa?                                      |     -     |      -      |
+| 18  | (GOMS) A numeração dos objetivos é coesa?                                      |     -     |      -      |
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
