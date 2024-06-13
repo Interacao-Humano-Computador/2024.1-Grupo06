@@ -58,7 +58,7 @@ A verificação será realizada no período de 11 de junho de 2024 até dia 12 d
 
 | Data       | Descrição                                                                   | Responsável(eis)                                                                                               |
 | ---------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| 11/06/2024 | Inspeão  do Perfil do usuário.             | [Pedro Sena](https://github.com/pedroyen21)                                                    |
+| 11/06/2024 | Inspeção  do Perfil do usuário.             | [Pedro Sena](https://github.com/pedroyen21)                                                    |
 | 11/06/2024 | Inspeção das Personas. | [Pedro Sena](https://github.com/pedroyen21)                                                    |
 | 12/06/2024 | Inspeção dos cenários.                     | [Pedro Sena](https://github.com/pedroyen21)                                                    |
 | 12/06/2024 | Inspeção dos aspectos éticos.         | [Pedro Sena](https://github.com/pedroyen21)                                                    |
@@ -201,7 +201,7 @@ _Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
 ### Análise de Tarefas
 
 A tabela 7 a seguir apresenta a checklist referente à análise de tarefas segundo Barbosa e Silva - capítulo 8.
-Como o grupo 7 decidiu fazer a análise de tarefas com os métodos HTA e GOMS, o checklist será referente a eles.
+Iremos avaliar pelo método HTA, o checklist será referente a ele.
 
 <center>
 
@@ -218,10 +218,6 @@ Como o grupo 7 decidiu fazer a análise de tarefas com os métodos HTA e GOMS, o
 | 12  | (HTA) A representação em tabela possui entradas?                                      |     -     |      -      |
 | 13  | (HTA) A representação em tabela possui ações?                                      |     -     |      -      |
 | 14  | (HTA) A representação em tabela possui feedbacks?                                      |     -     |      -      |
-| 15  | (GOMS) Define claramente os objetivos e subobjetivos que o usuário precisa realizar?                                      |     -     |      -      |
-| 16  | (GOMS) O modelo GOMS obedece a notação?                                      |     -     |      -      |
-| 17  | (GOMS) A numeração dos métodos é coesa?                                      |     -     |      -      |
-| 18  | (GOMS) A numeração dos objetivos é coesa?                                      |     -     |      -      |
 
 _Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
 
