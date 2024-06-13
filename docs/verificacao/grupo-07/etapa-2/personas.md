@@ -33,9 +33,9 @@ O participante será o integrante do Grupo 06, [Pedro Sena](https://github.com/p
 | 6   | Personas têm identidade?   |    Sim     |      -      |
 | 7   | Personas têm status (primária, secundária etc)?   |     Sim     |      -      |
 | 8   | Personas têm objetivos?   |     Sim     |      -      |
-| 9   | Personas têm habilidades?   |     Incompleto     |      -      |
-| 10   | Personas têm tarefas?   |     Incompleto     |      -      |
-| 11   | Personas têm relacionamentos?   |     Incompleto     |      -      |
+| 9   | Personas têm habilidades?   |     Incompleto     |      Primária sim, secundária não      |
+| 10   | Personas têm tarefas?   |     Incompleto     |      Primária sim, secundária não      |
+| 11   | Personas têm relacionamentos?   |     Incompleto     |      Primária sim, secundária não      |
 | 12   | Personas têm requisitos?   |     Não     |      -      |
 | 13   | Personas têm expectativas?   |     Sim     |      -      |
 | 14   | Possui pelo menos persona primária?   |     SIm     |      -      |
