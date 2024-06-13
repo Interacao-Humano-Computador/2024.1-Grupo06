@@ -25,23 +25,23 @@ O participante será o integrante do Grupo 06, [Pedro Sena](https://github.com/p
 
 | ID  | Descrição                                                                                                    | Avaliação | Observações |
 | --- | ------------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 1   | O artefato está com uma introdução? | Sim|             |
-| 2   | O artefato está com uma bibliografia/referência bibliográfica?|     Sim      |             |
-| 3   | O artefato está com um histórico de versões com o número e descrição das versões, data, autores e revisores? | Sim    |             |
-| 4   | Todas as tabelas e imagens que são chamadas no texto, possuem legendas e fontes?  | SIm           |             |
-| 5   | Todos os textos estão na norma padrão e devidamente justificados?| Sim|    |
+| 1   | O artefato está com uma introdução? | Sim|     -        |
+| 2   | O artefato está com uma bibliografia/referência bibliográfica?|     Sim      |       -      |
+| 3   | O artefato está com um histórico de versões com o número e descrição das versões, data, autores e revisores? | Sim    |       -      |
+| 4   | Todas as tabelas e imagens que são chamadas no texto, possuem legendas e fontes?  | SIm           |    -         |
+| 5   | Todos os textos estão na norma padrão e devidamente justificados?| Sim|    - |
 | 6   | Perfil do usuário possui características de interese (cargo, função etc)?    |     Não     |      -      |
 | 7   | As características do perfil do usário são priorizadas conforme o produto?    |     Não     |      -      |
-| 8   | O perfil do usuário possui dados sobre experiência com tecnologia?    |     Não     |      Não      |
+| 8   | O perfil do usuário possui dados sobre experiência com tecnologia?    |     Não     |      -      |
 | 9   | O perfil do usuário possui dados sobre o conhecimento do produto e das tarefas que vai realizar?    |     Não     |      -      |
-| 10   | (Grupo Focal) Teve moderador?    |     Sim     |            |
+| 10   | (Grupo Focal) Teve moderador?    |     Sim     |    -          |
 | 11   | (Grupo Focal) Os participantes tiveram uma conversa balanceada?    |     Sim     |      -      |
 | 12   | (Grupo Focal) Evitaram falar de tópicos polêmicos?   |     Sim     |      -      |
 | 13   | (Grupo Focal) Conseguiram extrair informações importantes?  |     Sim     |      -      |
 | 14   | (Questionário) Contém instruções claras sobre como responder cada pergunta?   |     -     |      Não mostrado      |
 | 15  | (Questionário) Explicita se uma pergunta admite um resposta ou múltiplas respostas?   |          |      Não mostrado      |
 | 16   | (Questionário) Utiliza símbolos informativos consistentemente?   |     -     |      Não mostrado      |
-| 17   | (Questionário) Possui perguntas demográficas básicas (sexo, idade)?   |     Sim     |            |
+| 17   | (Questionário) Possui perguntas demográficas básicas (sexo, idade)?   |     Sim     |     -       |
 
 
 

@@ -27,6 +27,7 @@ nav:
       - Apresentação 2: apresentacao/apresentacao2.md
       - Apresentação 3: apresentacao/apresentacao3.md
       - Apresentação 4: apresentacao/apresentacao4.md
+      - Apresentação 6.1: apresentacao/apresentacao6.1.md
   - Atas:
       - Ata 1: atas/ata1.md
       - Ata 2: atas/ata2.md
@@ -75,7 +76,7 @@ nav:
       - Planejamento da Verificação da Etapa 2: verificacao/grupo-07/etapa-2/planejamento.md
       - Perfil do usuário: verificacao/grupo-07/etapa-2/perfil-usuario.md
       - Personas: verificacao/grupo-07/etapa-2/personas.md
-      - Cenários: verificacao/grupo-07/etapa-2/cenario.md
+      - Cenários: verificacao/grupo-07/etapa-2/cenarios.md
       - Aspectos éticos: verificacao/grupo-07/etapa-2/aspectos-eticos.md
       - Análise de Tarefas: verificacao/grupo-07/etapa-2/analise-tarefas.md
     - Etapa 4: 

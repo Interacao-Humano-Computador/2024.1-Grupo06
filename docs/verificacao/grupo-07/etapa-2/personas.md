@@ -1,4 +1,4 @@
-# Inspeção perfil do usuário
+# Inspeção personas
 
 ## Introdução
 
@@ -25,11 +25,11 @@ O participante será o integrante do Grupo 06, [Pedro Sena](https://github.com/p
 
 | ID  | Descrição                                                                                                    | Avaliação | Observações |
 | --- | ------------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 1   | O artefato está com uma introdução? | Sim|             |
-| 2   | O artefato está com uma bibliografia/referência bibliográfica?|     Sim      |             |
-| 3   | O artefato está com um histórico de versões com o número e descrição das versões, data, autores e revisores? | Sim    |             |
-| 4   | Todas as tabelas e imagens que são chamadas no texto, possuem legendas e fontes?  | SIm           |             |
-| 5   | Todos os textos estão na norma padrão e devidamente justificados?| Sim|    |
+| 1   | O artefato está com uma introdução? | Sim|      -       |
+| 2   | O artefato está com uma bibliografia/referência bibliográfica?|     Sim      |     -        |
+| 3   | O artefato está com um histórico de versões com o número e descrição das versões, data, autores e revisores? | Sim    |      -       |
+| 4   | Todas as tabelas e imagens que são chamadas no texto, possuem legendas e fontes?  | SIm           |    -         |
+| 5   | Todos os textos estão na norma padrão e devidamente justificados?| Sim|  -  |
 | 6   | Personas têm identidade?   |    Sim     |      -      |
 | 7   | Personas têm status (primária, secundária etc)?   |     Sim     |      -      |
 | 8   | Personas têm objetivos?   |     Sim     |      -      |
