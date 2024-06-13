@@ -78,15 +78,6 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 - Adicionar tópicos iniciais que descrevam os objetivos.
 - Incluir o restante dos resultados.
 
-## Acompanhamento
-
-A figura 1 é possível análisar um gráfico com o percentual de erros e acertos de acordo com checklist dos resultados obtidos acima.
-
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado da Checklist.</p></font>
-<iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR3MVzA3YqsA9BFsnNEfxxqoXiAKdV707I1Fk9otAVU83qTtaSDkRSKTJ8P2xds5-3OuzFI9jHjTdRM/pubchart?oid=64786241&amp;format=interactive"></iframe><figcaption><font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font></figcaption>
-</figure>
-
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -96,3 +87,4 @@ A figura 1 é possível análisar um gráfico com o percentual de erros e acerto
 | Versão | Data       | Descrição                                   | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------------ | ----------- |
 | `1.0`  | 12/06/2024 | Criação da página e ajuste da documentação | [Filipe Carvalho](https://github.com/filipe-002) | --          |
+| `1.1`  | 12/06/2024 | Exclusão da sessão de acompanhamento | [Filipe Carvalho](https://github.com/filipe-002) | --          |
