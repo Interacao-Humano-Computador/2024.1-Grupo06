@@ -41,14 +41,14 @@ A verificação será realizada no período de 11 de junho de 2024 até dia 12 d
 
 **Tabela 1** - Cronograma das Atividades.
 
-| Data       | Descrição                                                                   | Responsável                                                                                               |
-| ---------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| 11/06/2024 | Verificação do Planejamento da Avaliação da Análise de Tarefas.             | [Vinicius Vieira](https://github.com/viniciusvieira00)                                                    |
-| 11/06/2024 | Verificação do Planejamento do Relato dos Resultados da Análise de Tarefas. | [Vinicius Vieira](https://github.com/viniciusvieira00)                                                    |
-| 11/06/2024 | Verificação do Planejamento da Avaliação do Storyboard.                     | [Vinicius Vieira](https://github.com/viniciusvieira00)                                                    |
-| 11/06/2024 | Verificação do Planejamento do Relato dos Resultados do Storyboard.         | [Vinicius Vieira](https://github.com/viniciusvieira00)                                                    |
-| 11/06/2024 | Adição da documentação na página do grupo.                                  | [Vinicius Vieira](https://github.com/viniciusvieira00) e [Rafael Ferreira](https://github.com/RafaelCLG0) |
-| 11/06/2024 | Verificação dos Storyboards.                                                | [Vinicius Vieira](https://github.com/viniciusvieira00)                                                    |
+| Data       | Descrição                                                                   | Responsável                                            |
+| ---------- | --------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 11/06/2024 | Verificação do Planejamento da Avaliação da Análise de Tarefas.             | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| 11/06/2024 | Verificação do Planejamento do Relato dos Resultados da Análise de Tarefas. | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| 11/06/2024 | Verificação do Planejamento da Avaliação do Storyboard.                     | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| 11/06/2024 | Verificação do Planejamento do Relato dos Resultados do Storyboard.         | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| 11/06/2024 | Adição da documentação na página do grupo.                                  | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| 11/06/2024 | Verificação dos Storyboards.                                                | [Vinicius Vieira](https://github.com/viniciusvieira00) |
 
 _Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00), 2024._
 
