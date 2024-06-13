@@ -19,7 +19,7 @@ Para esta verificação, será utilizado o método de inspeção. Que também é
 Os checklists serão compostos por:
 - ID (Número): identificador
 - Descrição (Texto): Requisito
-- Avaliação (S | N | I, incompleto): se cumpriu ou não o requisito
+- Avaliação (Sim | Não | Incompleto): se cumpriu ou não o requisito
 - Observações (Texto): Observações do avaliador
 
 ### Participantes
@@ -85,11 +85,11 @@ A tabela 2 a seguir apresenta a checklist referente aos aspectos gerais que os a
 
 | ID  | Descrição                                                                                                    | Avaliação | Observações |
 | --- | ------------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 1   | O artefato está com uma introdução?                                                                          |           |             |
-| 2   | O artefato está com uma bibliografia/referência bibliográfica?                                               |           |             |
-| 3   | O artefato está com um histórico de versões com o número e descrição das versões, data, autores e revisores? |           |             |
-| 4   | Todas as tabelas e imagens que são chamadas no texto, possuem legendas e fontes?                             |           |             |
-| 5   | Todos os textos estão na norma padrão e devidamente justificados?                                            |           |             |
+| 1   | O artefato está com uma introdução?   |           |             |
+| 2   | O artefato está com uma bibliografia/referência bibliográfica?  |           |             |
+| 3   | O artefato está com um histórico de versões com o número e descrição das versões, data, autores e revisores? || |
+| 4   | Todas as tabelas e imagens que são chamadas no texto, possuem legendas e fontes?|      |             |
+| 5   | Todos os textos estão na norma padrão e devidamente justificados?      |           |             |
 
 _Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
 
@@ -112,7 +112,7 @@ Como o grupo 7 decidiu fazer o perfil de usuário com grupos focais e questioná
 | 8   | Possui dados sobre experiência com tecnologia?    |     -     |      -      |
 | 9   | Possui dados sobre o conhecimento do produto e das tarefas que vai realizar?    |     -     |      -      |
 | 10   | (Grupo Focal) Teve moderador?    |     -     |      -      |
-| 11   | (Grupo Focal) Os não moderadores tiveram uma conversa balanceada?    |     -     |      -      |
+| 11   | (Grupo Focal) Os participantes tiveram uma conversa balanceada?    |     -     |      -      |
 | 12   | (Grupo Focal) Evitaram falar de tópicos polêmicos?   |     -     |      -      |
 | 13   | (Grupo Focal) Conseguiram extrair informações importantes?  |     -     |      -      |
 | 14   | (Questionário) Contém instruções claras sobre como responder cada pergunta?   |     -     |      -      |
