@@ -38,9 +38,9 @@ O participante será o integrante do Grupo 06, [Pedro Sena](https://github.com/p
 | 11   | (Grupo Focal) Os participantes tiveram uma conversa balanceada?    |     Sim     |      -      |
 | 12   | (Grupo Focal) Evitaram falar de tópicos polêmicos?   |     Sim     |      -      |
 | 13   | (Grupo Focal) Conseguiram extrair informações importantes?  |     Sim     |      -      |
-| 14   | (Questionário) Contém instruções claras sobre como responder cada pergunta?   |     -     |      Não mostrado      |
+| 14   | (Questionário) Contém instruções claras sobre como responder cada pergunta?   |     Não     |      Não mostrado      |
 | 15  | (Questionário) Explicita se uma pergunta admite um resposta ou múltiplas respostas?   |          |      Não mostrado      |
-| 16   | (Questionário) Utiliza símbolos informativos consistentemente?   |     -     |      Não mostrado      |
+| 16   | (Questionário) Utiliza símbolos informativos consistentemente?   |     Não     |      Não mostrado      |
 | 17   | (Questionário) Possui perguntas demográficas básicas (sexo, idade)?   |     Sim     |     -       |
 
 
