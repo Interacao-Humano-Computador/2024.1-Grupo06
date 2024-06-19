@@ -67,8 +67,6 @@ As tarefas definidas para os participantes são:
 
 As entrevistas não devem gerar custos para a equipe ou usuários, utilizando ferramentas como:
 
-- [Marvel App](https://marvelapp.com): para criação do protótipo.
-- [Protótipo de Papel Digital](https://marvelapp.com/prototype/9i40deb).
 - [Perguntas de avaliação](#met1).
 - [Tarefas para os participantes](#met2).
 - [Termo de Consentimento](#met3).
@@ -84,11 +82,11 @@ Os prazos das entrevistas estão documentados na Tabela 2, que apresenta um cron
 
 **Tabela 2** - Cronograma da Avaliação.
 
-| Entrevistadores                | Usuário                                     | Data       | Início-Fim    | Local      |
-| ------------------------------ | ------------------------------------------- | ---------- | ------------- | ---------- |
-| [Usuário](https://github.com/) | <span style = "color: orange"> Nome </span> | DD/MM/YYYY | HH:mm - HH:mm | Presencial |
+| Entrevistadores                                        | Usuário                                            | Data       | Início-Fim  | Local             |
+| ------------------------------------------------------ | -------------------------------------------------- | ---------- | ----------- | ----------------- |
+| [Vinicius Vieira](https://github.com/viniciusvieira00) | <span style = "color: orange">Vitor Machado</span> | 19/06/2024 | 14:30-14:45 | Asa Sul - SQS 316 |
 
-**Fonte** - [Usuário](https://github.com/).
+**Fonte** - [Vinicius Vieira](https://github.com/viniciusvieira00).
 
 </center>
 

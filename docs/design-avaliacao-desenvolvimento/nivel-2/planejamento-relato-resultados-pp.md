@@ -45,11 +45,11 @@ O relato deve explicar a metodologia utilizada para a coleta de dados, justifica
 
 **Tabela 1** - Cronograma Planejado.
 
-| Entrevistadores                | Usuário                                     | Data       | Início-Fim    | Local      |
-| ------------------------------ | ------------------------------------------- | ---------- | ------------- | ---------- |
-| [Usuário](https://github.com/) | <span style = "color: orange"> Nome </span> | DD/MM/YYYY | HH:mm - HH:mm | Presencial |
+| Entrevistadores                                        | Usuário                                            | Data       | Início-Fim  | Local             |
+| ------------------------------------------------------ | -------------------------------------------------- | ---------- | ----------- | ----------------- |
+| [Vinicius Vieira](https://github.com/viniciusvieira00) | <span style = "color: orange">Vitor Machado</span> | 19/06/2024 | 14:30-14:45 | Asa Sul - SQS 316 |
 
-**Fonte** - [Usuário](https://github.com/).
+**Fonte** - [Vinicius Vieira](https://github.com/viniciusvieira00).
 
 </center>
 
@@ -90,7 +90,7 @@ Finalmente, as mudanças sugeridas e problemas identificados durante a análise 
 **Tabela 2** - Cronograma de Reprojeto.
 
 | Executor(a) do Reprojeto | Horário de Início | Horário de Fim | Data       |
-| -----------------------  | ----------------- | -------------- | ---------- |
+| ------------------------ | ----------------- | -------------- | ---------- |
 | Nome do Executor         | 00:00             | 00:00          | DD/MM/YYYY |
 
 **Fonte** - [Usuário](https://github.com/).
