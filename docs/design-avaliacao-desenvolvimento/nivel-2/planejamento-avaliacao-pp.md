@@ -67,8 +67,6 @@ As tarefas definidas para os participantes são:
 
 As entrevistas não devem gerar custos para a equipe ou usuários, utilizando ferramentas como:
 
-- [Marvel App](https://marvelapp.com): para criação do protótipo.
-- [Protótipo de Papel Digital](https://marvelapp.com/prototype/9i40deb).
 - [Perguntas de avaliação](#met1).
 - [Tarefas para os participantes](#met2).
 - [Termo de Consentimento](#met3).
