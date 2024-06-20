@@ -141,6 +141,7 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 | Entrevistadores                                        | Usuário                                              | Data       | Início-Fim  | Local             |
 | ------------------------------------------------------ | ---------------------------------------------------- | ---------- | ----------- | ----------------- |
 | [Vinicius Vieira](https://github.com/viniciusvieira00) | <span style = "color: orange">Vitor Machado</span>   | 23/06/2024 | 14:30-14:45 | Asa Sul - SQS 316 |
+| [Pedro Sena](https://github.com/pedroyen21) | <span style = "color: orange">Susane Duarte</span>   | 02/07/2024 | 10:20-10:30 | FGA - UED |
 
 **Fonte** - [Vinicius Vieira](https://github.com/viniciusvieira00).
 
@@ -235,4 +236,5 @@ Após realizar o teste piloto deve ser postado abaixo.
 
 | Versão | Data       | Descrição                                   | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------------ | ----------- |
-| `1.0`  | 19/06/2024 | Criação da página e inserção de informações | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
+| `1.0`  | 19/06/2024 | Criação da página e inserção de informações | [Vinicius Vieira](https://github.com/viniciusvieira00) | Pedro Sena         |
+| `1.1`  | 19/06/2024 | Adição entrevista Pedro | [Pedro Sena](https://github.com/pedroyen21) | |
