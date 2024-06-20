@@ -8,26 +8,20 @@ Este documento tem como objetivo relatar os resultados da avaliação do protót
 
 Com base no [planejamento](../planejamento-relato-resultados-pp.md), o relato incluirá:
 
-* Objetivo e escopo da avaliação
-* Método de avaliação
-* Seleção dos participantes
-* Problemas e dificuldades encontradas
-* Sugestões de melhoria
-* Feedback dos usuários
-* Análise e interpretação dos resultados
-* Sumário dos principais resultados
-* Planejamento de reprojeto
+* [Objetivo e escopo da avaliação](#objetivo-e-escopo-da-avaliação)
+* [Método de avaliação](#método-de-avaliação)
+* [Seleção dos participantes](#seleção-dos-participantes)
+* [Problemas e dificuldades encontradas](#problemas-e-dificuldades-encontradas)
+* [Sugestões de melhoria](#sugestões-de-melhoria)
+* [Feedback dos usuários](#feedback-da-participante)
+* [Análise e interpretação dos resultados](#análise-e-interpretação-dos-resultados)
+* [Sumário dos principais resultados](#sumário-dos-resultados)
+* [Planejamento de reprojeto](#planejamento-de-reprojeto)
 
 
 ### Objetivo e Escopo da Avaliação
 
 Esta etapa do projeto visa elaborar com mais flexibilidade a viabilidade de novos designs para as tarefas a serem analisadas. Neste caso, foi utilizado o protótipo de papel por ser um protótipo de baixa fidelidade, e, portanto, fácil de explorar novas maneiras e alterar as já existentes de realizar uma tarefa, mudando componentes, textos conforme a observação e coleta de dados com participantes.
-
-<!-- TODO -->
-- O protótipo de papel permitiu explorar conceitos de design?
-- Foram observadas sugestões de melhoria para o protótipo proposto?
-- Foi possível identificar problemas preliminares de usabilidade?
-- As ideias principais de design foram identificadas?
 
 ### Método de Avaliação
 
@@ -91,9 +85,21 @@ Também foram feitas algumas [perguntas](#perguntas-de-feedback) à participante
     Apenas a questão do pagamento
 
 
-### Sumário dos Principais Resultados
+### Sumário dos resultados
 
 A participante foi rápida e assertiva em realizar a tarefa proposta. Apenas sentiu falta de um pouco mais de informação no momento do pagamento.
+
+- O protótipo de papel permitiu explorar conceitos de design?
+    Sim, ele cumpriu bem seu papel de idealizar a estrutura da tarefa de um jeito interativo.
+
+- Foram observadas sugestões de melhoria para o protótipo proposto?
+    Sim, a adição da informação de forma de pagamento.
+
+- Foi possível identificar problemas preliminares de usabilidade?
+    Problemas, a princípio, não. Mas melhorias sim.
+
+- As ideias principais de design foram identificadas?
+    Sim.
 
 O [vídeo 1](#video-1) é a gravação da avaliação com a participante.
 
