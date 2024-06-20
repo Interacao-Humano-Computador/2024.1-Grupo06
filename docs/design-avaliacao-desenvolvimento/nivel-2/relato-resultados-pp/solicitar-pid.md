@@ -23,12 +23,6 @@ Com base no [planejamento](../planejamento-relato-resultados-pp.md), o relato in
 
 Esta etapa do projeto visa elaborar com mais flexibilidade a viabilidade de novos designs para as tarefas a serem analisadas. Neste caso, foi utilizado o protótipo de papel por ser um protótipo de baixa fidelidade, e, portanto, fácil de explorar novas maneiras e alterar as já existentes de realizar uma tarefa, mudando componentes, textos conforme a observação e coleta de dados com participantes.
 
-<!-- TODO -->
-- O protótipo de papel permitiu explorar conceitos de design?
-- Foram observadas sugestões de melhoria para o protótipo proposto?
-- Foi possível identificar problemas preliminares de usabilidade?
-- As ideias principais de design foram identificadas?
-
 ### Método de Avaliação
 
 A coleta de dados foi feita através de uma avaliação com uma participante que se encaixa no perfil de usuário, analisando seu uso da interface, opiniões e respostas dos questionários. 
@@ -91,10 +85,22 @@ Também foram feitas algumas [perguntas](#perguntas-de-feedback) à participante
     Apenas a questão do pagamento
 
 
-### Sumário dos Principais Resultados
+### Sumário dos resultados
 
 A participante foi rápida e assertiva em realizar a tarefa proposta. Apenas sentiu falta de um pouco mais de informação no momento do pagamento.
 
+- O protótipo de papel permitiu explorar conceitos de design?
+    Sim, ele cumpriu bem seu papel de idealizar a estrutura da tarefa de um jeito interativo.
+
+- Foram observadas sugestões de melhoria para o protótipo proposto?
+    Sim, a adição da informação de forma de pagamento.
+
+- Foi possível identificar problemas preliminares de usabilidade?
+    Problemas, a princípio, não. Mas melhorias sim.
+
+- As ideias principais de design foram identificadas?
+    Sim.
+    
 O [vídeo 1](#video-1) é a gravação da avaliação com a participante.
 
 <center>
