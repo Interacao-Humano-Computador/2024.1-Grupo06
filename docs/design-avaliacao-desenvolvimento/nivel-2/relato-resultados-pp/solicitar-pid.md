@@ -82,17 +82,13 @@ Também foram feitas algumas [perguntas](#perguntas-de-feedback) à participante
 ##### Questionário pós-teste
 
 1. **Algum componente te deixou confuso sobre o que ele fazia?**
-   - O anúncio grande na parte de baixo da página inicial contendo os "nossos serviços mais acessados" poderia ser clicável, facilitando a navegação do usuário para esses serviços.
-   - A navegação para emissão de "Nada Consta" não é intuitiva, pois fica dentro da opção "Consulta CNH" no dropdown de CNH, o que não deixa claro que é ali onde se emite o documento.
-   - A impossibilidade de clicar em algumas opções sem estar logado dificulta a experiência. Sugestão para permitir que o usuário clique e, ao chegar na página que não pode ser acessada sem login, ser redirecionado para o login.
+    Só na hora do pagamento que não tem mais uma opção para pagar 
 
 2. **Teve alguma informação faltando?**
-   - Não houve informações faltantes. As dificuldades foram relativas à navegação e usabilidade.
+    Não, acredito que foi bem fácil e bem rápido.
 
 3. **Sugere alguma mudança no trajeto?**
-   - Melhorar a navegação para que os anúncios de serviços mais acessados sejam clicáveis.
-   - Tornar mais intuitiva a localização da emissão de "Nada Consta", talvez com um link direto no menu principal ou uma seção específica.
-   - Permitir que o usuário navegue até a página desejada e, se necessário, ser redirecionado para o login ao tentar acessar funcionalidades restritas.
+    Apenas a questão do pagamento
 
 
 ### Sumário dos Principais Resultados
