@@ -142,6 +142,7 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 | ------------------------------------------------------ | ---------------------------------------------------- | ---------- | ----------- | ----------------- |
 | [Vinicius Vieira](https://github.com/viniciusvieira00) | <span style = "color: orange">Vitor Machado</span>   | 23/06/2024 | 14:30-14:45 | Asa Sul - SQS 316 |
 | [Pedro Sena](https://github.com/pedroyen21) | <span style = "color: orange">Susane Duarte</span>   | 02/07/2024 | 10:20-10:30 | FGA - UED |
+| [Filipe Carvalho](https://github.com/filipe-002)| <span style = "color: orange">Maciel Romualdo</span>   | 27/06/2024 | 14:30-15:30 | FGA - UED |
 
 **Fonte** - [Vinicius Vieira](https://github.com/viniciusvieira00).
 
