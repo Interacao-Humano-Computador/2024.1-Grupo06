@@ -122,13 +122,21 @@ O teste-piloto será realizado em 10/06/2023 às 12:20, com a presença dos inte
 
 O vídeo do teste-piloto mostra a verificação das condições para realizar as entrevistas e como elas devem ser conduzidas.
 
-<!-- 
-<p style="text-align: center"><a href="https://www.youtube.com/embed/s-kX0kSuv5Q" target="blanket">Clique aqui</a></p>
+<center>
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=sTn1VCieMn4" target="blanket">Clique aqui</a></p>
 
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/s-kX0kSuv5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sTn1VCieMn4?si=NNk7mU9NUfb_anfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center">Fonte: [Douglas Alves](https://github.com/dougAlvs) e [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font> -->
+
+_Fonte: [Pedro Sena](https://github.com/pedroyen21)_
+
+</center>
+
+## Observações
+
+De maneira geral o teste piloto correu bem, mas foi percebido que é interessante também explicar que quando o usuário tentar clicar em alguma funcionalidade que não foi incluída no protótipo, que não faz parte do trajeto idealizado. 
 
 ## Bibliografia
 
