@@ -8,15 +8,15 @@ Este documento tem como objetivo relatar os resultados da avaliação do protót
 
 Com base no [planejamento](../planejamento-relato-resultados-pp.md), o relato incluirá:
 
-* Objetivo e escopo da avaliação
-* Método de avaliação
-* Seleção dos participantes
-* Problemas e dificuldades encontradas
-* Sugestões de melhoria
-* Feedback dos usuários
-* Análise e interpretação dos resultados
-* Sumário dos principais resultados
-* Planejamento de reprojeto
+* [Objetivo e escopo da avaliação](#objetivo-e-escopo-da-avaliação)
+* [Método de avaliação](#método-de-avaliação)
+* [Seleção dos participantes](#seleção-dos-participantes)
+* [Problemas e dificuldades encontradas](#problemas-e-dificuldades-encontradas)
+* [Sugestões de melhoria](#sugestões-de-melhoria)
+* [Feedback dos usuários](#feedback-da-participante)
+* [Análise e interpretação dos resultados](#análise-e-interpretação-dos-resultados)
+* [Sumário dos principais resultados](#sumário-dos-resultados)
+* [Planejamento de reprojeto](#planejamento-de-reprojeto)
 
 
 ### Objetivo e Escopo da Avaliação
@@ -100,7 +100,7 @@ A participante foi rápida e assertiva em realizar a tarefa proposta. Apenas sen
 
 - As ideias principais de design foram identificadas?
     Sim.
-    
+
 O [vídeo 1](#video-1) é a gravação da avaliação com a participante.
 
 <center>
