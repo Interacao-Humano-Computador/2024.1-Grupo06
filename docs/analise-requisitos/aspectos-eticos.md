@@ -11,11 +11,26 @@ Para dar credibilidade e valor ao nosso trabalho é necessário conduzir também
 
 - Princípio da justiça e equidade: está relacionado à importância social da pesquisa, priorizando benefícios substanciais para os participantes da pesquisa e minimizando as cargas impostas aos participantes vulneráveis. Isso garante a consideração justa dos interesses envolvidos e mantém o propósito humanitário e social da pesquisa em foco.
 
-# Termo de Consentimento
+## Termo de Consentimento
 
-Termo de consentimento usado na pesquisa:
+Ao longo do projeto serão usados dois termos de consentimento, um para o questionário, e outro para as entrevistas. Essa decisão foi tomada porque cada maneira de coletar dados tem suas especificidades e precisam ser cobertas de maneiras diferentes.
 
-![Figura 6 - Termo de Consentimennto](images/termo-consentimento.png)<figcaption>Fonte: [Víctor Moreira](https://github.com/vitu-moreira) (2024).</figcaption>
+A [figura 1](#figura-1) apresenta o Termo de Consentimento usado para o questionário.
+
+#### Figura 1
+
+![Figura 1](images/termo-consentimento.png)<figcaption>Fonte: [Víctor Moreira](https://github.com/vitu-moreira) (2024).</figcaption>
+
+
+</br>
+</br>
+
+A [figura 2](#figura-2) apresenta o Termo de Consentimento usado para entrevistas.
+
+#### Figura 2
+
+![Figura 2](images/termo-consentimento-entrevista.png)<figcaption>Fonte: [Pedro Sena](https://github.com/pedroyen21) (2024).</figcaption>
+
 
 ## Referências Bibliográficas
 
@@ -30,3 +45,4 @@ BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: E
 |   Versão   | Data  | Descrição            | Autor                                                  | Revisor |
 | :--------: | :---: | :------------------- | ------------------------------------------------------ | ------- |
 | 1.0 |  13/05/2024  | Adição das características da Plataforma | [Pedro Miguel](https://github.com/pedromadbr) | [Vinicius Vieira](https://github.com/viniciusvieira00)     |
+| 1.1 |  25/06/2024  | Adição do novo termo de consentimento para entrevistas | [Pedro Sena](https://github.com/pedroyen21) |     |
