@@ -6,7 +6,7 @@ Com o planejamento do que verificar concluído, é hora de realizar a inspeção
 
 ## Objetivo
 
-Este documento tem como objetivo relatar os resultados das verificações realizadas sobre o artefato [Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2024.1-CBMERJ/design_avaliacao_desenvolvimento/nivel_1/story_board/planejamento_relato_resultados/) da Etapa 4 do [Grupo 07](https://interacao-humano-computador.github.io/2024.1-CBMERJ/).
+Este documento tem como objetivo relatar os resultados das verificações realizadas sobre o artefato [Planejamento do Relato dos Resultados (Storyboard)](https://interacao-humano-computador.github.io/2024.1-DETRANDF/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-relato-resultado-sb/) da Etapa 4 do [Grupo 06](https://interacao-humano-computador.github.io/2024.1-DETRANDF/).
 
 ## Metodologia
 
@@ -24,19 +24,14 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
 **Tabela 1** - Checklist de Verificação.
 
-|  ID   | Descrição                                                                                                             | Avaliação  | Observações |
-| :---: | --------------------------------------------------------------------------------------------------------------------- | :--------: | ----------- |
-|   1   | O planejamento define método de avaliação dos resultados?                                                             |    Sim     |             |
-|   2   | O planejamento apresenta os participantes selecionados?                                                               |    Não     |             |
-|   3   | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?                                 |    Não     |             |
-|   4   | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados?                   |    Sim     |             |
-|   5   | O planejamento apresenta instruções com relação às sugestões de melhorias?                                            |    Sim     |             |
-|   6   | O planejamento apresenta uma seção para o feedback dos usuários?                                                      |    Não     |             |
-|   7   | O planejamento aborda como será realizada a análise da interação do usuário com o artefato?                           |    Sim     |             |
-|   8   | O planejamento define tópico para sumarizar os principais resultados?                                                 |    Sim     |             |
-|   9   | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?                         |    Sim     |             |
-|  10   | O planejamento considera no resultado um planejamento para o reprojeto do sistema?                                    | Incompleto |             |
-|  11   | O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato? |    Não     |             |
+|  ID   |                                                    Descrição                                                     | Avaliação | Observações | Fonte                                                                                 |
+| :---: | :--------------------------------------------------------------------------------------------------------------: | :-------: | :---------: | ------------------------------------------------------------------------------------- |
+|   1   |                        As questões éticas foram descritas e tratadas de maneira adequada?                        |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.     |
+|   2   |                             Os objetivos do artefato estão claramente estabelecidos?                             |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.     |
+|   3   |                O método a ser utilizado foi descrito, bem como a justificativa para sua escolha?                 |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.     |
+|   4   |                 A seleção de usuários para a entrevista é compatível com o perfil dos usuários?                  |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 274.     |
+|   5   | Foram definidos o recrutamento dos participantes, os equipamentos que serão utilizados, os prazos e o orçamento? |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 273.     |
+|   6   |      A avaliação, interpretação e apresentação dos dados foram planejadas considerando o método escolhido?       |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279-280. |
 
 _Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00), 2024._
 
@@ -44,31 +39,11 @@ _Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00), 2024._
 
 ## Problemas encontrados
 
-Com base na tabela preenchida, serão feitas considerações acerca de alguns itens da tabela.
-
-### ID's 2 e 3 - O planejamento apresenta os participantes selecionados e tais se enquadram no perfil de usuário?
-
-Não são apresentados os participantes. No entanto, eles foram escolhidos e apresentados em outros artefatos, e se enquadram no perfil de usuário, mas é necessário explicitá-los.
-
-### ID 6 - O planejamento apresenta uma seção para o feedback dos usuários?
-
-O feedback dos usuários é essencial para a melhoria do sistema, por isso é importante que seja abordado no planejamento.
-
-### ID 10 - O planejamento considera no resultado um planejamento para o reprojeto do sistema?
-
-No caso, é apresentado um tópico falando a respeito do reprojeto, mas não é bem detalhado, e não contém um planejamento para tal.
-
-### ID 11 - O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato?
-
-Para isso, deve-se analisar todos os artefatos afins e reestruturar de acordo com a melhor estrutura apresentada. O que pode ser uma adaptação dos tópicos dos artefatos.
+Não foram encontrados problemas na verificação do artefato.
 
 ## Sugestões de Correções
 
-Tendo em vista os problemas abordados anteriormente, fica como sugestão a realização das seguintes correções:
-
-- Apresentar os participantes e justificar o perfil de usuário.
-- Tópico de reprojeto mais detalhado, com um planejamento para tal.
-- Adotar um padrão para todos os planejamentos de relatos.
+Não há sugestões de correções.
 
 ## Acompanhamento
 
@@ -76,7 +51,7 @@ A figura 1 é possível análisar um gráfico com o percentual de erros e acerto
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado da Checklist.</p></font>
-<iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR3MVzA3YqsA9BFsnNEfxxqoXiAKdV707I1Fk9otAVU83qTtaSDkRSKTJ8P2xds5-3OuzFI9jHjTdRM/pubchart?oid=1950061021&amp;format=interactive"></iframe><figcaption><font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font></figcaption>
+<iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR9VoUT8bjBrSCNwu2cgBFb8HPhEsMxLxvIrF_C_MwW9FpNomR3oVgD56kJuTa4AZzVijRhh07mIalG/pubchart?oid=64786241&amp;format=interactive"></iframe><figcaption><font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font></figcaption>
 </figure>
 
 ## Bibliografia
@@ -88,3 +63,4 @@ A figura 1 é possível análisar um gráfico com o percentual de erros e acerto
 | Versão | Data       | Descrição                                   | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------------ | ----------- |
 | `1.0`  | 25/06/2024 | Criação da página e sua devida documentação | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
+| `1.1`  | 26/06/2024 | Verificação                                 | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |

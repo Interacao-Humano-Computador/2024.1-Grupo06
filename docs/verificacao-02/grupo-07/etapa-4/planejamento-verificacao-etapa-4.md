@@ -2,11 +2,10 @@
 
 ## Introdução
 
-A verificação é uma fase crucial no desenvolvimento de um projeto, onde os artefatos criados são revisados para garantir que atendam aos requisitos especificados. Este documento detalha o planejamento da verificação dos artefatos desenvolvidos pelo [Grupo 07](https://interacao-humano-computador.github.io/2024.1-CBMERJ/) na Etapa 4.
+A verificação é uma fase crucial no desenvolvimento de um projeto, onde os artefatos criados são revisados para garantir que atendam aos requisitos especificados. Este documento detalha o planejamento da verificação dos artefatos desenvolvidos pelo [Grupo 06](https://interacao-humano-computador.github.io/2024.1-DETRANDF/) na Etapa 4.
 
 ## Objetivos
-
-O propósito deste documento é verificar se os artefatos produzidos pelo [Grupo 07](https://interacao-humano-computador.github.io/2024.1-CBMERJ/) na Etapa 4 cumprem os critérios e padrões estabelecidos.
+O propósito deste documento é verificar se os artefatos produzidos pelo [Grupo 06](https://interacao-humano-computador.github.io/2024.1-DETRANDF/) na Etapa 4 cumprem os critérios e padrões estabelecidos.
 
 ## Metodologia
 
@@ -16,14 +15,18 @@ A metodologia selecionada para esta verificação é a inspeção. Originalmente
 
 O responsável pelas verificações da etapa 4 é o integrante do [Grupo 06](https://interacao-humano-computador.github.io/2024.1-DETRANDF/): [Vinicius Vieira](https://github.com/viniciusvieira00), o qual realiza tanto a verificação do planejamento, do relato de seus resultados e também dos artefatos contidos nesta etapa.
 
-### Objetos de Verificação
+## Objetos de verificação
+A tabela 1 foi produzida para uma melhor visualização dos objetos que serão verificados e suas respectivas características, ela é composta por pelo Artefato que foi verificado, Versão verificada, Data que foi produzido, Autores do artefato e Revisões do artefato.
 
-Os artefatos alvos dessa verificação são:
+<center>Tabela 1: Objetos de verificação</center>
 
-- O [**Planejamento da Avaliação da Análise de Tarefas**](https://interacao-humano-computador.github.io/2024.1-CBMERJ/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao/) na versão 3.0 de data 25/05/2024 produzida por [Mariana Letícia](https://github.com/Marianannn) e revisada por [Bruna Lima](https://github.com/libruna).
-- O [**Planejamento do Relato dos Resultados da Análise de Tarefas**](https://interacao-humano-computador.github.io/2024.1-CBMERJ/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_relato_resultados/) na versão 2.1 de data 22/05/2024 produzida por [Lucas Avelar](https://github.com/LucasAvelar2711) e revisada por [Bruna Lima](https://github.com/libruna).
-- O [**Planejamento da Avaliação do Storyboard**](https://interacao-humano-computador.github.io/2024.1-CBMERJ/design_avaliacao_desenvolvimento/nivel_1/story_board/planejamento_avaliacao/#e-explorar-perguntas) na versão 4.1 de data 25/05/2024 produzida por [Mariana Letícia](https://github.com/Marianannn) e revisada por [Daniela Alarcão](https://github.com/danialarcao).
-- O [**Planejamento do Relato dos Resultados do Storyboard**](https://interacao-humano-computador.github.io/2024.1-CBMERJ/design_avaliacao_desenvolvimento/nivel_1/story_board/planejamento_relato_resultados/) na versão 4.1 de data 22/05/2024 produzida por [Bruna Lima](https://github.com/libruna) e revisada por [Pedro Henrique](https://github.com/PedroHenriqueq).
+|                                                                                                                  Artefato                                                                                                                  | Versão | Data produzido |                                                                                            Produzido por                                                                                             |                                                                        Revisado por                                                                        |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                        [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2024.1-DETRANDF/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-avaliacao-sb/)                         | `1.2`  |   15/05/2024   |                                                                        [Vinicius Vieira](https://github.com/viniciusvieira00)                                                                        |                                                                        SEM REVISÃO                                                                         |
+|                [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2024.1-DETRANDF/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-avaliacao-at/)                 | `1.0`  |   15/05/2024   |                        [Vinicius Vieira](https://github.com/viniciusvieira00), [Pedro Sena](https://github.com/pedroyen21), [Filipe Carvalho](https://github.com/Filipe-002)                         |   [Vinicius Vieira](https://github.com/viniciusvieira00), [Pedro Sena](https://github.com/pedroyen21), [Filipe Carvalho](https://github.com/Filipe-002)    |
+| [Planejamento do Relato dos Resultados da Avaliação (Análise de Tarefas)](https://interacao-humano-computador.github.io/2024.1-DETRANDF/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-relato-resultado-at/) | `1.3`  |   22/05/2024   | [Filipe Carvalho](https://github.com/Filipe-002), [Pedro Miguel](https://github.com/pedromadbr), [Pedro Sena](https://github.com/pedroyen21), [Vinicius Vieira](https://github.com/viniciusvieira00) |                           [Pedro Miguel](https://github.com/pedromadbr), [Vinicius Vieira](https://github.com/viniciusvieira00)                            |
+|               [Planejamento do Relato dos Resultados (Storyboard)](https://interacao-humano-computador.github.io/2024.1-DETRANDF/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-relato-resultado-sb/)                | `1.2`  |   22/05/2024   |                                              [Daniel Coimbra](https://github.com/DanielCoimbra), [Vinicius Vieira](https://github.com/viniciusvieira00)                                              | [Pedro Miguel](https://github.com/pedromadbr),  [Vinicius Vieira](https://github.com/viniciusvieira00), [Daniel Coimbra](https://github.com/DanielCoimbra) |
+|                                              [Relato dos Resultados Storyboards](https://interacao-humano-computador.github.io/2024.1-DETRANDF/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/relato-resultado-storyboard/)                                              | `1.5`  |   31/05/2024   |                                                                        [Vinicius Vieira](https://github.com/viniciusvieira00)                                                                        |                                                       [Pedro Miguel](https://github.com/pedromadbr)                                                        |
 
 Os resultados das verificações em si serão apresentados em páginas separadas e que podem ser acessados através dos seguintes links:
 
@@ -32,10 +35,11 @@ Os resultados das verificações em si serão apresentados em páginas separadas
 - [Planejamento da Avaliação do Storyboard](./verificacao-planejamento-avaliacao-sb);
 - [Planejamento do Relato dos Resultados do Storyboard](./verificacao-planejamento-relato-resultado-sb);
 - [Storyboards](./verificacao-sb).
+<center>*Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00). 2024.*</center>
 
 ### Cronograma
 
-A verificação será realizada no período de 11 de junho de 2024 até dia 12 de junho de 2024, com os resultados sendo relatados através da página de documentação do [Grupo 07](https://interacao-humano-computador.github.io/2024.1-CBMERJ/) no dia 11 de junho de 2024. A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
+A verificação será realizada no período de 25 de junho de 2024 até dia 26 de junho de 2024, com os resultados sendo relatados através da página de documentação do [Grupo 06](https://interacao-humano-computador.github.io/2024.1-DETRANDF/) no dia 26 de junho de 2024. A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 <center>
 
@@ -43,12 +47,12 @@ A verificação será realizada no período de 11 de junho de 2024 até dia 12 d
 
 | Data       | Descrição                                                                   | Responsável                                            |
 | ---------- | --------------------------------------------------------------------------- | ------------------------------------------------------ |
-| 11/06/2024 | Verificação do Planejamento da Avaliação da Análise de Tarefas.             | [Vinicius Vieira](https://github.com/viniciusvieira00) |
-| 11/06/2024 | Verificação do Planejamento do Relato dos Resultados da Análise de Tarefas. | [Vinicius Vieira](https://github.com/viniciusvieira00) |
-| 11/06/2024 | Verificação do Planejamento da Avaliação do Storyboard.                     | [Vinicius Vieira](https://github.com/viniciusvieira00) |
-| 11/06/2024 | Verificação do Planejamento do Relato dos Resultados do Storyboard.         | [Vinicius Vieira](https://github.com/viniciusvieira00) |
-| 11/06/2024 | Adição da documentação na página do grupo.                                  | [Vinicius Vieira](https://github.com/viniciusvieira00) |
-| 11/06/2024 | Verificação dos Storyboards.                                                | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| 26/06/2024 | Verificação do Planejamento da Avaliação da Análise de Tarefas.             | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| 26/06/2024 | Verificação do Planejamento do Relato dos Resultados da Análise de Tarefas. | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| 26/06/2024 | Verificação do Planejamento da Avaliação do Storyboard.                     | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| 26/06/2024 | Verificação do Planejamento do Relato dos Resultados do Storyboard.         | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| 26/06/2024 | Adição da documentação na página do grupo.                                  | [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| 26/06/2024 | Verificação dos Storyboards.                                                | [Vinicius Vieira](https://github.com/viniciusvieira00) |
 
 _Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00), 2024._
 
@@ -66,30 +70,22 @@ A tabela 2 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 <center>
 
-**Tabela 3** - Checklist para o Planejamento do Avaliação da Análise de Tarefas.
+**Tabela 2** - Checklist para o Planejamento do Avaliação da Análise de Tarefas.
 
-| ID  | Descrição                                                                                                                                                                                                                                                                        | Avaliação | Observações |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 1   | O documento possui os objetivos do planejamento?                                                                                                                                                                                                                                 |           |             |
-| 2   | O planejamento segue o framework DECIDE?                                                                                                                                                                                                                                         |           |             |
-| 3   | O documento possui quais são os objetivos da avaliação?                                                                                                                                                                                                                          |           |             |
-| 4   | O documento possui quais são as perguntas a serem respondidas com a avaliação?                                                                                                                                                                                                   |           |             |
-| 5   | As perguntas selecionadas possuem fontes indicando de onde foram baseadas?                                                                                                                                                                                                       |           |             |
-| 6   | O documento possui quais são os métodos a serem utilizados na avaliação?                                                                                                                                                                                                         |           |             |
-| 7   | O documento possui os participantes da avaliação?                                                                                                                                                                                                                                |           |             |
-| 8   | O documento apresenta o motivo do número da escolha dos participantes?                                                                                                                                                                                                           |           |             |
-| 9   | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário?                                                                                                                                                                                     |           |             |
-| 10  | O documento apresenta o papel desempenhado por cada participantes?                                                                                                                                                                                                               |           |             |
-| 11  | O documento possui um cronograma com data, hora e local da realização da avaliação?                                                                                                                                                                                              |           |             |
-| 12  | O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação?                                                                                                                                                                                      |           |             |
-| 13  | O documento apresenta quais são os custos?                                                                                                                                                                                                                                       |           |             |
-| 14  | O documento apresenta quais são os recursos de mão de obra necessários?                                                                                                                                                                                                          |           |             |
-| 15  | O documento possui uma seção sobre como as questões éticas são lidadas?                                                                                                                                                                                                          |           |             |
-| 16  | O documento possui uma seção sobre os dados (interpretação e apresentação)?                                                                                                                                                                                                      |           |             |
-| 17  | O documento apresenta tarefas de como deve ser realizada a avaliação?                                                                                                                                                                                                            |           |             |
-| 18  | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto?                                                                                                                                              |           |             |
-| 19  | Possui uma gravação do teste piloto?                                                                                                                                                                                                                                             |           |             |
-| 20  | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.) |           |             |
+|  ID   |                                                                      Descrição                                                                      | Avaliação | Observações | Fonte                                                                                  |
+| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------: | -------------------------------------------------------------------------------------- |
+|   1   |                                                 O planejamento foi feito usando o framework DECIDE?                                                 |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279-280.  |
+|   2   |                                                            Os objetivos foram definidos?                                                            |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   3   |                                          As perguntas que a avaliação pretende responder foram exploradas?                                          |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   4   |  Foram estabelecidas questões detalhadas para os objetivos da avaliação, considerando os usuários-alvo, suas atividades e os artefatos utilizados?  |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 265-266.  |
+|   5   |                            Os métodos de avaliação foram apresentados, juntamente com a justificativa para sua escolha?                             |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280, 272. |
+|   6   |            Foram detalhados prazos, orçamento, equipamentos disponíveis, bem como o grau de conhecimento e experiência dos avaliadores?             |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   7   |                                                         As questões éticas foram abordadas?                                                         |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   8   |                               Foi explicado como os dados da avaliação serão coletados, interpretados e apresentados?                               |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   9   | As etapas básicas dos métodos de avaliação, como preparação, coleta de dados, interpretação, consolidação e relato dos resultados, foram descritas? |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 273.      |
+|  10   |                                                           Foi realizado um teste piloto?                                                            |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 276.      |
+|  11   |                          Existe um plano para reprojetar, caso sejam identificados problemas ou oportunidades de melhoria?                          |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 273.      |
+|       |
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
@@ -101,22 +97,17 @@ A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o do
 
 <center>
 
-**Tabela 4** - Checklist para o Planejamento do Relato dos Resultados da Análise de Tarefas.
+**Tabela 3** - Checklist para o Planejamento do Relato dos Resultados da Análise de Tarefas.
 
-| ID  | Descrição                                                                                                             | Avaliação | Observações |
-| --- | --------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 1   | O planejamento define objetivo e escopo de avaliação dos resultados?                                                  |           |             |
-| 2   | O planejamento define método de avaliação dos resultados?                                                             |           |             |
-| 3   | O planejamento apresenta os participantes selecionados?                                                               |           |             |
-| 4   | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?                                 |           |             |
-| 5   | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados?                   |           |             |
-| 6   | O planejamento apresenta instruções com relação às sugestões de melhorias?                                            |           |             |
-| 7   | O planejamento apresenta uma seção para o feedback dos usuários?                                                      |           |             |
-| 8   | O planejamento aborda como será realizada a análise da interação do usuário com o artefato?                           |           |             |
-| 9   | O planejamento define tópico para sumarizar os principais resultados?                                                 |           |             |
-| 10  | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?                         |           |             |
-| 11  | O planejamento considera no resultado um planejamento para o reprojeto do sistema?                                    |           |             |
-| 12  | O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato? |           |             |
+|  ID   |                                                    Descrição                                                     | Avaliação | Observações | Fonte                                                                                 |
+| :---: | :--------------------------------------------------------------------------------------------------------------: | :-------: | :---------: | ------------------------------------------------------------------------------------- |
+|   1   |                        As questões éticas foram descritas e tratadas de maneira adequada?                        |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.     |
+|   2   |                             Os objetivos do artefato estão claramente estabelecidos?                             |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.     |
+|   3   |                O método a ser utilizado foi descrito, bem como a justificativa para sua escolha?                 |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.     |
+|   4   |                 A seleção de usuários para a entrevista é compatível com o perfil dos usuários?                  |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 274.     |
+|   5   | Foram definidos o recrutamento dos participantes, os equipamentos que serão utilizados, os prazos e o orçamento? |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 273.     |
+|   6   |      A avaliação, interpretação e apresentação dos dados foram planejadas considerando o método escolhido?       |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279-280. |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
@@ -128,32 +119,22 @@ A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 <center>
 
-**Tabela 5** - Checklist para o Planejamento da Avaliação do Storyboard.
+**Tabela 4** - Checklist para o Planejamento da Avaliação do Storyboard.
 
-| ID  | Descrição                                                                                                                                                                                                                                                                        | Avaliação | Observações |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 1   | O documento possui os objetivos do planejamento?                                                                                                                                                                                                                                 |           |             |
-| 2   | O planejamento segue o framework DECIDE?                                                                                                                                                                                                                                         |           |             |
-| 3   | O documento do planejamento está estruturado de acordo com artefatos de planejamento anteriores (Ex: Utilizando o Framework DECIDE com seus tópicos)?                                                                                                                            |           |             |
-| 4   | O documento possui quais são os objetivos da avaliação?                                                                                                                                                                                                                          |           |             |
-| 5   | O documento possui quais são as perguntas a serem respondidas com a avaliação?                                                                                                                                                                                                   |           |             |
-| 6   | As perguntas selecionadas possuem fontes indicando de onde foram baseadas?                                                                                                                                                                                                       |           |             |
-| 7   | O documento possui quais são os métodos a serem utilizados na avaliação?                                                                                                                                                                                                         |           |             |
-| 8   | O documento possui os participantes da avaliação?                                                                                                                                                                                                                                |           |             |
-| 9   | O documento apresenta o motivo do número da escolha dos participantes?                                                                                                                                                                                                           |           |             |
-| 10  | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário?                                                                                                                                                                                     |           |             |
-| 11  | O documento apresenta o papel desempenhado por cada participantes?                                                                                                                                                                                                               |           |             |
-| 12  | O documento possui um cronograma com data, hora e local da realização da avaliação?                                                                                                                                                                                              |           |             |
-| 13  | O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação?                                                                                                                                                                                      |           |             |
-| 14  | O documento apresenta quais são os custos?                                                                                                                                                                                                                                       |           |             |
-| 15  | O documento apresenta quais são os recursos de mão de obra necessários?                                                                                                                                                                                                          |           |             |
-| 16  | O documento possui uma seção sobre como as questões éticas são lidadas?                                                                                                                                                                                                          |           |             |
-| 17  | O documento possui uma seção sobre os dados (interpretação e apresentação)?                                                                                                                                                                                                      |           |             |
-| 18  | O documento apresenta tarefas de como deve ser realizada a avaliação?                                                                                                                                                                                                            |           |             |
-| 19  | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto?                                                                                                                                              |           |             |
-| 20  | Possui uma gravação do teste piloto?                                                                                                                                                                                                                                             |           |             |
-| 21  | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.) |           |             |
-| 22  | Os storyboards estão relacionados com o artefato da Análise de Tarefas?                                                                                                                                                                                                          |           |             |
+|  ID   |                                                                      Descrição                                                                      | Avaliação | Observações | Fonte                                                                                  |
+| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------: | -------------------------------------------------------------------------------------- |
+|   1   |                                                 O planejamento foi feito usando o framework DECIDE?                                                 |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279-280.  |
+|   2   |                                                            Os objetivos foram definidos?                                                            |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   3   |                                          As perguntas que a avaliação pretende responder foram exploradas?                                          |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   4   |  Foram estabelecidas questões detalhadas para os objetivos da avaliação, considerando os usuários-alvo, suas atividades e os artefatos utilizados?  |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 265-266.  |
+|   5   |                            Os métodos de avaliação foram apresentados, juntamente com a justificativa para sua escolha?                             |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280, 272. |
+|   6   |            Foram detalhados prazos, orçamento, equipamentos disponíveis, bem como o grau de conhecimento e experiência dos avaliadores?             |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   7   |                                                         As questões éticas foram abordadas?                                                         |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   8   |                               Foi explicado como os dados da avaliação serão coletados, interpretados e apresentados?                               |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   9   | As etapas básicas dos métodos de avaliação, como preparação, coleta de dados, interpretação, consolidação e relato dos resultados, foram descritas? |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 273.      |
+|  10   |                                                           Foi realizado um teste piloto?                                                            |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 276.      |
+|  11   |                          Existe um plano para reprojetar, caso sejam identificados problemas ou oportunidades de melhoria?                          |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 273.      |
+|       |
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
@@ -161,48 +142,42 @@ A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 ### Planejamento do Relato dos Resultados do Storyboard
 
-A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o relato dos resultados segundo Barbosa e Silva (2011, p.358-362).
+A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o planejamento do relato dos resultados segundo Barbosa e Silva (2011, p.358-362).
 
 <center>
 
-**Tabela 6** - Checklist para o Planejamento do Relato dos Resultados do Storyboard.
+**Tabela 5** - Checklist para o Planejamento do Relato dos Resultados do Storyboard.
 
-| ID  | Descrição                                                                                                             | Avaliação | Observações |
-| --- | --------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
-| 1   | O planejamento define objetivo e escopo de avaliação dos resultados?                                                  |     -     |      -      |
-| 2   | O planejamento define método de avaliação dos resultados?                                                             |     -     |      -      |
-| 3   | O planejamento apresenta os participantes selecionados?                                                               |     -     |      -      |
-| 4   | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?                                 |     -     |      -      |
-| 5   | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados?                   |     -     |      -      |
-| 6   | O planejamento apresenta instruções com relação às sugestões de melhorias?                                            |     -     |      -      |
-| 7   | O planejamento apresenta uma seção para o feedback dos usuários?                                                      |     -     |      -      |
-| 8   | O planejamento aborda como será realizada a análise da interação do usuário com o artefato?                           |     -     |      -      |
-| 9   | O planejamento define tópico para sumarizar os principais resultados?                                                 |     -     |      -      |
-| 10  | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?                         |     -     |      -      |
-| 11  | O planejamento considera no resultado um planejamento para o reprojeto do sistema?                                    |     -     |      -      |
-| 12  | O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato? |     -     |      -      |
+|  ID   |                                                    Descrição                                                     | Avaliação | Observações | Fonte                                                                             |
+| :---: | :--------------------------------------------------------------------------------------------------------------: | :-------: | :---------: | --------------------------------------------------------------------------------- |
+|   1   |                        As questões éticas foram descritas e tratadas de maneira adequada?                        |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280. |
+|   2   |                             Os objetivos do artefato estão claramente estabelecidos?                             |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280. |
+|   3   |                O método a ser utilizado foi descrito, bem como a justificativa para sua escolha?                 |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280. |
+|   4   |                         Foi apresentada uma análise e interpretação dos dados coletados?                         |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
+|   5   | Foram definidos o recrutamento dos participantes, os equipamentos que serão utilizados, os prazos e o orçamento? |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 273. |
+|   6   |                         O artefato foi construído com base no planejamento da avaliação?                         |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280. |
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
 </center>
 
-### Storyboards
+### Relato dos Resultados dos Storyboards
 
-A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para o relato dos resultados segundo PREECE et al. (2007, p.427 e 447).
+A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para o relato dos resultados do Storyboard segundo PREECE et al. (2007, p.427 e 447).
 
 <center>
 
-**Tabela 7** - Checklist para os Storyboards.
+**Tabela 6** - Checklist para os Storyboards.
 
-| ID  | Descrição                                                                                                      | Avaliação | Observações |
-| --- | -------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
-| 1   | O storyboard apresenta os atores envolvidos?                                                                   |     -     |      -      |
-| 2   | O contexto e o ambiente estão apresentados e possuem lastro na realidade?                                      |     -     |      -      |
-| 3   | Cada storyboard representa ao menos uma atividade principal e os processos envolvidos?                         |     -     |      -      |
-| 4   | As atividades realizadas condizem com o contexto e seguem uma ordem lógica?                                    |     -     |      -      |
-| 5   | Dentro do contexto, o ator principal possui sua motivação explícita e condizente com o que a atividade oferta? |     -     |      -      |
-| 6   | Ao findar a atividade, o storyboard demonstra a satisfação do usuário?                                         |     -     |      -      |
-| 7   | O storyboard foi feito com base em um dos cenários criados para o projeto?                                     |     -     |      -      |
+|  ID   |                                                 Descrição                                                  | Avaliação | Observações | Fonte                                                                             |
+| :---: | :--------------------------------------------------------------------------------------------------------: | :-------: | :---------: | --------------------------------------------------------------------------------- |
+|   1   |            Os objetivos e o escopo da avaliação que originaram os resultados foram informados?             |     NÃO     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
+|   2   |                           A metodologia adotada para a avaliação foi informada?                            |     NÃO     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
+|   3   | Foram informados o número de participantes, os perfis de usuário e os avaliadores envolvidos na avaliação? |     NÃO     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
+|   4   |            Foi apresentado um sumário geral dos dados coletados, incluindo tabelas e gráficos?             |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
+|   5   |                          Foi feita a interpretação e análise dos dados coletados?                          |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
+|   6   |                            Foi apresentada uma lista dos problemas encontrados?                            |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
+|   7   |                      Existe um planejamento de reprojeto baseado nos dados coletados?                      |     -     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 

@@ -6,7 +6,7 @@ Realizado o planejamento do que verificar, é o momento de realizar a inspeção
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2024.1-CBMERJ/design_avaliacao_desenvolvimento/nivel_1/story_board/planejamento_avaliacao/) da Etapa 4 do [Grupo 07](https://interacao-humano-computador.github.io/2024.1-CBMERJ/).
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2024.1-DETRANDF/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-avaliacao-sb/) da Etapa 4 do [Grupo 06](https://interacao-humano-computador.github.io/2024.1-DETRANDF/).
 
 ## Metodologia
 
@@ -24,31 +24,20 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
 **Tabela 1** - Checklist de Verificação.
 
-|        ID        | Descrição                                                                                                                                                                                                                                                                        | Avaliação  | Observações |
-| :--------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | ----------- |
-| **Padronização** |                                                                                                                                                                                                                                                                                  |            |             |
-|        1        | O planejamento segue o framework DECIDE?                                                                                                                                                                                                                                         |    Sim     |             |
-|        2         | O documento do planejamento está estruturado de acordo com artefatos de planejamento anteriores (Ex: Utilizando o Framework DECIDE com seus tópicos)?                                                                                                                            |    Sim     |             |
-|        3         | O documento possui quais são os objetivos da avaliação?                                                                                                                                                                                                                          |    Sim     |             |
-|        4        | O documento possui quais são as perguntas a serem respondidas com a avaliação?                                                                                                                                                                                                   |    Sim     |             |
-|        5        | As perguntas selecionadas possuem fontes indicando de onde foram baseadas?                                                                                                                                                                                                       |    Sim     |             |
-|       6        | O documento possui quais são os métodos a serem utilizados na avaliação?                                                                                                                                                                                                         |    Sim     |             |
-|        7        | O documento possui os participantes da avaliação?                                                                                                                                                                                                                                |    Sim     |             |
-|        8        | O documento apresenta o motivo do número da escolha dos participantes?                                                                                                                                                                                                           |    Não     |             |
-|        9        | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário?                                                                                                                                                                                     |    Não     |             |
-|        10        | O documento apresenta o papel desempenhado por cada participantes?                                                                                                                                                                                                               |    Sim     |             |
-|        11        | O documento possui um cronograma com data, hora e local da realização da avaliação?                                                                                                                                                                                              |    Sim     |             |
-|        12        | O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação?                                                                                                                                                                                      |    Sim     |             |
-|        13        | O documento apresenta quais são os custos?                                                                                                                                                                                                                                       |    Sim     |             |
-|        14        | O documento apresenta quais são os recursos de mão de obra necessários?                                                                                                                                                                                                          |    Sim     |             |
-|        15        | O documento possui uma seção sobre como as questões éticas são lidadas?                                                                                                                                                                                                          |    Sim     |             |
-|        16        | O documento possui uma seção sobre os dados (interpretação e apresentação)?                                                                                                                                                                                                      |    Sim     |             |
-|        17        | O documento apresenta tarefas de como deve ser realizada a avaliação?                                                                                                                                                                                                            |    Sim     |             |
-|        18        | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto?                                                                                                                                              |    Sim     |             |
-|        19        | Possui uma gravação do teste piloto?                                                                                                                                                                                                                                             |    Sim     |             |
-|        20        | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.) |    Não     |             |
-|        21        | Os storyboards estão relacionados com o artefato da Análise de Tarefas?                                                                                                                                                                                                          | Incompleto |             |
-
+|  ID   |                                                                      Descrição                                                                      | Avaliação | Observações | Fonte                                                                                  |
+| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------: | -------------------------------------------------------------------------------------- |
+|   1   |                                                 O planejamento foi feito usando o framework DECIDE?                                                 |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279-280.  |
+|   2   |                                                            Os objetivos foram definidos?                                                            |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   3   |                                          As perguntas que a avaliação pretende responder foram exploradas?                                          |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   4   |  Foram estabelecidas questões detalhadas para os objetivos da avaliação, considerando os usuários-alvo, suas atividades e os artefatos utilizados?  |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 265-266.  |
+|   5   |                            Os métodos de avaliação foram apresentados, juntamente com a justificativa para sua escolha?                             |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280, 272. |
+|   6   |            Foram detalhados prazos, orçamento, equipamentos disponíveis, bem como o grau de conhecimento e experiência dos avaliadores?             |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   7   |                                                         As questões éticas foram abordadas?                                                         |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   8   |                               Foi explicado como os dados da avaliação serão coletados, interpretados e apresentados?                               |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   9   | As etapas básicas dos métodos de avaliação, como preparação, coleta de dados, interpretação, consolidação e relato dos resultados, foram descritas? |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 273.      |
+|  10   |                                                           Foi realizado um teste piloto?                                                            |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 276.      |
+|  11   |                          Existe um plano para reprojetar, caso sejam identificados problemas ou oportunidades de melhoria?                          |    NÃO    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 273.      |
+|       |
 _Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00), 2024._
 
 </center>
@@ -57,31 +46,11 @@ _Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00), 2024._
 
 Com base na tabela preenchida, serão feitas considerações acerca de alguns itens da tabela.
 
-### ID 7 - O documento apresenta o motivo do número da escolha dos participantes?
-
-O documento não apresenta o motivo do número da escolha dos participantes. É importante que o documento apresente o motivo da escolha dos participantes, pois isso pode influenciar diretamente na análise dos resultados.
-
-### ID 9 - O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário?
-
-O documento não apresenta o perfil definido aos participantes de acordo com o perfil de usuário. É importante que o documento apresente o perfil definido aos participantes, referenciando as perguntas que foram levantadas na análise do perfil do usuário, melhorando a compreensão do avaliador, bem como o prosseguimento da avaliação caso o entrevistado não seja compatível com o perfil de usuário, podendo ser substituído por outro participante, evitando assim possíveis erros na avaliação.
-
-### ID 20 - O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação?
-
-O planejamento não apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação. É importante que o documento apresente como serão documentados e tratados os dados obtidos durante o processo de avaliação, pois isso pode influenciar diretamente na análise dos resultados, principalmente falando a respeito do contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.
-
-### ID 21 - Os storyboards estão relacionados com o artefato da Análise de Tarefas?
-
-Nem todos os storyboards estão relacionados com o artefato da Análise de Tarefas. É importante que os storyboards estejam relacionados com o artefato da Análise de Tarefas, pois isso pode influenciar diretamente na análise dos resultados, melhorando a compreensão do avaliador, bem como o prosseguimento da avaliação, evitando inconsistências e possíveis erros na avaliação.
-
+### ID 11 - Existe um plano para reprojetar, caso sejam identificados problemas ou oportunidades de melhoria?
 
 ## Sugestões de Correções
 
-Tendo em vista os problemas abordados anteriormente, fica como sugestão a realização das seguintes correções:
-
-- Inserir o motivo do número da escolha dos participantes;
-- Inserir o perfil definido aos participantes de acordo com o perfil de usuário;
-- Inserir como serão documentados e tratados os dados obtidos durante o processo de avaliação.
-- Relacionar todos os storyboards com os artefatos da Análise de Tarefas.
+O item 11 da checklist não foi atendido. Para corrigir esse problema, é necessário criar um plano de ação para reprojetar o artefato, caso sejam identificados problemas ou oportunidades de melhoria. Esse plano deve ser detalhado e conter as etapas necessárias para a correção do artefato.
 
 ## Acompanhamento
 
@@ -89,7 +58,7 @@ A figura 1 é possível análisar um gráfico com o percentual de erros e acerto
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado da Checklist.</p></font>
-<iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR3MVzA3YqsA9BFsnNEfxxqoXiAKdV707I1Fk9otAVU83qTtaSDkRSKTJ8P2xds5-3OuzFI9jHjTdRM/pubchart?oid=64786241&amp;format=interactive"></iframe><figcaption><font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font></figcaption>
+<iframe width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR9VoUT8bjBrSCNwu2cgBFb8HPhEsMxLxvIrF_C_MwW9FpNomR3oVgD56kJuTa4AZzVijRhh07mIalG/pubchart?oid=1316620803&amp;format=interactive"></iframe>Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font></figcaption>
 </figure>
 
 ## Bibliografia
@@ -101,3 +70,4 @@ A figura 1 é possível análisar um gráfico com o percentual de erros e acerto
 | Versão | Data       | Descrição                                   | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------------ | ----------- |
 | `1.0`  | 11/06/2024 | Criação da página e sua devida documentação | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
+| `1.1`  | 26/06/2024 | Verificação                                 | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |

@@ -1,4 +1,4 @@
-# Verificação dos Storyboards
+# Verificação dos Relatos dos Resultados dos Storyboards
 
 ## Introdução
 
@@ -6,7 +6,7 @@ Realizado o planejamento do que verificar, é o momento de realizar a inspeção
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato [Storyboards](https://interacao-humano-computador.github.io/2024.1-CBMERJ/design_avaliacao_desenvolvimento/nivel_1/story_board/storyboards/) da Etapa 4 do [Grupo 07](https://interacao-humano-computador.github.io/2024.1-CBMERJ/).
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato [Relato dos Resultados Storyboards](https://interacao-humano-computador.github.io/2024.1-DETRANDF/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/relato-resultado-storyboard/) da Etapa 4 do [Grupo 06](https://interacao-humano-computador.github.io/2024.1-DETRANDF/).
 
 ## Metodologia
 
@@ -24,15 +24,15 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
 **Tabela 1** - Checklist de Verificação.
 
-|  ID   | Descrição | Avaliação | Observações |
-| :---: | --------- | :-------: | ----------- ||
-|   1   | O storyboard apresenta os atores envolvidos?                                                                   | Incompleto |                                                                                                   |
-|   2   | O contexto e o ambiente estão apresentados e possuem lastro na realidade?                                      | Incompleto |                                                                                                   |
-|   3   | Cada storyboard representa ao menos uma atividade principal e os processos envolvidos?                         | Incompleto |                                                                                                   |
-|   4   | As atividades realizadas condizem com o contexto e seguem uma ordem lógica?                                    | Incompleto |                                                                                                   |
-|  5   | Dentro do contexto, o ator principal possui sua motivação explícita e condizente com o que a atividade oferta? | Incompleto |                                                                                                   |
-|  6   | Ao findar a atividade, o storyboard demonstra a satisfação do usuário?                                         | Incompleto |                                                                                                   |
-|  7   | O storyboard foi feito com base em um dos cenários criados para o projeto?                                     |    Sim     |                                                                                                   |
+|  ID   |                                                 Descrição                                                  | Avaliação  | Observações | Fonte                                                                             |
+| :---: | :--------------------------------------------------------------------------------------------------------: | :--------: | :---------: | --------------------------------------------------------------------------------- |
+|   1   |            Os objetivos e o escopo da avaliação que originaram os resultados foram informados?             |    SIM     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
+|   2   |                           A metodologia adotada para a avaliação foi informada?                            |    SIM     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
+|   3   | Foram informados o número de participantes, os perfis de usuário e os avaliadores envolvidos na avaliação? | INCOMPLETO |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
+|   4   |            Foi apresentado um sumário geral dos dados coletados, incluindo tabelas e gráficos?             | INCOMPLETO |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
+|   5   |                          Foi feita a interpretação e análise dos dados coletados?                          | INCOMPLETO |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
+|   6   |                            Foi apresentada uma lista dos problemas encontrados?                            | INCOMPLETO |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
+|   7   |                      Existe um planejamento de reprojeto baseado nos dados coletados?                      |    SIM     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
 
 _Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00), 2024._
 
@@ -42,18 +42,20 @@ _Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00), 2024._
 
 Com base na tabela preenchida, serão feitas considerações acerca de alguns itens da tabela.
 
-### ID's 1, 2, 3, 4, 5 e 6
+### ID 3 - Número de Participantes, Perfis de Usuário e Avaliadores
 
-O Storyboard da Tarefa 4 não apresenta uma motivação, o que pode dificultar a compreensão do contexto e a identificação do problema a ser resolvido, além de não apresentar a satisfação do usuário ao final da atividade. Também não apresenta os atores envolvidos, o contexto e o ambiente, as atividades realizadas e a motivação do ator principal, o que dificulta a compreensão do contexto e a identificação do problema a ser resolvido, assim como a conexão completa com a realidade.
+Apesar de ser informado o número de participantes, os perfis e avaliadores, não foi informado o motivo da escolha do número de participantes.
+
+### ID`s 4, 5 e 6 - Sumário Geral dos Dados, Interpretação e Análise dos Dados e Lista de Problemas
+
+Os itens 4, 5 e 6 foram marcados como incompletos, pois não foi feita todas as entrevistas para cada um dos storyboards, o que impossibilitou a coleta de dados para a realização desses itens.
 
 ## Sugestões de Correções
 
 Tendo em vista os problemas abordados anteriormente, fica como sugestão a realização das seguintes correções:
 
-- Apresentar uma motivação externa e plausível para o ator do storyboard querer compartilhar algum evento.
-- Apresentar a satisfação do usuário ao final da atividade.
-- Apresentar os atores envolvidos, o contexto e o ambiente, as atividades realizadas e a motivação do ator principal.
-- Revisar a referência bibliográfica para que fique no mesmo padrão dos outros documentos.
+- Informar o motivo da escolha do número de participantes.
+- Efetuar todas as entrevistas para cada um dos storyboards.
 
 ## Acompanhamento
 
@@ -61,7 +63,7 @@ A figura 1 é possível analisar um gráfico com o percentual de erros e acertos
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado da Checklist.</p></font>
-<iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR3MVzA3YqsA9BFsnNEfxxqoXiAKdV707I1Fk9otAVU83qTtaSDkRSKTJ8P2xds5-3OuzFI9jHjTdRM/pubchart?oid=282101453&amp;format=interactive"></iframe><figcaption><font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font></figcaption>
+<iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR9VoUT8bjBrSCNwu2cgBFb8HPhEsMxLxvIrF_C_MwW9FpNomR3oVgD56kJuTa4AZzVijRhh07mIalG/pubchart?oid=1950061021&amp;format=interactive"></iframe><figcaption><font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font></figcaption>
 </figure>
 
 ## Gravação da Verificação
@@ -80,3 +82,4 @@ A figura 1 é possível analisar um gráfico com o percentual de erros e acertos
 | Versão | Data       | Descrição                                   | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------------ | ----------- |
 | `1.0`  | 25/06/2024 | Criação da página e sua devida documentação | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
+| `1.1`  | 26/06/2024 | Verificação                                 | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
