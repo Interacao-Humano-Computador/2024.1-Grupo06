@@ -2,58 +2,56 @@
 
 ## Introdução
 
-Este documento visa documentar a inspeção do perfil de usuário da etapa 2 do [Grupo 07](https://interacao-humano-computador.github.io/2024.1-CBMERJ/) seguindo o [Planejamento da Verficação](../etapa-2/planejamento.md)
+Este documento visa documentar a inspeção do perfil de usuário da etapa 2 do [Grupo 06](https://interacao-humano-computador.github.io/2024.1-DETRANDF) seguindo o [Planejamento da Verficação](./planejamento.md)
 
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas sobre o artefato perfil do usuário da Etapa 4 do [Grupo 07](https://interacao-humano-computador.github.io/2024.1-CBMERJ/).
+O objetivo deste documento é relatar os resultados das verificações realizadas sobre o artefato perfil do usuário da Etapa 4 do [Grupo 06](https://interacao-humano-computador.github.io/2024.1-DETRANDF).
 
 ## Metodologia
 
-Os resultados da verificação dos artefatos foram obtidos a partir das checklists elaboradas na página de [planejamento](./planejamento-verificacao-etapa-2). Para responder às perguntas das checklists, o avaliador usará as opções **Sim**, **Não** ou **Incompleto**. O avaliador também poderá escrever observações em cada pergunta, detalhando pontos que considerar necessários.
+Os resultados da verificação dos artefatos foram obtidos a partir das checklists elaboradas na página de [planejamento](./planejamento.md). Para responder às perguntas das checklists, o avaliador usará as opções **Sim**, **Não** ou **Incompleto**. O avaliador também poderá escrever observações em cada pergunta, detalhando pontos que considerar necessários.
 
 ## Cronograma e Participantes
 
-O participante será o integrante do Grupo 06, [Pedro Sena](https://github.com/pedroyen21), que será responsável pela avaliação e revisão dos artefatos. O cronograma seguido já foi detalhado na página de [planejamento](./planejamento-verificacao-etapa-2).
-
+Quem fez a revisão do checklist foi o integrante Vinicius Vieira, e o executor será o integrante [](https://github.com/). O cronograma seguido já foi detalhado na página de [planejamento](./planejamento.md).
 <center>
 
 ### Checklist
 
 <center>
 
-| ID  | Descrição                                                                                                    | Avaliação | Observações |
-| --- | ------------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 1   | O artefato está com uma introdução? | Sim|     -        |
-| 2   | O artefato está com uma bibliografia/referência bibliográfica?|     Sim      |       -      |
-| 3   | O artefato está com um histórico de versões com o número e descrição das versões, data, autores e revisores? | Sim    |       -      |
-| 4   | Todas as tabelas e imagens que são chamadas no texto, possuem legendas e fontes?  | SIm           |    -         |
-| 5   | Todos os textos estão na norma padrão e devidamente justificados?| Sim |    -  |
-| 6   | Perfil do usuário possui características de interese (cargo, função etc)?    |     Não     |      -      |
-| 7   | As características do perfil do usário são priorizadas conforme o produto?    |     Não     |      -      |
-| 8   | O perfil do usuário possui dados sobre experiência com tecnologia?    |     Não     |      -      |
-| 9   | O perfil do usuário possui dados sobre o conhecimento do produto e das tarefas que vai realizar?    |     Não     |      -      |
-| 10   | (Grupo Focal) Teve moderador?    |     Sim     |    -          |
-| 11   | (Grupo Focal) Os participantes tiveram uma conversa balanceada?    |     Sim     |      -      |
-| 12   | (Grupo Focal) Evitaram falar de tópicos polêmicos?   |     Sim     |      -      |
-| 13   | (Grupo Focal) Conseguiram extrair informações importantes?  |     Sim     |      -      |
-| 14   | (Questionário) Contém instruções claras sobre como responder cada pergunta?   |     Não     |      Não mostrado      |
-| 15  | (Questionário) Explicita se uma pergunta admite um resposta ou múltiplas respostas?   |    Não      |      Não mostrado      |
-| 16   | (Questionário) Utiliza símbolos informativos consistentemente?   |     Não     |      Não mostrado      |
-| 17   | (Questionário) Possui perguntas demográficas básicas (sexo, idade)?   |     Sim     |     -       |
 
-
+| ID  | Descrição          | Página | Avaliação | Observações |
+| --- | ----- | ------------ | :-------: | :---------: |
+| 1   | Possui características de interese (cargo, função, nível de instrução, faixa etária)?  | 174 |     -     |      -      |
+| 2   | As características são priorizadas conforme o produto?    | 175 |     -     |      -      |
+| 3   | Possui dados sobre experiência com tecnologia?    | 174 |    -     |      -      |
+| 4   | Possui dados sobre o conhecimento do produto e das tarefas que vai realizar? | 174  |     -     |      -      |
+| 5   | (Questionário) Contém instruções claras sobre como responder cada pergunta?  | 150 |     -     |      -      |
+| 6  | (Questionário) Explicita se uma pergunta admite uma resposta ou múltiplas respostas?| 150  |     -     |      -      |
+| 7   | (Questionário) Utiliza símbolos informativos consistentemente?   | 150 |     -     |      -      |
+| 8   | (Questionário) Possui perguntas demográficas básicas (sexo, idade)?  | 151 |     -     |      -      |
 
 _Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
+
+## Acompanhamento
+
+A figura 1 é possível análisar um gráfico com o percentual de erros e acertos de acordo com checklist dos resultados obtidos acima.
+
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado da Checklist.</p></font>
+<iframe width="539" height="333" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR3MVzA3YqsA9BFsnNEfxxqoXiAKdV707I1Fk9otAVU83qTtaSDkRSKTJ8P2xds5-3OuzFI9jHjTdRM/pubchart?oid=980174922&amp;format=interactive"></iframe><figcaption><font size="3"><p style="text-align: center">Fonte: [Pedro Sena](https://github.com/pedroyen21).</p></font></figcaption>
+</figure>
 
 </center>
 ## Referências Bibliográficas
 
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro, 2021.
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro, 2011.
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                   | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------------ | ----------- |
-| `1.0`  | 12/06/2024 | Criação da página e sua devida documentação | [Pedro Sena](https://github.com/pedroyen21) | --          |
+| `1.0`  | 25/06/2024 | Criação da página e sua devida documentação | [Pedro Sena](https://github.com/pedroyen21) | --          |
