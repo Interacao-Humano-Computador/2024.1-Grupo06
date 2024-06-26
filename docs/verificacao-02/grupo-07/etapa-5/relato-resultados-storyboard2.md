@@ -1,8 +1,9 @@
+
 # Verificação do Relato dos Resultados do Storyboard
 
 ## Introdução
 
-Com o planejamento da verificação concluído, é hora de realizar a inspeção propriamente dita. Este documento apresenta os objetivos da verificação, a metodologia utilizada e os dados coletados durante o processo. Ademais, os principais obstáculos encontrados serão resumidos e analisados. Essas informações valiosas servirão para recomendar ações corretivas para os artefatos em questão.
+Após um período e feita a primeira verificação sobre os artefatos do grupo 7, é chegada a hora para refazer a verificação, com o intuito de apontar e identificar as partes que foram explicitadas na primeira verificação. 
 
 ## Objetivo
 
@@ -31,7 +32,7 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 | 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim       |             |
 | 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                    | Sim       |             |
 | 5  | Todos os textos estão na norma padrão?                                                          | Sim       |             |
-| 6  | Define objetivo e escopo de avaliação dos resultados?                                           | Incompleto          |             |
+| 6  | Define objetivo e escopo de avaliação dos resultados?                                           | Sim          |      Definido em outro documento, porém indicado no própria análise em si.        |
 | 7  | Define o método de avaliação dos resultados?                                                    | Sim         |             |
 | 8  | O relato apresenta os participantes selecionados?                                               | Sim         |             |
 | 9  | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?           | Sim         |             |
@@ -49,30 +50,6 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 _Fonte: [Filipe Carvalho](https://github.com/filipe-002), 2024._
 
 </center>
-
-## Problemas encontrados
-
-Com base na tabela preenchida, serão feitas considerações acerca de alguns itens da tabela.
-
-### ID 6 - Define objetivo e escopo de avaliação dos resultados?
-
-Ao longo do texto, os objetivos e o escopo tornam-se mais claros. No entanto, seria mais eficaz incluir um tópico específico que explicite todos os objetivos e o escopo. Isso ajudaria o leitor a identificar rapidamente essas informações e iniciar a leitura com uma compreensão clara do que deve ser feito.
-
-### ID 12 - Apresenta uma seção para o feedback dos usuários?
-
-Os feedbacks são abordados no tópico "Interpretação dos dados". Dada a importância dos feedbacks para o andamento do projeto, é essencial que haja uma seção dedicada exclusivamente a tratar deles.
-
-### ID 14 - Define um tópico para sumarizar os principais resultados?
-
-Novamente, os principais resultados são abordados nos tópicos de entrevistas, o que pode dificultar a identificação clara desses resultados. É necessário criar uma seção específica que explicite os principais resultados e como eles se relacionam com o prosseguimento do projeto.
-
-### ID 15 - Define um tópico para sumarizar os principais resultados?
-
-Não foi identificado um tópico para tal. É de fundamental importância que haja uma sessão dedicada a tal.
-
-### ID 16 - Considera um planejamento para o reprojeto do sistema?
-
-O planejamento para o reprojeto é abordado ao longo do texto, mas não há um tópico específico dedicado a esse assunto. É essencial criar um tópico exclusivo para isso, a fim de facilitar a compreensão dos problemas e das futuras correções necessárias.
 
 
 ## Sugestões de Correções
@@ -93,5 +70,4 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 
 | Versão | Data       | Descrição                                   | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------------ | ----------- |
-| `1.0`  | 12/06/2024 | Criação da página e ajuste da documentação | [Filipe Carvalho](https://github.com/filipe-002) | --          |
-| `1.1`  | 12/06/2024 | Exclusão da sessão de acompanhamento | [Filipe Carvalho](https://github.com/filipe-002) | --          |
+| `1.0`  | 26/06/2024 | Criação da página e ajuste da documentação | [Filipe Carvalho](https://github.com/filipe-002) | --          |

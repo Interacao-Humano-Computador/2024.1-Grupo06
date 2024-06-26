@@ -1,12 +1,12 @@
-# Verificação do Relato dos Resultados da Análise de Tarefas
+# Segunda Verificação do Relato dos Resultados da Análise de Tarefas
 
 ## Introdução
 
-Após concluir o planejamento do que será verificado, chega o momento de executar a inspeção propriamente dita. Este documento descreve os objetivos da verificação, a metodologia empregada e os dados obtidos durante o processo. Além disso, os principais obstáculos identificados serão resumidos e analisados. Essas informações valiosas serão usadas para recomendar ações corretivas para os artefatos em questão.
+Após um período e feita a primeira verificação sobre os artefatos do grupo 7, é chegada a hora para refazer a verificação, com o intuito de apontar e identificar as partes que foram explicitadas na primeira verificação. 
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato [Relato dos Resultados da Análise de Tarefas](https://interacao-humano-computador.github.io/2024.1-CBMERJ/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados/) da Etapa 5 do [Grupo 07](https://interacao-humano-computador.github.io/2024.1-CBMERJ/).
+O objetivo deste documento é relatar novamente os resultados das verificações realizadas acerca do artefato [Relato dos Resultados da Análise de Tarefas](https://interacao-humano-computador.github.io/2024.1-CBMERJ/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados/) da Etapa 5 do [Grupo 07](https://interacao-humano-computador.github.io/2024.1-CBMERJ/).
 
 ## Metodologia
 
@@ -31,7 +31,7 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 | 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim       |             |
 | 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                    | Sim       |             |
 | 5  | Todos os textos estão na norma padrão?                                                          | Sim       |             |
-| 6  | Define objetivo e escopo de avaliação dos resultados?                                           | Incompleto          |             |
+| 6  | Define objetivo e escopo de avaliação dos resultados?                                           | Sim        |  Definido em outro documento, porém indicado no própria análise em si.           |
 | 7  | Define o método de avaliação dos resultados?                                                    | Sim          |             |
 | 8  | O relato apresenta os participantes selecionados?                                               | Sim          |             |
 | 9  | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?           | Sim          |             |
@@ -50,25 +50,6 @@ _Fonte: [Filipe Carvalho](https://github.com/filipe-002), 2024._
 
 </center>
 
-## Problemas encontrados
-
-Com base na tabela preenchida, serão feitas considerações acerca de alguns itens da tabela.
-
-### ID 6 - Define objetivo e escopo de avaliação dos resultados?
-
-Ao longo do texto, o objetivo vai ficando mais claro, assim como o escopo. Porém seria mais interessante se houvesse um tópico explicitando todos os objetivos e o escopo. Isso facilita para o leitor logo identificar nos textos e já iniciar a leitura tendo em mente o que se deve fazer.
-
-### ID 12 - Apresenta uma seção para o feedback dos usuários?
-
-Os feedbacks são tratados no tópico "Interpretação dos dados". Dado a importância dos feedbacks para prosseguimento do projeto, é importante que haja uma sessão dedicada a tratar dos tais.
-
-### ID 14 - Define um tópico para sumarizar os principais resultados?
-
-Novamente, os principais resultados são tratados nos tópicos de entrevistas, não ficando muito claro onde estão. É necessário que haja uma sessão explicitando os principais resultados e como eles se encaixam no prosseguimento do projeto.
-
-### ID 16 - Considera um planejamento para o reprojeto do sistema?
-
-O planejamento para o reprojeto se mostra ao longo do texto, porém não foi identificado o tópico tratando desse assunto. Mostra-se essencial um tópico dedicado a isso, para melhor entendimento dos problemas e futuras correções.
 
 
 ## Sugestões de Correções
@@ -89,5 +70,4 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 
 | Versão | Data       | Descrição                                   | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------------ | ----------- |
-| `1.0`  | 12/06/2024 | Criação da página e ajuste da documentação | [Filipe Carvalho](https://github.com/filipe-002) | --          |
-| `1.1`  | 12/06/2024 | Exclusão da sessão de acompanhamento | [Filipe Carvalho](https://github.com/filipe-002) | --          |
+| `1.0`  | 26/06/2024 | Criação da página e ajuste da documentação | [Filipe Carvalho](https://github.com/filipe-002) | --          |

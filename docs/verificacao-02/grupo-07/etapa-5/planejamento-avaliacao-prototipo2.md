@@ -1,8 +1,9 @@
+
 # Verificação do Planejamento da Avaliação do Protótipo de Papel
 
 ## Introdução
 
-Com o planejamento da verificação concluído, é hora de realizar a inspeção propriamente dita. Este documento descreve os objetivos da verificação, a metodologia adotada e os dados coletados durante o processo. Além disso, os principais obstáculos encontrados serão resumidos e analisados. Essas informações serão fundamentais para recomendar ações corretivas para os artefatos em questão.
+Após feita a primeira verificação dos artefatos do Grupo 6, iremos agora verificar o resultado, isto é, após feita a apresentação e mostrada ao grupo em sala de aula, novamente verificaremos os artefatos, apontando as devidas correções e utilizando os mesmos parâmetros (checklists e textos explicativos) para tal.
 
 ## Objetivo
 
@@ -31,7 +32,7 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 | 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim       |             |
 | 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                    | Sim       |             |
 | 5  | Todos os textos estão na norma padrão?                                                          | Sim       |             |
-| 6  | O documento possui os objetivos do planejamento?                                                | Não          |             |
+| 6  | O documento possui os objetivos do planejamento?                                                | Sim          |             |
 | 7  | O planejamento segue o framework DECIDE?                                                        | Sim          |             |
 | 8  | O documento do planejamento está estruturado de acordo com artefatos de planejamento anteriores (Ex: Utilizando o Framework DECIDE com seus tópicos)? |    Sim      |             |
 | 9  | O documento possui quais são os objetivos da avaliação?                                         |   Sim        |             |
@@ -60,16 +61,6 @@ _Fonte: [Filipe Carvalho](https://github.com/filipe-002), 2024._
 
 </center>
 
-## Problemas encontrados
-
-Com base na tabela preenchida, serão feitas considerações acerca de alguns itens da tabela.
-
-### ID 6 - Define objetivo e escopo de avaliação dos resultados?
-
-Ao longo do texto, os objetivos e o escopo tornam-se mais claros. No entanto, seria mais eficaz incluir um tópico específico que explicite todos os objetivos e o escopo. Isso ajudaria o leitor a identificar rapidamente essas informações e iniciar a leitura com uma compreensão clara do que deve ser feito.
-
-Por conta dos prazos, o restante dos problemas apresentados, se tratam de artefatos ainda não adicionados na página, portanto, no momento eles se encontram indisponíveis.
-
 
 ## Sugestões de Correções
 
@@ -86,5 +77,4 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 
 | Versão | Data       | Descrição                                   | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------------ | ----------- |
-| `1.0`  | 12/06/2024 | Criação da página e ajuste da documentação | [Filipe Carvalho](https://github.com/filipe-002) | --          |
-| `1.1`  | 12/06/2024 | Exclusão da sessão de acompanhamento | [Filipe Carvalho](https://github.com/filipe-002) | --          |
+| `1.0`  | 26/06/2024 | Criação da página e ajuste da documentação | [Filipe Carvalho](https://github.com/filipe-002) | --          |
