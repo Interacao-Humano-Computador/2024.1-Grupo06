@@ -25,14 +25,14 @@ Quem fez a revisão do checklist foi o integrante Vinicius Vieira, e o executor 
 
 | ID  | Descrição          | Página | Avaliação | Observações |
 | --- | ----- | ------------ | :-------: | :---------: |
-| 1   | Possui características de interese (cargo, função, nível de instrução, faixa etária)?  | 174 |     -     |      -      |
-| 2   | As características são priorizadas conforme o produto?    | 175 |     -     |      -      |
-| 3   | Possui dados sobre experiência com tecnologia?    | 174 |    -     |      -      |
-| 4   | Possui dados sobre o conhecimento do produto e das tarefas que vai realizar? | 174  |     -     |      -      |
-| 5   | (Questionário) Contém instruções claras sobre como responder cada pergunta?  | 150 |     -     |      -      |
-| 6  | (Questionário) Explicita se uma pergunta admite uma resposta ou múltiplas respostas?| 150  |     -     |      -      |
-| 7   | (Questionário) Utiliza símbolos informativos consistentemente?   | 150 |     -     |      -      |
-| 8   | (Questionário) Possui perguntas demográficas básicas (sexo, idade)?  | 151 |     -     |      -      |
+| 1   | Possui características de interese (cargo, função, nível de instrução, faixa etária)?  | 174 |     Sim     |      -      |
+| 2   | As características são priorizadas conforme o produto?    | 175 |     Sim     |      -      |
+| 3   | Possui dados sobre experiência com tecnologia?    | 174 |    Sim     |      -      |
+| 4   | Possui dados sobre o conhecimento do produto e das tarefas que vai realizar? | 174  |     Sim     |      -      |
+| 5   | (Questionário) Contém instruções claras sobre como responder cada pergunta?  | 150 |     Sim    |      -      |
+| 6  | (Questionário) Explicita se uma pergunta admite uma resposta ou múltiplas respostas?| 150  |     Sim    |      -      |
+| 7   | (Questionário) Utiliza símbolos informativos consistentemente?   | 150 |     Sim    |      -      |
+| 8   | (Questionário) Possui perguntas demográficas básicas (sexo, idade)?  | 151 |     Sim    |      -      |
 
 _Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
 
