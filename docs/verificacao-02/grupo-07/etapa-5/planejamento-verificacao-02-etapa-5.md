@@ -2,11 +2,11 @@
 
 ## Introdução
 
-A verificação é uma etapa essencial no desenvolvimento de um projeto, durante a qual os artefatos produzidos são examinados para assegurar que estejam de acordo com os requisitos estabelecidos. Este documento apresenta o plano de verificação dos artefatos desenvolvidos pelo [Grupo 07](https://interacao-humano-computador.github.io/2024.1-CBMERJ/) na Etapa 5.
+Após feita a primeira verificação dos artefatos do Grupo 6, iremos agora verificar o resultado, isto é, após feita a apresentação e mostrada ao grupo em sala de aula, novamente verificaremos os artefatos, apontando as devidas correções e utilizando os mesmos parâmetros (checklists e textos explicativos) para tal.
 
 ## Objetivos
 
-Este documento tem como objetivo verificar se os artefatos criados pelo [Grupo 07](https://interacao-humano-computador.github.io/2024.1-CBMERJ/) na Etapa 5 atendem aos critérios e padrões definidos.
+Este documento tem como objetivo verificar se os artefatos criados pelo [Grupo 07](https://interacao-humano-computador.github.io/2024.1-CBMERJ/) na Etapa 5 atendem aos critérios e padrões definidos e se as falhas apontadas na [verificação anterior](https://interacao-humano-computador.github.io/2024.1-DETRANDF/verificacao/grupo-07/etapa-5/planejamento-verificacao-etapa-5/) foram devidamente corrigidas.
 
 ## Metodologia
 
@@ -34,7 +34,7 @@ Os resultados das verificações em si serão apresentados em páginas separadas
 
 ### Cronograma
 
-A verificação será realizada no período de 12 de junho de 2024 e terminará no mesmo dia, com os resultados sendo relatados através da página de documentação do [Grupo 07](https://interacao-humano-computador.github.io/2024.1-CBMERJ/) no dia 12 de junho de 2024. A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
+A verificação será realizada no período de 26 de junho de 2024 e terminará no mesmo dia, com os resultados sendo relatados através da página de documentação do [Grupo 07](https://interacao-humano-computador.github.io/2024.1-CBMERJ/) no dia 26 de junho de 2024. A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 <center>
 
@@ -42,11 +42,11 @@ A verificação será realizada no período de 12 de junho de 2024 e terminará 
 
 | Data       | Descrição                                                                   | Responsável                                                                                               |
 | ---------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| 12/06/2024 | Verificação do Relato dos Resultados da Análise de Tarefas           | [Filipe Carvalho](https://github.com/filipe-002)                                                    |
-| 12/06/2024 | Verificação do Relato dos Resultados do Storyboard | [Filipe Carvalho](https://github.com/filipe-002)                                                    |
-| 12/06/2024 | Verificação do Planejamento da Avaliação do Protótipo de Papel                     | [Filipe Carvalho](https://github.com/filipe-002)                                                    |
-| 12/06/2024 | Verificação do Planejamento do Relato dos Resultados do Storyboard.         | [Filipe Carvalho](https://github.com/filipe-002)                                                    |
-| 12/06/2024 | Adição da documentação na página do grupo.                                  | [Filipe Carvalho](https://github.com/filipe-002) e [](https://github.com/) |                                               |
+| 26/06/2024 | Verificação do Relato dos Resultados da Análise de Tarefas           | [Filipe Carvalho](https://github.com/filipe-002)                                                    |
+| 26/06/2024 | Verificação do Relato dos Resultados do Storyboard | [Filipe Carvalho](https://github.com/filipe-002)                                                    |
+| 26/06/2024 | Verificação do Planejamento da Avaliação do Protótipo de Papel                     | [Filipe Carvalho](https://github.com/filipe-002)                                                    |
+| 26/06/2024 | Verificação do Planejamento do Relato dos Resultados do Storyboard.         | [Filipe Carvalho](https://github.com/filipe-002)                                                    |
+| 26/06/2024 | Adição da documentação na página do grupo.                                  | [Filipe Carvalho](https://github.com/filipe-002)  |                                               |
 
 _Fonte: [Filipe Carvalho](https://github.com/filipe-002), 2024._
 
@@ -206,4 +206,4 @@ A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 | Versão | Data       | Descrição                                   | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------------ | ----------- |
-| `1.0`  | 12/06/2024 | Criação da página e ajuste das documentações | [Filipe Carvalho](https://github.com/filipe-002) | --          |
+| `1.0`  | 26/06/2024 | Criação da página e ajuste das documentações | [Filipe Carvalho](https://github.com/filipe-002) | --          |

@@ -2,8 +2,7 @@
 
 ## Introdução
 
-
-Com o planejamento da verificação concluído, é hora de realizar a inspeção propriamente dita. Este documento detalha os objetivos da verificação, a metodologia utilizada e os dados coletados durante o processo. Além disso, os principais obstáculos identificados serão resumidos e analisados. Essas informações serão essenciais para recomendar ações corretivas para os artefatos em questão
+Após feita a primeira verificação dos artefatos do Grupo 6, iremos agora verificar o resultado, isto é, após feita a apresentação e mostrada ao grupo em sala de aula, novamente verificaremos os artefatos, apontando as devidas correções e utilizando os mesmos parâmetros (checklists e textos explicativos) para tal.
 
 ## Objetivo
 
@@ -63,5 +62,4 @@ Não há sugestões de correção.
 
 | Versão | Data       | Descrição                                   | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------------ | ----------- |
-| `1.0`  | 12/06/2024 | Criação da página e ajuste da documentação | [Filipe Carvalho](https://github.com/filipe-002) | --          |
-| `1.1`  | 12/06/2024 | Exclusão da sessão de acompanhamento | [Filipe Carvalho](https://github.com/filipe-002) | --          |
+| `1.0`  | 26/06/2024 | Criação da página e ajuste da documentação | [Filipe Carvalho](https://github.com/filipe-002) | --          |

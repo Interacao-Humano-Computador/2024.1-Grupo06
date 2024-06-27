@@ -1,0 +1,73 @@
+# Verificação do Planejamento da Avaliação da Análise de Tarefas
+
+## Introdução
+
+Após o planejamento do que verificar, é hora de realizar a inspeção propriamente dita. Este documento detalha os objetivos da verificação, a metodologia utilizada e os dados coletados. Além disso, os principais problemas encontrados são resumidos e analisados, fornecendo informações valiosas para sugerir ações corretivas.
+
+## Objetivo
+
+O objetivo deste documento é relatar os resultados das verificações realizadas sobre o artefato  [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2024.1-DETRANDF/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-avaliacao-at/) da Etapa 4 do [Grupo 06](https://interacao-humano-computador.github.io/2024.1-DETRANDF/).
+
+## Metodologia
+
+Os resultados da verificação dos artefatos foram obtidos a partir das checklists elaboradas na página de [planejamento](./planejamento-verificacao-etapa-4). Para responder às perguntas das checklists, o avaliador usará as opções **Sim**, **Não** ou **Incompleto**. O avaliador também poderá escrever observações em cada pergunta, detalhando pontos que considerar necessários.
+
+## Cronograma e Participantes
+
+O participante será o integrante do Grupo 06, [Vinicius Vieira](https://github.com/viniciusvieira00), que será responsável pela avaliação e revisão dos artefatos. O cronograma seguido já foi detalhado na página de [planejamento](./planejamento-verificacao-etapa-4).
+
+## Sumário Dos Dados
+
+A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
+
+<center>
+
+**Tabela 1** - Checklist de Verificação.
+
+|  ID   |                                                                      Descrição                                                                      | Avaliação | Observações | Fonte                                                                                  |
+| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------: | -------------------------------------------------------------------------------------- |
+|   1   |                                                 O planejamento foi feito usando o framework DECIDE?                                                 |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279-280.  |
+|   2   |                                                            Os objetivos foram definidos?                                                            |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   3   |                                          As perguntas que a avaliação pretende responder foram exploradas?                                          |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   4   |  Foram estabelecidas questões detalhadas para os objetivos da avaliação, considerando os usuários-alvo, suas atividades e os artefatos utilizados?  |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 265-266.  |
+|   5   |                            Os métodos de avaliação foram apresentados, juntamente com a justificativa para sua escolha?                             |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280, 272. |
+|   6   |            Foram detalhados prazos, orçamento, equipamentos disponíveis, bem como o grau de conhecimento e experiência dos avaliadores?             |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   7   |                                                         As questões éticas foram abordadas?                                                         |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   8   |                               Foi explicado como os dados da avaliação serão coletados, interpretados e apresentados?                               |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
+|   9   | As etapas básicas dos métodos de avaliação, como preparação, coleta de dados, interpretação, consolidação e relato dos resultados, foram descritas? |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 273.      |
+|  10   |                                                           Foi realizado um teste piloto?                                                            |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 276.      |
+|  11   |                          Existe um plano para reprojetar, caso sejam identificados problemas ou oportunidades de melhoria?                          |    NÃO    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 273.      |
+|       |
+_Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00), 2024._
+
+</center>
+
+## Problemas encontrados
+
+Com base na tabela preenchida, serão feitas considerações acerca de alguns itens da tabela.
+
+### ID 11 - Existe um plano para reprojetar, caso sejam identificados problemas ou oportunidades de melhoria?
+
+## Sugestões de Correções
+
+O item 11 da checklist não foi atendido. Para corrigir esse problema, é necessário criar um plano de ação para reprojetar o artefato, caso sejam identificados problemas ou oportunidades de melhoria. Esse plano deve ser detalhado e conter as etapas necessárias para a correção do artefato.
+
+## Acompanhamento
+
+A figura 1 é possível análisar um gráfico com o percentual de erros e acertos de acordo com checklist dos resultados obtidos acima.
+
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado da Checklist.</p></font>
+<iframe width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR9VoUT8bjBrSCNwu2cgBFb8HPhEsMxLxvIrF_C_MwW9FpNomR3oVgD56kJuTa4AZzVijRhh07mIalG/pubchart?oid=1316620803&amp;format=interactive"></iframe>Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font></figcaption>
+</figure>
+
+## Bibliografia
+
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição                                   | Autor(es)                                              | Revisor(es) |
+| ------ | ---------- | ------------------------------------------- | ------------------------------------------------------ | ----------- |
+| `1.0`  | 25/06/2024 | Criação da página e sua devida documentação | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
+| `1.1`  | 26/06/2024 | Verificação                                 | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
