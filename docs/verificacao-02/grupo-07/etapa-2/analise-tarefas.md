@@ -19,11 +19,11 @@ Quem fez a revisão do checklist foi o integrante Vinicius Vieira, e o executor 
 
 ### Checklist da tarefa Alterar endereço do veículo
 
-A tabela 2 a seguir apresenta a inspeção feita pelo membro Pedro Sena referente à tarefa [Alterar endereço do veículo](../../../analise-requisitos/aht.md#alterar-endereço-do-veículo).
+A tabela 1 a seguir apresenta a inspeção feita pelo membro Pedro Sena referente à tarefa [Alterar endereço do veículo](../../../analise-requisitos/aht.md#alterar-endereço-do-veículo).
 
 <center>
 
-**Tabela 2** - Checklist para Alterar endereço do veículo.
+**Tabela 1** - Checklist para Alterar endereço do veículo.
 
 | ID  | Descrição | Página | Avaliação | Observações |
 | --- | ---- | ----- | :-------: | :---------: |
@@ -40,6 +40,8 @@ A tabela 2 a seguir apresenta a inspeção feita pelo membro Pedro Sena referent
 | 11  | (GOMS) O modelo GOMS obedece a notação? | 197 |  Não | - |
 | 12  | (GOMS) A numeração dos métodos é coesa?  | 197 | - |  Não há métodos |
 | 13  | (GOMS) A numeração dos objetivos é coesa? | 197 | Sim | - |
+
+</center>
 
 #### Observações
 
@@ -70,6 +72,8 @@ A tabela 2 a seguir apresenta a inspeção feita pelo membro Pedro Sena referent
 | 11  | (GOMS) O modelo GOMS obedece a notação? | 197 |  Não | - |
 | 12  | (GOMS) A numeração dos métodos é coesa?  | 197 | - |  Não há métodos |
 | 13  | (GOMS) A numeração dos objetivos é coesa? | 197 | Sim | - |
+
+</center>
 
 #### Observações
 
@@ -102,6 +106,9 @@ A tabela 2 a seguir apresenta a checklist referente à Solicitação de Ficha de
 
 
 _Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
+
+</center>
+
 
 ### Checklist da  Checar e gerar certificado
 
