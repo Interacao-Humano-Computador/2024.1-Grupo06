@@ -27,14 +27,14 @@ Quem fez a revisão do checklist foi o integrante Vinicius Vieira, e o executor 
 
 | ID  | Descrição | Página | Avaliação | Observações |
 | --- | ----- | ---- | :-------: | :---------: |
-| 1   | Descrevem comportamento e experiências dos atores?| 183  |     -     |      -      |
-| 2   | Cenários têm ambiente ou contexto?  | 183 |   -     |      -      |
-| 3   | Cenários têm atores?  | 183 |   -     |      -      |
-| 4   | Cenários têm objetivos?  | 184 |     -     |      -      |
-| 5   | Cenários têm planejamento?| 184 |     -     |      -      |
-| 6   | Cenários têm ações?  |   184 | -     |      -      |
-| 7   | Cenários têm eventos (características ou eventos externos do computador ou ambiente)?  | 184 |     -     |      -      |
-| 8   | Cenários têm avaliação?  | 184 |    -     |      -      |
+| 1   | Descrevem comportamento e experiências dos atores?| 183  |     Sim     |      -      |
+| 2   | Cenários têm ambiente ou contexto?  | 183 |   -     |      Sim      |
+| 3   | Cenários têm atores?  | 183 |   Sim     |      -      |
+| 4   | Cenários têm objetivos?  | 184 |     Sim     |      -      |
+| 5   | Cenários têm planejamento?| 184 |     Sim    |      -      |
+| 6   | Cenários têm ações?  |   184 | Sim    |      -      |
+| 7   | Cenários têm eventos (características ou eventos externos do computador ou ambiente)?  | 184 |     Sim     |      -      |
+| 8   | Cenários têm avaliação?  | 184 |    Sim   |      -      |
 
 
 
