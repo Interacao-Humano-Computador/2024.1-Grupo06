@@ -25,20 +25,24 @@ Quem fez a revisão do checklist foi o integrante Vinicius Vieira, e o executor 
 
 | ID  | Descrição   | Página | Avaliação | Observações |
 | --- | ------  | --- | :-------: | :---------: |
-| 1   | Personas têm identidade? | 177 |     -     |      -      |
-| 2   | Personas têm status?   | 177 |   -     |      -      |
-| 3   | Personas têm objetivos?   | 177 |     -     |      -      |
-| 4   | Personas têm habilidades?   | 177 |     -     |      -      |
-| 5   | Personas têm tarefas?   |  177 |  -     |      -      |
-| 6   | Personas têm relacionamentos?| 177  |     -     |      -      |
-| 7   | Personas têm requisitos?   | 177 |   -     |      -      |
-| 8   | Personas têm expectativas?   | 177 |    -     |      -      |
-| 9   | Possui pelo menos persona primária?  | 179 |     -     |      -      |
+| 1   | Personas têm identidade? | 177 |     Sim     |      -      |
+| 2   | Personas têm status?   | 177 |   Não    |      -      |
+| 3   | Personas têm objetivos?   | 177 |     Sim     |      -      |
+| 4   | Personas têm habilidades?   | 177 |    Sim     |      -      |
+| 5   | Personas têm tarefas?   |  177 |  Sim     |      -      |
+| 6   | Personas têm relacionamentos?| 177  |     Não     |      -      |
+| 7   | Personas têm requisitos?   | 177 |  Sim     |      -      |
+| 8   | Personas têm expectativas?   | 177 |    Sim     |      -      |
+| 9   | Possui pelo menos persona primária?  | 179 |     Sim     |      -      |
 
 
 _Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
 
 </center>
+
+#### Observações
+
+2 - Tem status, mas não especifica primária, secundária ou anti-persona.
 
 ## Acompanhamento
 

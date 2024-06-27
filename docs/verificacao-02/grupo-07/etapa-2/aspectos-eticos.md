@@ -25,12 +25,12 @@ Quem fez a revisão do checklist foi o integrante Vinicius Vieira, e o executor 
 
 | ID  | Descrição | Página | Avaliação | Observações |
 | --- | ---- | --- | :-------: | :---------: |
-| 1   |  Possui termo de consentimento?   |  141   | -     |      -      |
-| 2   |  No termo de consentimento, o pesquisador explica os objetivos da pesquisa aos participantes? | 141  |     -     |      -      |
-| 3   |  No termo de consentimento, o pesquisador garante aos participantes a confidencialidade e a privacidade dos dados brutos coletados?  | 141 |     -     |      -      |
-| 4   |  No termo de consentimento, o pesquisador garante anonimato dos participantes?   | 142 |     -     |      -      |
-| 5   |  No termo de consentimento, há campo para que o participante ateste estar ciente, esclarecido e está consentindo livremente com a pesquisa?   |  142  | -     |      -      |
-| 6   |  No termo de consentimento, há campo para assinatura?   | 142 |     -     |      -      |
+| 1   |  Possui termo de consentimento?   |  141   | Sim    |      -      |
+| 2   |  No termo de consentimento, o pesquisador explica os objetivos da pesquisa aos participantes? | 141  |     Sim     |      -      |
+| 3   |  No termo de consentimento, o pesquisador garante aos participantes a confidencialidade e a privacidade dos dados brutos coletados?  | 141 |     Sim     |      -      |
+| 4   |  No termo de consentimento, o pesquisador garante anonimato dos participantes?   | 142 |     Sim     |      -      |
+| 5   |  No termo de consentimento, há campo para que o participante ateste estar ciente, esclarecido e está consentindo livremente com a pesquisa?   |  142  | Sim     |      -      |
+| 6   |  No termo de consentimento, há campo para assinatura?   | 142 |     Sim     |      -      |
 
 _Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
 
