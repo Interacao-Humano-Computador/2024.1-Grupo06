@@ -14,7 +14,7 @@ Os resultados da verificação dos artefatos foram obtidos a partir das checklis
 
 ## Cronograma e Participantes
 
-O integrante do Grupo 06, [Vinicius Vieira](https://github.com/viniciusvieira00), será responsável pela avaliação e revisão dos artefatos. O cronograma seguido já foi detalhado na página de [planejamento](./planejamento-verificacao-etapa-4).
+Os participante será o integrante do Grupo 06, [Vinicius Vieira](https://github.com/viniciusvieira00), que foi o responsável pela realização do checklist e [Filipe Carvalho](https://github.com/Filipe-002) por verificar os artefatos do checklist. O cronograma seguido já foi detalhado na página de [planejamento](./planejamento-verificacao-etapa-4).
 
 ## Sumário Dos Dados
 
@@ -24,14 +24,14 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
 **Tabela 1** - Checklist de Verificação.
 
-|  ID   |                                                    Descrição                                                     | Avaliação | Observações | Fonte                                                                                 |
-| :---: | :--------------------------------------------------------------------------------------------------------------: | :-------: | :---------: | ------------------------------------------------------------------------------------- |
-|   1   |                        As questões éticas foram descritas e tratadas de maneira adequada?                        |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.     |
-|   2   |                             Os objetivos do artefato estão claramente estabelecidos?                             |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.     |
-|   3   |                O método a ser utilizado foi descrito, bem como a justificativa para sua escolha?                 |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.     |
-|   4   |                 A seleção de usuários para a entrevista é compatível com o perfil dos usuários?                  |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 274.     |
-|   5   | Foram definidos o recrutamento dos participantes, os equipamentos que serão utilizados, os prazos e o orçamento? |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 273.     |
-|   6   |      A avaliação, interpretação e apresentação dos dados foram planejadas considerando o método escolhido?       |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279-280. |
+|  ID   |                                                    Descrição                                                     | Avaliação | Observações | Fonte                    |
+| :---: | :--------------------------------------------------------------------------------------------------------------: | :-------: | :---------: | ------------------------ |
+|   1   |                        As questões éticas foram descritas e tratadas de maneira adequada?                        |    SIM    |      -      | Capítulo 11, p. 280.     |
+|   2   |                             Os objetivos do artefato estão claramente estabelecidos?                             |    SIM    |      -      | Capítulo 11, p. 280.     |
+|   3   |                O método a ser utilizado foi descrito, bem como a justificativa para sua escolha?                 |    SIM    |      -      | Capítulo 11, p. 280.     |
+|   4   |                 A seleção de usuários para a entrevista é compatível com o perfil dos usuários?                  |    SIM    |      -      | Capítulo 11, p. 274.     |
+|   5   | Foram definidos o recrutamento dos participantes, os equipamentos que serão utilizados, os prazos e o orçamento? |    SIM    |      -      | Capítulo 11, p. 273.     |
+|   6   |      A avaliação, interpretação e apresentação dos dados foram planejadas considerando o método escolhido?       |    SIM    |      -      | Capítulo 11, p. 279-280. |
 
 _Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00), 2024._
 

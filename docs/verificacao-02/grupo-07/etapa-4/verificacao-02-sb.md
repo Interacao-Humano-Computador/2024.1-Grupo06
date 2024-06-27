@@ -14,7 +14,7 @@ Os resultados da verificação dos artefatos foram obtidos a partir das checklis
 
 ## Cronograma e Participantes
 
-O integrante do Grupo 06, [Vinicius Vieira](https://github.com/viniciusvieira00), será responsável pela avaliação e revisão dos artefatos. O cronograma seguido já foi detalhado na página de [planejamento](./planejamento-verificacao-etapa-4).
+Os participante será o integrante do Grupo 06, [Vinicius Vieira](https://github.com/viniciusvieira00), que foi o responsável pela realização do checklist e [Filipe Carvalho](https://github.com/Filipe-002) por verificar os artefatos do checklist. O cronograma seguido já foi detalhado na página de [planejamento](./planejamento-verificacao-etapa-4).
 
 ## Sumário Dos Dados
 
@@ -24,15 +24,15 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
 **Tabela 1** - Checklist de Verificação.
 
-|  ID   |                                                 Descrição                                                  | Avaliação  | Observações | Fonte                                                                             |
-| :---: | :--------------------------------------------------------------------------------------------------------: | :--------: | :---------: | --------------------------------------------------------------------------------- |
-|   1   |            Os objetivos e o escopo da avaliação que originaram os resultados foram informados?             |    SIM     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
-|   2   |                           A metodologia adotada para a avaliação foi informada?                            |    SIM     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
-|   3   | Foram informados o número de participantes, os perfis de usuário e os avaliadores envolvidos na avaliação? | INCOMPLETO |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
-|   4   |            Foi apresentado um sumário geral dos dados coletados, incluindo tabelas e gráficos?             | INCOMPLETO |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
-|   5   |                          Foi feita a interpretação e análise dos dados coletados?                          | INCOMPLETO |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
-|   6   |                            Foi apresentada uma lista dos problemas encontrados?                            | INCOMPLETO |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
-|   7   |                      Existe um planejamento de reprojeto baseado nos dados coletados?                      |    SIM     |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279. |
+|  ID   |                                                 Descrição                                                  | Avaliação  | Observações | Fonte                |
+| :---: | :--------------------------------------------------------------------------------------------------------: | :--------: | :---------: | -------------------- |
+|   1   |            Os objetivos e o escopo da avaliação que originaram os resultados foram informados?             |    SIM     |      -      | Capítulo 11, p. 279. |
+|   2   |                           A metodologia adotada para a avaliação foi informada?                            |    SIM     |      -      | Capítulo 11, p. 279. |
+|   3   | Foram informados o número de participantes, os perfis de usuário e os avaliadores envolvidos na avaliação? | INCOMPLETO |      -      | Capítulo 11, p. 279. |
+|   4   |            Foi apresentado um sumário geral dos dados coletados, incluindo tabelas e gráficos?             | INCOMPLETO |      -      | Capítulo 11, p. 279. |
+|   5   |                          Foi feita a interpretação e análise dos dados coletados?                          | INCOMPLETO |      -      | Capítulo 11, p. 279. |
+|   6   |                            Foi apresentada uma lista dos problemas encontrados?                            | INCOMPLETO |      -      | Capítulo 11, p. 279. |
+|   7   |                      Existe um planejamento de reprojeto baseado nos dados coletados?                      |    SIM     |      -      | Capítulo 11, p. 279. |
 
 _Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00), 2024._
 

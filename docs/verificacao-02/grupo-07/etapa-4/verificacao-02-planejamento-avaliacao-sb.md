@@ -14,7 +14,7 @@ Os resultados da verificação dos artefatos foram obtidos a partir das checklis
 
 ## Cronograma e Participantes
 
-O integrante do Grupo 06, [Vinicius Vieira](https://github.com/viniciusvieira00), será responsável pela avaliação e revisão dos artefatos. O cronograma seguido já foi descrito na página de [planejamento](./planejamento-verificacao-etapa-4).
+Os participante será o integrante do Grupo 06, [Vinicius Vieira](https://github.com/viniciusvieira00), que foi o responsável pela realização do checklist e [Filipe Carvalho](https://github.com/Filipe-002) por verificar os artefatos do checklist. O cronograma seguido já foi detalhado na página de [planejamento](./planejamento-verificacao-etapa-4).
 
 ## Sumário Dos Dados
 
@@ -24,19 +24,19 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
 **Tabela 1** - Checklist de Verificação.
 
-|  ID   |                                                                      Descrição                                                                      | Avaliação | Observações | Fonte                                                                                  |
-| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------: | -------------------------------------------------------------------------------------- |
-|   1   |                                                 O planejamento foi feito usando o framework DECIDE?                                                 |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 279-280.  |
-|   2   |                                                            Os objetivos foram definidos?                                                            |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
-|   3   |                                          As perguntas que a avaliação pretende responder foram exploradas?                                          |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
-|   4   |  Foram estabelecidas questões detalhadas para os objetivos da avaliação, considerando os usuários-alvo, suas atividades e os artefatos utilizados?  |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 265-266.  |
-|   5   |                            Os métodos de avaliação foram apresentados, juntamente com a justificativa para sua escolha?                             |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280, 272. |
-|   6   |            Foram detalhados prazos, orçamento, equipamentos disponíveis, bem como o grau de conhecimento e experiência dos avaliadores?             |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
-|   7   |                                                         As questões éticas foram abordadas?                                                         |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
-|   8   |                               Foi explicado como os dados da avaliação serão coletados, interpretados e apresentados?                               |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 280.      |
-|   9   | As etapas básicas dos métodos de avaliação, como preparação, coleta de dados, interpretação, consolidação e relato dos resultados, foram descritas? |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 273.      |
-|  10   |                                                           Foi realizado um teste piloto?                                                            |    SIM    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 276.      |
-|  11   |                          Existe um plano para reprojetar, caso sejam identificados problemas ou oportunidades de melhoria?                          |    NÃO    |      -      | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Capítulo 11, p. 273.      |
+|  ID   |                                                                      Descrição                                                                      | Avaliação | Observações | Fonte                     |
+| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------: | ------------------------- |
+|   1   |                                                 O planejamento foi feito usando o framework DECIDE?                                                 |    SIM    |      -      | Capítulo 11, p. 279-280.  |
+|   2   |                                                            Os objetivos foram definidos?                                                            |    SIM    |      -      | Capítulo 11, p. 280.      |
+|   3   |                                          As perguntas que a avaliação pretende responder foram exploradas?                                          |    SIM    |      -      | Capítulo 11, p. 280.      |
+|   4   |  Foram estabelecidas questões detalhadas para os objetivos da avaliação, considerando os usuários-alvo, suas atividades e os artefatos utilizados?  |    SIM    |      -      | Capítulo 11, p. 265-266.  |
+|   5   |                            Os métodos de avaliação foram apresentados, juntamente com a justificativa para sua escolha?                             |    SIM    |      -      | Capítulo 11, p. 280, 272. |
+|   6   |            Foram detalhados prazos, orçamento, equipamentos disponíveis, bem como o grau de conhecimento e experiência dos avaliadores?             |    SIM    |      -      | Capítulo 11, p. 280.      |
+|   7   |                                                         As questões éticas foram abordadas?                                                         |    SIM    |      -      | Capítulo 11, p. 280.      |
+|   8   |                               Foi explicado como os dados da avaliação serão coletados, interpretados e apresentados?                               |    SIM    |      -      | Capítulo 11, p. 280.      |
+|   9   | As etapas básicas dos métodos de avaliação, como preparação, coleta de dados, interpretação, consolidação e relato dos resultados, foram descritas? |    SIM    |      -      | Capítulo 11, p. 273.      |
+|  10   |                                                           Foi realizado um teste piloto?                                                            |    SIM    |      -      | Capítulo 11, p. 276.      |
+|  11   |                          Existe um plano para reprojetar, caso sejam identificados problemas ou oportunidades de melhoria?                          |    NÃO    |      -      | Capítulo 11, p. 273.      |
 |       |
 _Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00), 2024._
 
