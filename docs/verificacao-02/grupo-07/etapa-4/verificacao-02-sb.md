@@ -66,12 +66,6 @@ A figura 1 é possível analisar um gráfico com o percentual de erros e acertos
 <iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR9VoUT8bjBrSCNwu2cgBFb8HPhEsMxLxvIrF_C_MwW9FpNomR3oVgD56kJuTa4AZzVijRhh07mIalG/pubchart?oid=1950061021&amp;format=interactive"></iframe><figcaption><font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font></figcaption>
 </figure>
 
-## Gravação da Verificação
-
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Vídeo 1</b> - Vídeo da verificação.</p></font>
-<iframe src="https://drive.google.com/file/d/1_L32yUYBQcDbjROVSjcWSzG_62ia7JR_/preview" width="640" height="480" allow="autoplay"></iframe><figcaption><font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font></figcaption>
-</figure>
 
 ## Bibliografia
 
