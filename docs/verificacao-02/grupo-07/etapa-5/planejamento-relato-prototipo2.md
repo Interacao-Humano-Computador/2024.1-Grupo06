@@ -26,15 +26,10 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
 | ID | Descrição                                                                                      | Avaliação | Observações |
 |----|------------------------------------------------------------------------------------------------|-----------|-------------|
-| 1  | O artefato possui introdução?                                                                   | Sim       |             |
-| 2  | O artefato possui uma bibliografia/referência bibliográfica?                                    | Sim       |             |
-| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim       |             |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                    | Não       |  Não possuem tabelas nem imagens           |
-| 5  | Todos os textos estão na norma padrão?                                                          | Sim       |             |
 | 6  | O documento possui um tópico sobre quais são os objetivos do relato?                           |  Sim         |             |
 | 7  | O documento possui um tópico sobre a metodologia de prototipação de papel?                      | Sim          |             |
-| 8  | O documento possui um tópico sobre quais foram os participantes e os seus perfis?               |   Sim        |             |
-| 9  | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?           | Sim          |             |
+| 8  | O documento possui um tópico sobre quais foram os participantes e os seus perfis?               |   Incompleto        |             |
+| 9  | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?           | Não          |             |
 | 10 | O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?   |  Sim         |             |
 | 11 | O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas? |   Sim        |             |
 | 12 | O documento está estruturado conforme os relatos realizados anteriormente?                      |   Sim        |             |

@@ -26,17 +26,12 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
 | ID | Descrição                                                                                      | Avaliação | Observações |
 |----|------------------------------------------------------------------------------------------------|-----------|-------------|
-| 1  | O artefato possui introdução?                                                                   | Sim       |             |
-| 2  | O artefato possui uma bibliografia/referência bibliográfica?                                    | Sim       |             |
-| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim       |             |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                    | Sim       |             |
-| 5  | Todos os textos estão na norma padrão?                                                          | Sim       |             |
 | 6  | Define objetivo e escopo de avaliação dos resultados?                                           | Sim        |  Definido em outro documento, porém indicado no própria análise em si.           |
 | 7  | Define o método de avaliação dos resultados?                                                    | Sim          |             |
 | 8  | O relato apresenta os participantes selecionados?                                               | Sim          |             |
 | 9  | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?           | Sim          |             |
 | 10 | Apresenta como foram abordados os problemas e dificuldades presentes nos resultados?           | Sim          |             |
-| 11 | Apresenta as sugestões de melhorias?                                                            |  Sim         |             |
+| 11 | Apresenta as sugestões de melhorias?                                                            |  Incompleto         |             |
 | 12 | Apresenta uma seção para o feedback dos usuários?                                               | Incompleto          |             |
 | 13 | Aborda como foi realizada a análise da interação do usuário com o artefato?                    | Sim          |             |
 | 14 | Define um tópico para sumarizar os principais resultados?                                        |   Incompleto        |             |
@@ -49,7 +44,6 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 _Fonte: [Filipe Carvalho](https://github.com/filipe-002), 2024._
 
 </center>
-
 
 
 ## Sugestões de Correções
