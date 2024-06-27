@@ -202,7 +202,6 @@ _Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
 
 A tabela 7 a seguir apresenta a checklist referente à análise de tarefas segundo Barbosa e Silva - capítulo 8.
 Iremos avaliar pelo método HTA, o checklist será referente a ele.
-
 <center>
 
 **Tabela 7** - Checklist para a análise de tarefas.
@@ -228,6 +227,7 @@ _Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
 ## Referências Bibliográficas
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro, 2021.
+
 
 ## Histórico de Versões
 

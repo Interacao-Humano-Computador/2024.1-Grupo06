@@ -17,6 +17,8 @@ Este planejamento tem o intuito de informar como se dará a verificação dos ar
 
 Para esta verificação, será utilizado o método de inspeção. Que também é bastante usado para identificar erros e antever defeitos de interface, Barbosa e Silva (2011, p.301), mas nesse contexto será usada para verificar artefatos do projeto.
 Os checklists serão compostos por:
+
+
 - ID (Número): identificador
 - Descrição (Texto): Requisito
 - Página (Número): Referente à página do trecho que inspirou a pergunta
